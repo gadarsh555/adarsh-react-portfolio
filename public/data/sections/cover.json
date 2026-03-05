@@ -56,7 +56,16 @@
         },
         {
           "id": 3,
-          "label": "GitHub | LinkedIn",
+          "label": "GitHub",
+          "link": {
+            "href": "https://github.com/gadarsh555",
+            "tooltipString": "open_website"
+          },
+          "faIcon": "fa-brands fa-github"
+        },
+        {
+          "id": 4,
+          "label": "LinkedIn",
           "link": {
             "href": "http://www.linkedin.com/in/gadarsh555/",
             "tooltipString": "open_website"
@@ -82,7 +91,7 @@
       "items": [
         {
           "id": 1,
-          "img": "",
+          "img": "images/pictures/Adarsh-Gautam.png",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
           "locales": {

@@ -41,7 +41,7 @@
         {
           "id": 1,
           "img": "",
-          "faIcon": "",
+          "faIcon": "fa-solid fa-graduation-cap",
           "faIconColors": { "bg": "", "fill": "" },
           "dateStart": { "year": 2018, "month": 8 },
           "dateEnd": { "year": 2022, "month": 6 },
@@ -54,6 +54,124 @@
               "text": "Graduated with a B.Tech (Hons) in Computer Science. CGPA: 8.33",
               "list": [],
               "tags": ["Computer Science", "B.Tech"]
+            },
+            "es": {
+              "title": "Licenciatura en Ciencias de la Computación (Honores)",
+              "province": "Jamshedpur",
+              "country": "India",
+              "institution": "Instituto Nacional de Tecnología Jamshedpur",
+              "text": "Graduado con una Licenciatura en Ciencias de la Computación (Honores). CGPA: 8.33",
+              "list": [],
+              "tags": ["Ciencias de la Computación", "Licenciatura"]
+            },
+            "fr": {
+              "title": "B.Tech (Hon) en Informatique",
+              "province": "Jamshedpur",
+              "country": "Inde",
+              "institution": "Institut National de Technologie Jamshedpur",
+              "text": "Diplômé avec un B.Tech (Hon) en Informatique. CGPA: 8.33",
+              "list": [],
+              "tags": ["Informatique", "B.Tech"]
+            },
+            "ko": {
+              "title": "컴퓨터 공학 학사 (우등)",
+              "province": "잠셰드퍼",
+              "country": "인도",
+              "institution": "잠셰드퍼 국립 기술 연구소",
+              "text": "컴퓨터 공학 학사 (우등) 졸업. CGPA: 8.33",
+              "list": [],
+              "tags": ["컴퓨터 공학", "학사"]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "dateStart": { "year": 2015, "month": 6 },
+          "dateEnd": { "year": 2017, "month": 5 },
+          "locales": {
+            "en": {
+              "title": "Higher Secondary - 82.2%",
+              "province": "",
+              "country": "India",
+              "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP",
+              "text": "Completed Higher Secondary (12th grade) under CBSE board with 82.2% marks.",
+              "list": [],
+              "tags": ["CBSE", "12th"]
+            },
+            "es": {
+              "title": "Educación Secundaria Superior - 82.2%",
+              "province": "",
+              "country": "India",
+              "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP",
+              "text": "Completó la Educación Secundaria Superior bajo la junta CBSE con 82.2% de calificaciones.",
+              "list": [],
+              "tags": ["CBSE", "12.º"]
+            },
+            "fr": {
+              "title": "Secondaire Supérieur - 82.2%",
+              "province": "",
+              "country": "Inde",
+              "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP",
+              "text": "Diplômé du secondaire supérieur sous le conseil CBSE avec 82,2 %.",
+              "list": [],
+              "tags": ["CBSE", "12ème"]
+            },
+            "ko": {
+              "title": "고등학교 졸업 - 82.2%",
+              "province": "",
+              "country": "인도",
+              "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP",
+              "text": "CBSE 위원회에서 82.2% 점수로 고등학교(12학년) 졸업.",
+              "list": [],
+              "tags": ["CBSE", "12학년"]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "img": "",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "dateEnd": { "year": 2015, "month": 5 },
+          "locales": {
+            "en": {
+              "title": "Secondary - 9.2 CGPA",
+              "province": "",
+              "country": "India",
+              "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP",
+              "text": "Completed Secondary (10th grade) under CBSE board with 9.2 CGPA.",
+              "list": [],
+              "tags": ["CBSE", "10th"]
+            },
+            "es": {
+              "title": "Secundaria - 9.2 CGPA",
+              "province": "",
+              "country": "India",
+              "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP",
+              "text": "Completó la Secundaria bajo la junta CBSE con 9.2 CGPA.",
+              "list": [],
+              "tags": ["CBSE", "10.º"]
+            },
+            "fr": {
+              "title": "Secondaire - 9.2 CGPA",
+              "province": "",
+              "country": "Inde",
+              "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP",
+              "text": "Diplômé du secondaire sous le conseil CBSE avec 9,2 CGPA.",
+              "list": [],
+              "tags": ["CBSE", "10ème"]
+            },
+            "ko": {
+              "title": "중학교 졸업 - 9.2 CGPA",
+              "province": "",
+              "country": "인도",
+              "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP",
+              "text": "CBSE 위원회에서 9.2 CGPA로 중학교(10학년) 졸업.",
+              "list": [],
+              "tags": ["CBSE", "10학년"]
             }
           }
         }
