@@ -10,13 +10,42 @@
 $min-contrast-ratio: 1.5 !default;
 
 /** Typography **/
-$font-family-base: 'Saira', sans-serif;
-$headings-font-family: 'Orbitron', sans-serif;
+$font-family-base: "Saira", sans-serif;
+$headings-font-family: "Orbitron", sans-serif;
 
 /** Static Colors **/
 $loader-background: #111111;
-$loader-contrast: #FFFFFF;
-$primary: #36ad59;
+$loader-contrast: #ffffff;
+
+/**
+ * THEME COLOR PRESETS
+ * Uncomment the theme you prefer below
+ * Each preset includes primary + secondary accent colors for modern depth
+ */
+
+// THEME 1: Deep Blue + Purple (ACTIVE - Recommended for 2024/2025)
+// $primary: #0066ff;
+// $secondary-accent: #7c3aed;
+
+// THEME 2: Indigo + Pink (Trendy & Creative)
+// $primary: #6366f1;
+// $secondary-accent: #ec4899;
+
+// THEME 3: Cyan + Blue (Tech-Forward) - NOW ACTIVE
+$primary: #00d9ff;
+$secondary-accent: #0066ff;
+
+// THEME 4: Orange + Red (Warm & Energetic)
+// $primary: #ff7a00;
+// $secondary-accent: #ff5555;
+
+// THEME 5: Emerald + Teal (Fresh & Professional)
+// $primary: #10b981;
+// $secondary-accent: #06b6d4;
+
+// THEME 6: Rose + Purple (Modern Premium)
+// $primary: #f43f5e;
+// $secondary-accent: #a855f7;
 
 /** Z-Indexing **/
 $z-index-background: -1;

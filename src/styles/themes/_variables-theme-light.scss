@@ -33,75 +33,75 @@
 
 @import "theme-variables-builder";
 
-$primary: #269366;
-$secondary: darken(#798287, 10%);
-$dark: #d1ead6;
+$primary: #00a8cc;
+$secondary: #0066ff;
+$dark: #e0f2fe;
 $danger: #932626;
-$muted: #7c8d7f;
+$muted: #64748b;
 
-$base-bg: #91d7aa;
-$base-bg-light: #a6e3b8;
-$base-bg-dark: #7ecb94;
+$base-bg: #f0f9ff;
+$base-bg-light: #e0f2fe;
+$base-bg-dark: #bae6fd;
 
-$texts: #202521;
-$texts-inverted: #EEE;
+$texts: #0c2d4a;
+$texts-inverted: #eee;
 
-$base-container-bg: #f5faf6;
-$base-container-bg-accent: #c2e9d0;
-$base-popover-bg: #cae1d4;
-$base-boards: lighten(#e6f6ea, 1%);
-$base-info-badges: lighten(#d2e8d8, 3%);
+$base-container-bg: #f8fcfe;
+$base-container-bg-accent: #cffafe;
+$base-popover-bg: #e0f2fe;
+$base-boards: lighten(#ecf9ff, 1%);
+$base-info-badges: lighten(#d4edfa, 3%);
 $empty: #ffffff;
 
-$borders: #eaf6eb;
+$borders: #e0f2fe;
 $borders-nav-mobile: rgba(white, 0.15);
 $borders-nav-mobile-accent: rgba(white, 0.6);
-$scrollbar-track: #daf5e1;
-$scrollbar-thumb: #55bd91;
+$scrollbar-track: #cffafe;
+$scrollbar-thumb: #0284c7;
 
 [data-theme="light"] {
-    @include build-theme(
-        // Theme Config...
-        /** DARK MODE: **/                  false,
+  @include build-theme(
+    // Theme Config...
+    /** DARK MODE: **/ false,
 
-        // Base Colors...
-        /** PRIMARY: **/                    $primary,
-        /** SECONDARY: **/                  $secondary,
-        /** DARK: **/                       $dark,
-        /** DANGER: **/                     $danger,
-        /** MUTED: **/                      $muted,
+    // Base Colors...
+    /** PRIMARY: **/ $primary,
+    /** SECONDARY: **/ $secondary,
+    /** DARK: **/ $dark,
+    /** DANGER: **/ $danger,
+    /** MUTED: **/ $muted,
 
-        // Main Layout Colors...
-        /** BG: **/                         $base-bg,
-        /** BG CONTRAST: **/                $base-bg-light,
-        /** BG CONTRAST DARKEN:**/          $base-bg-dark,
-        /** TEXTS: **/                      $texts,
-        /** TEXTS (INVERTED): **/           $texts-inverted,
+    // Main Layout Colors...
+    /** BG: **/ $base-bg,
+    /** BG CONTRAST: **/ $base-bg-light,
+    /** BG CONTRAST DARKEN:**/ $base-bg-dark,
+    /** TEXTS: **/ $texts,
+    /** TEXTS (INVERTED): **/ $texts-inverted,
 
-        // Nav
-        /** NAV MOBILE BG: **/              $base-boards,
-        /** NAV MOBILE: **/                 $texts,
-        /** NAV MOBILE BORDER: **/          $borders-nav-mobile-accent,
+    // Nav
+    /** NAV MOBILE BG: **/ $base-boards,
+    /** NAV MOBILE: **/ $texts,
+    /** NAV MOBILE BORDER: **/ $borders-nav-mobile-accent,
 
-        /** NAV MOBILE HOVER BG: **/        $base-boards,
-        /** NAV MOBILE HOVER: **/           $primary,
+    /** NAV MOBILE HOVER BG: **/ $base-boards,
+    /** NAV MOBILE HOVER: **/ $primary,
 
-        /** NAV MOBILE SELECTED BG: **/     $primary,
-        /** NAV MOBILE SELECTED: **/        $texts-inverted,
-        /** NAV MOBILE SELECTED BORDER: **/ $borders-nav-mobile,
+    /** NAV MOBILE SELECTED BG: **/ $primary,
+    /** NAV MOBILE SELECTED: **/ $texts-inverted,
+    /** NAV MOBILE SELECTED BORDER: **/ $borders-nav-mobile,
 
-        // Main Layout Elements...
-        /** SECTION BG: **/                 $base-container-bg,
-        /** CARD BG: **/                    $base-container-bg,
-        /** POPUPS BG: **/                  $base-popover-bg,
-        /** BOARDS: **/                     $base-boards,
-        /** INFO BADGE BG: **/              $base-info-badges,
-        /** INFO BADGE **/                  $texts,
-        /** EMPTY **/                       $empty,
+    // Main Layout Elements...
+    /** SECTION BG: **/ $base-container-bg,
+    /** CARD BG: **/ $base-container-bg,
+    /** POPUPS BG: **/ $base-popover-bg,
+    /** BOARDS: **/ $base-boards,
+    /** INFO BADGE BG: **/ $base-info-badges,
+    /** INFO BADGE **/ $texts,
+    /** EMPTY **/ $empty,
 
-        // Other Colors...
-        /** DEFAULT BORDERS: **/            $borders,
-        /** SCROLLBAR TRACK: **/            $scrollbar-track,
-        /** SCROLLBAR THUMB: **/            $scrollbar-thumb,
-    );
+    // Other Colors...
+    /** DEFAULT BORDERS: **/ $borders,
+    /** SCROLLBAR TRACK: **/ $scrollbar-track,
+    /** SCROLLBAR THUMB: **/ $scrollbar-thumb
+  );
 }
