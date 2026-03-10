@@ -2,7 +2,7 @@ import "./OptionPickerButton.scss"
 import React, {useEffect, useState} from 'react'
 import {Dropdown} from "react-bootstrap"
 
-function OptionPickerButton({ mode, options, selectedOptionId, onOptionSelected, tooltipLabel, showSelectedOptionOnDropdown = false }) {
+function OptionPickerButton({ mode, options, selectedOptionId, onOptionSelected, tooltipLabel, showSelectedOptionOnDropdown = false, drop = "down", toggleFaIcon = null }) {
     const defaultOption = {
         id: "default",
         faIcon: "fa-solid fa-circle"
@@ -19,9 +19,10 @@ function OptionPickerButton({ mode, options, selectedOptionId, onOptionSelected,
     const buttonBehaviorEnabled = mode === OptionPickerButton.Modes.MODE_BUTTON ||
         (mode === OptionPickerButton.Modes.MODE_AUTO && options.length <= 2)
 
-    const caretIcon = !buttonBehaviorEnabled && selectedOption.img ?
-        `fa-solid fa-caret-down` :
-        null
+    const showCaret = !buttonBehaviorEnabled && (selectedOption.img || toggleFaIcon)
+    const caretIcon = showCaret
+        ? `fa-solid fa-caret-${drop === "up" ? "up" : "down"}`
+        : null
 
     const _onToggleClicked = () => {
         if(!buttonBehaviorEnabled)
@@ -43,11 +44,12 @@ function OptionPickerButton({ mode, options, selectedOptionId, onOptionSelected,
 
     return (
         <div className={`btn-option-picker`}>
-            <Dropdown>
+            <Dropdown drop={drop}>
                 <OptionPickerButtonToggle option={selectedOption}
                                           caretIcon={caretIcon}
                                           onClick={_onToggleClicked}
-                                          tooltipLabel={tooltipLabel}/>
+                                          tooltipLabel={tooltipLabel}
+                                          toggleFaIcon={toggleFaIcon}/>
 
                 {!buttonBehaviorEnabled && (
                     <OptionPickerButtonMenu availableOptions={availableOptions}
@@ -59,13 +61,16 @@ function OptionPickerButton({ mode, options, selectedOptionId, onOptionSelected,
     )
 }
 
-function OptionPickerButtonToggle({ option, caretIcon, onClick, tooltipLabel }) {
+function OptionPickerButtonToggle({ option, caretIcon, onClick, tooltipLabel, toggleFaIcon }) {
+    const displayOption = toggleFaIcon
+        ? { ...option, img: undefined, faIcon: toggleFaIcon }
+        : option
     return (
         <Dropdown.Toggle variant={`transparent`}
                          className={`btn-option-picker-toggle`}
                          onClickCapture={onClick}
                          data-tooltip={tooltipLabel}>
-            <OptionPickerButtonPickerIcon   option={option}
+            <OptionPickerButtonPickerIcon   option={displayOption}
                                             size={2}/>
 
             {caretIcon && (
@@ -80,7 +85,7 @@ function OptionPickerButtonMenu({ availableOptions, selectedOptionId, onClick })
     const borderClass = hasSelectedOption ? 'dropdown-item-no-border' : ''
 
     return (
-        <Dropdown.Menu>
+        <Dropdown.Menu className="btn-option-picker-dropdown-menu">
             {availableOptions.map((option, key) => (
                 <Dropdown.Item key={key}
                                className={`btn-option-picker-menu-item ${borderClass} ${option.id === selectedOptionId ? 'btn-option-picker-menu-item-selected' : ''}`}

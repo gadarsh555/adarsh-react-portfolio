@@ -40,11 +40,15 @@ export default class ArticleItemDataWrapper {
         this.faIconColors = this._parseColor(rawData.faIconColors, theme)
 
         this.img = language.parseJsonText(rawData.img)
+        this.images = Array.isArray(rawData.images)
+            ? rawData.images.map((i) => (typeof i === "string" ? i : i?.src || i?.url || ""))
+            : []
         this.label = rawData.label
         this.link = this._parseLink(rawData.link, language)
         this.copyToClipboardButton = rawData.copyToClipboardButton || false
         this.locales = this._parseLocales(rawData.locales, language)
         this.percentage = this._parseNumber(rawData.percentage, 0, 100)
+        this.experienceYears = this._parseNumber(rawData.experienceYears, 0, 99)
         this.preview = this._parsePreview(rawData.preview, language)
     }
 
@@ -117,6 +121,7 @@ export default class ArticleItemDataWrapper {
             title: language.getTranslation(locales, "title", null),
             country: language.getTranslation(locales, "country", null),
             institution: language.getTranslation(locales, "institution", null),
+            institutionBadge: language.getTranslation(locales, "institutionBadge", null),
             level: language.getTranslation(locales, "level", null),
             list: language.getTranslation(locales, "list", null),
             province: language.getTranslation(locales, "province", null),
@@ -212,7 +217,7 @@ export default class ArticleItemDataWrapper {
 
     listProps() {
         const props = []
-        const staticKeys = ["id", "label", "img", "faIcon", "faIconColors", "link", "dateStart", "dateEnd", "percentage"]
+        const staticKeys = ["id", "label", "img", "faIcon", "faIconColors", "link", "dateStart", "dateEnd", "percentage", "experienceYears"]
         for (const key of staticKeys)
             props.push(this._parsePropForListing(key, this[key]))
 

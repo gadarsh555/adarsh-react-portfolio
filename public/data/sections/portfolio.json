@@ -24,7 +24,31 @@
         "title_short_nav": "포트폴리오",
         "title_long_prefix": "이것은 내",
         "title_long": "{{포트폴리오}}입니다"
-      }
+      },
+      "hi": { "title_short": "पोर्टफोलियो", "title_short_nav": "पोर्टफोलियो", "title_long_prefix": "देखें", "title_long": "मेरा {{पोर्टफोलियो}}" },
+      "bn": { "title_short": "পোর্টফোলিও", "title_short_nav": "পোর্টফোলিও", "title_long_prefix": "দেখুন", "title_long": "আমার {{পোর্টফোলিও}}" },
+      "te": { "title_short": "పోర్ట్‌ఫోలియో", "title_short_nav": "పోర్ట్‌ఫోలియో", "title_long_prefix": "చూడండి", "title_long": "నా {{పోర్ట్‌ఫోలియో}}" },
+      "ta": { "title_short": "போர்ட்ஃபோலியோ", "title_short_nav": "போர்ட்ஃபோலியோ", "title_long_prefix": "பார்க்கவும்", "title_long": "எனது {{போர்ட்ஃபோலியோ}}" },
+      "mr": { "title_short": "पोर्टफोलियो", "title_short_nav": "पोर्टफोलियो", "title_long_prefix": "पहा", "title_long": "माझे {{पोर्टफोलियो}}" },
+      "gu": { "title_short": "પોર્ટફોલિયો", "title_short_nav": "પોર્ટફોલિયો", "title_long_prefix": "જુઓ", "title_long": "મારું {{પોર્ટફોલિયો}}" },
+      "pa": { "title_short": "ਪੋਰਟਫੋਲੀਓ", "title_short_nav": "ਪੋਰਟਫੋਲੀਓ", "title_long_prefix": "ਦੇਖੋ", "title_long": "ਮੇਰਾ {{ਪੋਰਟਫੋਲੀਓ}}" },
+      "ml": { "title_short": "പോർട്ട്ഫോളിയോ", "title_short_nav": "പോർട്ട്ഫോളിയോ", "title_long_prefix": "നോക്കുക", "title_long": "എന്റെ {{പോർട്ട്ഫോളിയോ}}" },
+      "kn": { "title_short": "ಪೋರ್ಟ್‌ಫೋಲಿಯೋ", "title_short_nav": "ಪೋರ್ಟ್‌ಫೋಲಿಯೋ", "title_long_prefix": "ನೋಡಿ", "title_long": "ನನ್ನ {{ಪೋರ್ಟ್‌ಫೋಲಿಯೋ}}" },
+      "or": { "title_short": "ପୋର୍ଟଫୋଲିଓ", "title_short_nav": "ପୋର୍ଟଫୋଲିଓ", "title_long_prefix": "ଦେଖନ୍ତୁ", "title_long": "ମୋର {{ପୋର୍ଟଫୋଲିଓ}}" },
+      "as": { "title_short": "পোর্টফোলিঅ'", "title_short_nav": "পোর্টফোলিঅ'", "title_long_prefix": "চাওক", "title_long": "মোৰ {{পোর্টফোলিঅ'}}" },
+      "mai": { "title_short": "पोर्टफोलियो", "title_short_nav": "पोर्टफोलियो", "title_long_prefix": "देखू", "title_long": "महरा {{पोर्टफोलियो}}" },
+      "sd": { "title_short": "پورٽ فوليو", "title_short_nav": "پورٽ فوليو", "title_long_prefix": "ڏسو", "title_long": "منهنجو {{پورٽ فوليو}}" },
+      "kok": { "title_short": "पोर्टफोलिओ", "title_short_nav": "पोर्टफोलिओ", "title_long_prefix": "पळेयात", "title_long": "म्हजें {{पोर्टफोलिओ}}" },
+      "ne": { "title_short": "पोर्टफोलियो", "title_short_nav": "पोर्टफोलियो", "title_long_prefix": "हेर्नुहोस्", "title_long": "मेरो {{पोर्टफोलियो}}" },
+      "ks": { "title_short": "پورٹ فولیو", "title_short_nav": "پورٹ فولیو", "title_long_prefix": "ڈیکھو", "title_long": "مے چھ {{پورٹ فولیو}}" },
+      "ur": { "title_short": "پورٹ فولیو", "title_short_nav": "پورٹ فولیو", "title_long_prefix": "دیکھیں", "title_long": "میرا {{پورٹ فولیو}}" },
+      "zh": { "title_short": "作品集", "title_short_nav": "作品集", "title_long_prefix": "看看", "title_long": "我的{{作品集}}" },
+      "ja": { "title_short": "ポートフォリオ", "title_short_nav": "ポートフォリオ", "title_long_prefix": "ご覧ください", "title_long": "私の{{ポートフォリオ}}" },
+      "ar": { "title_short": "الأعمال", "title_short_nav": "الأعمال", "title_long_prefix": "اطلع على", "title_long": "{{أعمالي}}" },
+      "pt": { "title_short": "Portfólio", "title_short_nav": "Portfólio", "title_long_prefix": "Dê uma olhada", "title_long": "no meu {{Portfólio}}" },
+      "de": { "title_short": "Portfolio", "title_short_nav": "Portfolio", "title_long_prefix": "Schauen Sie sich", "title_long": "mein {{Portfolio}} an" },
+      "ru": { "title_short": "Портфолио", "title_short_nav": "Портфолио", "title_long_prefix": "Посмотрите", "title_long": "моё {{портфолио}}" },
+      "it": { "title_short": "Portfolio", "title_short_nav": "Portfolio", "title_long_prefix": "Dai un'occhiata al", "title_long": "mio {{Portfolio}}" }
     }
   },
 
@@ -33,30 +57,34 @@
       "id": 1,
       "component": "ArticlePortfolio",
       "locales": {
-        "en": {
-          "category_all": "All",
-          "category_apps": "Apps",
-          "category_web": "Web",
-          "category_utilities": "Utilities"
-        },
-        "es": {
-          "category_all": "Todo",
-          "category_apps": "Apps",
-          "category_web": "Web",
-          "category_utilities": "Utilidades"
-        },
-        "fr": {
-          "category_all": "Tout",
-          "category_apps": "Apps",
-          "category_web": "Web",
-          "category_utilities": "Utilitaires"
-        },
-        "ko": {
-          "category_all": "모두",
-          "category_apps": "앱",
-          "category_web": "웹",
-          "category_utilities": "유틸리티"
-        }
+        "en": { "category_all": "All", "category_apps": "Apps", "category_web": "Web", "category_utilities": "Utilities" },
+        "hi": { "category_all": "सभी", "category_apps": "ऐप्स", "category_web": "वेब", "category_utilities": "उपयोगिताएं" },
+        "bn": { "category_all": "সব", "category_apps": "অ্যাপ", "category_web": "ওয়েব", "category_utilities": "ইউটিলিটি" },
+        "te": { "category_all": "అన్నీ", "category_apps": "యాప్స్", "category_web": "వెబ్", "category_utilities": "యుటిలిటీలు" },
+        "ta": { "category_all": "அனைத்தும்", "category_apps": "பயன்பாடுகள்", "category_web": "வலை", "category_utilities": "பணிப்பொருட்கள்" },
+        "mr": { "category_all": "सर्व", "category_apps": "अॅप्स", "category_web": "वेब", "category_utilities": "उपयुक्तता" },
+        "gu": { "category_all": "બધા", "category_apps": "એપ્સ", "category_web": "વેબ", "category_utilities": "ઉપયોગિતા" },
+        "pa": { "category_all": "ਸਭ", "category_apps": "ਐਪਾਂ", "category_web": "ਵੈੱਬ", "category_utilities": "ਯੁਟਿਲੀਟੀ" },
+        "ml": { "category_all": "എല്ലാം", "category_apps": "ആപ്പുകൾ", "category_web": "വെബ്", "category_utilities": "യുട്ടിലിറ്റികൾ" },
+        "kn": { "category_all": "ಎಲ್ಲಾ", "category_apps": "ಆ್ಯಾಪ್‌ಗಳು", "category_web": "ವೆಬ್", "category_utilities": "ಉಪಯೋಗಿತಾ" },
+        "or": { "category_all": "ସମସ୍ତ", "category_apps": "ଆପ୍ସ୍", "category_web": "ୱେବ୍", "category_utilities": "ଉପଯୋଗିତା" },
+        "as": { "category_all": "সকলো", "category_apps": "এপছ", "category_web": "ৱেব", "category_utilities": "ইউটিলিটি" },
+        "mai": { "category_all": "सब", "category_apps": "ऐप्स", "category_web": "वेब", "category_utilities": "उपयोगिता" },
+        "sd": { "category_all": "سڀ", "category_apps": "ايپس", "category_web": "ويب", "category_utilities": "يٽيلٽيز" },
+        "kok": { "category_all": "सगळें", "category_apps": "ऐप्स", "category_web": "वेब", "category_utilities": "उपयोगिता" },
+        "ne": { "category_all": "सबै", "category_apps": "एप्स", "category_web": "वेब", "category_utilities": "उपकरणहरू" },
+        "ks": { "category_all": "سرب", "category_apps": "ایپس", "category_web": "ویب", "category_utilities": "یوٹیلیٹیز" },
+        "ur": { "category_all": "سب", "category_apps": "ایپس", "category_web": "ویب", "category_utilities": "یوٹیلیٹیز" },
+        "zh": { "category_all": "全部", "category_apps": "应用", "category_web": "网页", "category_utilities": "实用工具" },
+        "ja": { "category_all": "すべて", "category_apps": "アプリ", "category_web": "ウェブ", "category_utilities": "ユーティリティ" },
+        "ar": { "category_all": "الكل", "category_apps": "التطبيقات", "category_web": "الويب", "category_utilities": "الأدوات" },
+        "pt": { "category_all": "Todos", "category_apps": "Apps", "category_web": "Web", "category_utilities": "Utilitários" },
+        "de": { "category_all": "Alle", "category_apps": "Apps", "category_web": "Web", "category_utilities": "Dienstprogramme" },
+        "ru": { "category_all": "Все", "category_apps": "Приложения", "category_web": "Веб", "category_utilities": "Утилиты" },
+        "it": { "category_all": "Tutti", "category_apps": "App", "category_web": "Web", "category_utilities": "Utilità" },
+        "es": { "category_all": "Todo", "category_apps": "Apps", "category_web": "Web", "category_utilities": "Utilidades" },
+        "fr": { "category_all": "Tout", "category_apps": "Apps", "category_web": "Web", "category_utilities": "Utilitaires" },
+        "ko": { "category_all": "모두", "category_apps": "앱", "category_web": "웹", "category_utilities": "유틸리티" }
       },
       "settings": {
         "categorize_by": [
@@ -71,7 +99,7 @@
         {
           "id": 1,
           "categoryId": "category_apps",
-          "img": "",
+          "img": "/images/pictures/web-app.jpg",
           "faIcon": "fa-solid fa-mobile-screen-button",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
@@ -87,23 +115,40 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Social Media Website and Android App",
-              "text": "Implemented a <b>Social Media Platform</b> with Website Frontend in <b>ReactJs</b> and Android App Frontend in <b>React Native</b>, integrated with common Backend in <b>NodeJs</b>. Features include Signup-Login System, Add/Edit/Delete Posts and Pictures, Likes, Comments, Follow/Unfollow/RemoveFollowers, Edit Profile Settings, and Real Time Private Chat.",
-              "tags": [
-                "React",
-                "React Native",
-                "Node.js",
-                "MongoDB",
-                "SocketIO"
-              ]
-            }
+            "en": { "title": "Social Media Website and Android App", "text": "Implemented a <b>Social Media Platform</b> with Website Frontend in <b>ReactJs</b> and Android App Frontend in <b>React Native</b>, integrated with common Backend in <b>NodeJs</b>. Features include Signup-Login System, Add/Edit/Delete Posts and Pictures, Likes, Comments, Follow/Unfollow/RemoveFollowers, Edit Profile Settings, and Real Time Private Chat.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "hi": { "title": "सोशल मीडिया वेबसाइट और Android ऐप", "text": "<b>ReactJs</b> में वेबसाइट फ्रंटएंड और <b>React Native</b> में Android ऐप फ्रंटएंड के साथ <b>सोशल मीडिया प्लेटफॉर्म</b> जिसे <b>NodeJs</b> में सामान्य बैकएंड से जोड़ा गया। साइनअप-लॉगिन, पोस्ट/फोटो जोड़ें/संपादित करें/हटाएं, लाइक्स, कमेंट्स, फॉलो/अनफॉलो, प्रोफाइल सेटिंग्स और रियल टाइम प्राइवेट चैट।", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "bn": { "title": "সোশ্যাল মিডিয়া ওয়েবসাইট এবং অ্যান্ড্রয়েড অ্যাপ", "text": "<b>ReactJs</b> এ ওয়েবসাইট ফ্রন্টএন্ড এবং <b>React Native</b> এ অ্যান্ড্রয়েড অ্যাপ ফ্রন্টএন্ড সহ <b>সোশ্যাল মিডিয়া প্ল্যাটফর্ম</b> যা <b>NodeJs</b> এর সাধারণ ব্যাকএন্ডের সাথে সংযুক্ত। সাইনআপ-লগইন, পোস্ট/ছবি যোগ/সম্পাদনা/মুছুন, লাইক, কমেন্ট, ফলো/আনফলো, প্রোফাইল সেটিংস এবং রিয়েল টাইম প্রাইভেট চ্যাট।", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "te": { "title": "సోషల్ మీడియా వెబ్‌సైట్ మరియు ఆండ్రాయిడ్ యాప్", "text": "<b>ReactJs</b>లో వెబ్‌సైట్ ఫ్రంట్‌ఎండ్ మరియు <b>React Native</b>లో ఆండ్రాయిడ్ యాప్ ఫ్రంట్‌ఎండ్ తో <b>సోషల్ మీడియా ప్లాట్‌ఫారమ్</b>; <b>NodeJs</b> కామన్ బ్యాక్‌ఎండ్ తో ఇంటిగ్రేటెడ్. సైనప్-లాగిన్, పోస్ట్/ఫోటోలు జోడించండి/సవరించండి/తొలగించండి, లైక్స్, కామెంట్స్, ఫాలో/అన్‌ఫాలో, ప్రొఫైల్ సెట్టింగ్స్ మరియు రియల్ టైమ్ ప్రైవేట్ చాట్.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "ta": { "title": "சமூக ஊடக வலைத்தளம் மற்றும் ஆண்ட்ராய்டு பயன்பாடு", "text": "<b>ReactJs</b> இல் வலைத்தள முன்னோடி மற்றும் <b>React Native</b> இல் ஆண்ட்ராய்டு பயன்பாடு முன்னோடியுடன் <b>சமூக ஊடக தளம்</b>; <b>NodeJs</b> பொதுவான பின்னணியுடன் ஒருங்கிணைக்கப்பட்டது. பதிவு-உள்நுழைவு, இடுகைகள்/படங்கள் சேர்த்தல்/திருத்துதல்/நீக்குதல், விருப்பங்கள், கருத்துகள், பின்தொடர்/நிறுத்து, சுயவிவர அமைப்புகள் மற்றும் நேரடி தனிப்பட்ட அரட்டை.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "mr": { "title": "सोशल मीडिया वेबसाइट आणि Android अॅप", "text": "<b>ReactJs</b> मध्ये वेबसाइट फ्रंटएंड आणि <b>React Native</b> मध्ये Android अॅप फ्रंटएंड असलेले <b>सोशल मीडिया प्लॅटफॉर्म</b> जे <b>NodeJs</b> सामान्य बॅकएंडशी एकत्रित. साइनअप-लॉगिन, पोस्ट/फोटो जोडा/संपादा/हटवा, लाइक्स, कमेंट्स, फॉलो/अनफॉलो, प्रोफाइल सेटिंग्स आणि रिअल टाइम प्रायव्हेट चॅट.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "gu": { "title": "સોશિયલ મિડિયા વેબસાઇટ અને Android એપ", "text": "<b>ReactJs</b> માં વેબસાઇટ ફ્રન્ટએન્ડ અને <b>React Native</b> માં Android એપ ફ્રન્ટએન્ડ સાથે <b>સોશિયલ મિડિયા પ્લેટફોર્મ</b> જે <b>NodeJs</b> કોમન બેકએન્ડ સાથે ઇન્ટિગ્રેટેડ. સાઇનઅપ-લોગઇન, પોસ્ટ/ફોટા ઉમેરો/સંપાદિત/કાઢો, લાઇક્સ, કોમેન્ટ્સ, ફોલો/અનફોલો, પ્રોફાઇલ સેટિંગ્સ અને રિયલ ટાઇમ પ્રાઇવેટ ચેટ.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "pa": { "title": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਵੈੱਬਸਾਈਟ ਅਤੇ ਐਂਡਰਾਇਡ ਐਪ", "text": "<b>ReactJs</b> ਵਿੱਚ ਵੈੱਬਸਾਈਟ ਫਰੰਟਐਂਡ ਅਤੇ <b>React Native</b> ਵਿੱਚ ਐਂਡਰਾਇਡ ਐਪ ਫਰੰਟਐਂਡ ਵਾਲਾ <b>ਸੋਸ਼ਲ ਮੀਡੀਆ ਪਲੇਟਫਾਰਮ</b>; <b>NodeJs</b> ਕਾਮਨ ਬੈਕਐਂਡ ਨਾਲ ਇੰਟੀਗ੍ਰੇਟਡ. ਸਾਇਨਅੱਪ-ਲੌਗਇਨ, ਪੋਸਟ/ਫੋਟੋ ਜੋੜੋ/ਸੰਪਾਦਨ/ਹਟਾਓ, ਲਾਇਕਸ, ਕਮੈਂਟਸ, ਫੋਲੋ/ਅਨਫੋਲੋ, ਪ੍ਰੋਫਾਇਲ ਸੈਟਿੰਗਸ ਅਤੇ ਰੀਅਲ ਟਾਈਮ ਪ੍ਰਾਈਵੇਟ ਚੈਟ.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "ml": { "title": "സോഷ്യൽ മീഡിയ വെബ്സൈറ്റും ആൻഡ്രോയിഡ് ആപ്പും", "text": "<b>ReactJs</b> വെബ്സൈറ്റ് ഫ്രണ്ടെൻഡും <b>React Native</b> ആൻഡ്രോയിഡ് ആപ്പ് ഫ്രണ്ടെൻഡും ഉള്ള <b>സോഷ്യൽ മീഡിയ പ്ലാറ്റ്ഫോം</b>; <b>NodeJs</b> കോമൺ ബാക്ക്‌എൻഡുമായി സംയോജിപ്പിച്ചു. സൈൻ അപ്പ്-ലോഗിൻ, പോസ്റ്റ്/ഫോട്ടോ ചേർക്കുക/എഡിറ്റ്/ഡിലീറ്റ്, ലൈക്കുകൾ, കമെന്റുകൾ, ഫോളോ/അൺഫോളോ, പ്രൊഫൈൽ സെറ്റിംഗ്സ്, റിയൽ ടൈം പ്രൈവറ്റ് ചാറ്റ്.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "kn": { "title": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು ಆಂಡ್ರಾಯ್ಡ್ ಆ್ಯಾಪ್", "text": "<b>ReactJs</b> ನಲ್ಲಿ ವೆಬ್‌ಸೈಟ್ ಫ್ರಂಟ್‌ಎಂಡ್ ಮತ್ತು <b>React Native</b> ನಲ್ಲಿ ಆಂಡ್ರಾಯ್ಡ್ ಆ್ಯಾಪ್ ಫ್ರಂಟ್‌ಎಂಡ್ ಇರುವ <b>ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ವೇದಿಕೆ</b>; <b>Node.js</b> ಸಾಮಾನ್ಯ ಬ್ಯಾಕ್‌ಎಂಡ್‌ಜೊತೆ ಸಂಯೋಜಿತ. ಸೈನ್ ಅಪ್-ಲಾಗಿನ್, ಪೋಸ್ಟ್/ಫೋಟೋಗಳು ಸೇರಿಸಿ/ಸಂಪಾದಿಸಿ/ಅಳಿಸಿ, ಲೈಕ್ಸ್, ಕಾಮೆಂಟ್ಸ್, ಫಾಲೋ/ಅನ್‌ಫಾಲೋ, ಪ್ರೊಫೈಲ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ರಿಯಲ್ ಟೈಮ್ ಪ್ರೈವೇಟ್ ಚಾಟ್.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "or": { "title": "ସୋସିଆଲ ମିଡିଆ ୱେବସାଇଟ୍ ଏବଂ ଆଣ୍ଡ୍ରଏଡ୍ ଆପ୍", "text": "<b>ReactJs</b>ରେ ୱେବସାଇଟ୍ ଫ୍ରଣ୍ଟ୍ୟାଣ୍ଡ୍ ଓ <b>React Native</b>ରେ ଆଣ୍ଡ୍ରଏଡ୍ ଆପ୍ ଫ୍ରଣ୍ଟ୍ୟାଣ୍ଡ୍ ଥିବା <b>ସୋସିଆଲ ମିଡିଆ ପ୍ଲାଟଫର୍ମ</b>; <b>NodeJs</b> କମନ୍ ବ୍ୟାକେଣ୍ଡ୍ ସହିତ ସମନ୍ୱିତ। ସାଇନ୍ ଅପ୍-ଲଗ୍ ଇନ୍, ପୋଷ୍ଟ୍/ଫୋଟୋ ଯୋଗ କରିବା/ସମ୍ପାଦନ/ମିଟାଇବା, ଲାଇକ୍, କମେଣ୍ଟ୍, ଫଲୋ/ଅନ୍‌ଫଲୋ, ପ୍ରୋଫାଇଲ୍ ସେଟିଂସ୍ ଓ ରିଆଲ୍ ଟାଇମ୍ ପ୍ରାଇଭେଟ୍ ଚାଟ୍।", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "as": { "title": "ছ'চিয়েল মিডিয়া ৱেবছাইট আৰু এণ্ড্ৰইড এপ", "text": "<b>ReactJs</b> ত ৱেবছাইট ফ্ৰণ্টেণ্ড আৰু <b>React Native</b> ত এণ্ড্ৰইড এপ ফ্ৰণ্টেণ্ড সহ <b>ছ'চিয়েল মিডিয়া প্লেটফৰ্ম</b>; <b>NodeJs</b> কমন বেকএণ্ডৰ সৈতে সংযুক্ত। ছাইন অপ-লগইন, পোষ্ট/ফটো যোগ কৰা/সম্পাদনা/বিলোপ, লাইক, মন্তব্য, ফলো/আনফলো, প্ৰফাইল ছেটিংছ আৰু ৰিয়েল টাইম প্ৰাইভেট চ্যাট।", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "mai": { "title": "सोशल मीडिया वेबसाइट आरू Android एप", "text": "<b>ReactJs</b> मे वेबसाइट फ्रंटएंड आरू <b>React Native</b> मे Android एप फ्रंटएंड वाला <b>सोशल मीडिया प्लेटफॉर्म</b>; <b>NodeJs</b> कॉमन बैकएंड सँ इंटीग्रेटेड। साइनअप-लॉगिन, पोस्ट/फोटो जोड़ब/संपादन/मिटाब, लाइक्स, कमेंट्स, फॉलो/अनफॉलो, प्रोफाइल सेटिंग्स आरू रियल टाइम प्राइवेट चैट।", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "sd": { "title": "سوشل ميڊيا ويب سائيٽ ۽ Android ايپ", "text": "<b>ReactJs</b> ۾ ويب سائيٽ فرنٽ اينڊ ۽ <b>React Native</b> ۾ Android ايپ فرنٽ اينڊ سان <b>سوشل ميڊيا پليٽفارم</b>; <b>NodeJs</b> ڪامن بئڪ اينڊ سان مربوط. سائن اپ-لاگ ان، پوسٽ/فوٽو شامل ڪريو/ايڊٽ/حذف، لائڪس، ڪميٽس، فالو/انفالو، پروفائيل سيٽنگز ۽ ريئل ٽائيم پرائيويٽ چيٽ.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "kok": { "title": "सोशल मीडिया वेबसाइट आनी Android ऐप", "text": "<b>ReactJs</b> आत वेबसाइट फ्रंटएंड आनी <b>React Native</b> आत Android ऐप फ्रंटएंड आशिल्लें <b>सोशल मीडिया प्लॅटफॉर्म</b>; <b>NodeJs</b> कॉमन बॅकएंड क सय इंटीग्रेटेड। साइनअप-लॉगिन, पोस्ट/फोटो घालात/संपादित/काडात, लाइक्स, कमेंट्स, फॉलो/अनफॉलो, प्रोफाइल सेटिंग्स आनी रिअल टाइम प्रायव्हेट चॅट.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "ne": { "title": "सोशल मिडिया वेबसाइट र एन्ड्राइड एप", "text": "<b>ReactJs</b> मा वेबसाइट फ्रन्टएन्ड र <b>React Native</b> मा एन्ड्राइड एप फ्रन्टएन्ड भएको <b>सोशल मिडिया प्लेटफर्म</b>; <b>NodeJs</b> सामान्य ब्याकएन्ड संग एकीकृत। साइन अप-लग इन, पोस्ट/फोटो थप्नु/सम्पादन/मेट्नु, लाइकहरू, कमेन्टहरू, फलो/अनफलो, प्रोफाइल सेटिङहरू र रियल टाइम प्राइभेट च्याट।", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "ks": { "title": "سوشل میڈیا ویب سائٹ تہ اینڈرائیڈ ایپ", "text": "<b>ReactJs</b>س منز ویب سائٹ فرنٹ اینڈ تہ <b>React Native</b>س منز اینڈرائیڈ ایپ فرنٹ اینڈ آسن <b>سوشل میڈیا پلیٹ فارم</b>; <b>NodeJs</b> کامن بیک اینڈس نال انٹگریٹڈ۔ سائن اپ-لاگ ان، پوسٹ/فوٹو شامل کرُن/ایڈٹ/ڈیلیٹ، لائیکس، کمنٹس، فالو/انفالو، پروفائل سیٹنگس تہ رئیل ٹائم پرائیویٹ چیٹ۔", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "ur": { "title": "سوشل میڈیا ویب سائٹ اور Android ایپ", "text": "<b>ReactJs</b> میں ویب سائٹ فرنٹ اینڈ اور <b>React Native</b> میں Android ایپ فرنٹ اینڈ والا <b>سوشل میڈیا پلیٹ فارم</b> جو <b>NodeJs</b> کامن بیک اینڈ کے ساتھ مربوط۔ سائن اپ-لاگ ان، پوسٹ/فوٹو شامل کریں/ایڈٹ/ڈیلیٹ، لائیکس، کمنٹس، فالو/انفالو، پروفائل سیٹنگز اور رئیل ٹائم پرائیویٹ چیٹ۔", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "zh": { "title": "社交媒体网站和Android应用", "text": "使用<b>ReactJs</b>构建网站前端、<b>React Native</b>构建Android应用前端的<b>社交媒体平台</b>，与<b>NodeJs</b>通用后端集成。包含注册登录、帖子/图片增删改、点赞、评论、关注/取消关注、个人资料设置和实时私聊。", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "ja": { "title": "ソーシャルメディアウェブサイトとAndroidアプリ", "text": "<b>ReactJs</b>のウェブサイトフロントエンドと<b>React Native</b>のAndroidアプリフロントエンドを備えた<b>ソーシャルメディアプラットフォーム</b>。<b>NodeJs</b>共通バックエンドと統合。サインアップ・ログイン、投稿・写真の追加/編集/削除、いいね、コメント、フォロー/アンフォロー、プロフィール設定、リアルタイムプライベートチャット。", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "ar": { "title": "موقع التواصل الاجتماعي وتطبيق أندرويد", "text": "منصة <b>تواصل اجتماعي</b> بواجهة ويب في <b>ReactJs</b> وواجهة تطبيق أندرويد في <b>React Native</b>، متكاملة مع خلفية مشتركة في <b>NodeJs</b>. تسجيل الدخول، إضافة/تعديل/حذف المنشورات والصور، الإعجابات، التعليقات، المتابعة/إلغاء المتابعة، إعدادات الملف الشخصي والدردشة الخاصة في الوقت الفعلي.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "pt": { "title": "Website de Redes Sociais e App Android", "text": "Plataforma de <b>Redes Sociais</b> com frontend web em <b>ReactJs</b> e frontend Android em <b>React Native</b>, integrada com backend comum em <b>NodeJs</b>. Registo, login, adicionar/editar/apagar publicações e fotos, gostos, comentários, seguir/deixar de seguir, definições de perfil e chat privado em tempo real.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "de": { "title": "Social-Media-Website und Android-App", "text": "<b>Social-Media-Plattform</b> mit Website-Frontend in <b>ReactJs</b> und Android-App-Frontend in <b>React Native</b>, integriert mit gemeinsamer Backend in <b>NodeJs</b>. Anmeldung, Login, Beiträge/Fotos hinzufügen/bearbeiten/löschen, Likes, Kommentare, Folgen/Entfolgen, Profil-Einstellungen und Echtzeit-Privat-Chat.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "ru": { "title": "Сайт соцсети и Android-приложение", "text": "<b>Платформа соцсети</b> с веб-фронтендом на <b>ReactJs</b> и фронтендом Android-приложения на <b>React Native</b>; общий бэкенд на <b>NodeJs</b>. Регистрация, логин, добавление/редактирование/удаление постов и фото, лайки, комментарии, подписки, настройки профиля, приватный чат в реальном времени.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "it": { "title": "Sito Web e App Android per Social Media", "text": "Piattaforma <b>social media</b> con frontend web in <b>ReactJs</b> e frontend app Android in <b>React Native</b>, integrata con backend comune in <b>NodeJs</b>. Registrazione, login, aggiungi/modifica/elimina post e foto, like, commenti, segui/smetti di seguire, impostazioni profilo e chat privata in tempo reale.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "es": { "title": "Sitio Web de Redes Sociales y App Android", "text": "Plataforma de <b>redes sociales</b> con frontend web en <b>ReactJs</b> y frontend app Android en <b>React Native</b>, integrada con backend común en <b>NodeJs</b>. Registro, inicio de sesión, añadir/editar/eliminar publicaciones y fotos, me gusta, comentarios, seguir/dejar de seguir, ajustes de perfil y chat privado en tiempo real.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "fr": { "title": "Site Web et Application Android de Réseaux Sociaux", "text": "Plateforme de <b>réseaux sociaux</b> avec frontend web en <b>ReactJs</b> et frontend app Android en <b>React Native</b>, intégrée à un backend commun en <b>NodeJs</b>. Inscription, connexion, ajout/modification/suppression de publications et photos, likes, commentaires, suivre/ne plus suivre, paramètres de profil et chat privé en temps réel.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] },
+            "ko": { "title": "소셜 미디어 웹사이트 및 Android 앱", "text": "<b>ReactJs</b> 웹사이트 프론트엔드와 <b>React Native</b> Android 앱 프론트엔드가 있는 <b>소셜 미디어 플랫폼</b>; <b>NodeJs</b> 공통 백엔드와 통합. 회원가입-로그인, 게시물/사진 추가/수정/삭제, 좋아요, 댓글, 팔로우/언팔로우, 프로필 설정, 실시간 비공개 채팅.", "tags": ["React", "React Native", "Node.js", "MongoDB", "SocketIO"] }
           }
         },
         {
           "id": 2,
           "categoryId": "category_web",
-          "img": "",
+          "img": "/images/pictures/hospital.png",
           "faIcon": "fa-solid fa-hospital",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
@@ -119,17 +164,40 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Hospital Management Software",
-              "text": "Implemented a Software App which solves the problem of Hospital Management. It manages the tasks of Doctor, Patient, Receptionist as well as Medicine Pharmacy. Built with <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b>, and <b>RESTful API</b>.",
-              "tags": ["Node.js", "Express", "SQL", "REST API"]
-            }
+            "en": { "title": "Hospital Management Software", "text": "Implemented a Software App which solves the problem of Hospital Management. It manages the tasks of Doctor, Patient, Receptionist as well as Medicine Pharmacy. Built with <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b>, and <b>RESTful API</b>.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "hi": { "title": "हॉस्पिटल मैनेजमेंट सॉफ्टवेयर", "text": "हॉस्पिटल प्रबंधन की समस्या को हल करने वाला सॉफ्टवेयर। डॉक्टर, मरीज़, रिसेप्शनिस्ट और दवा फार्मेसी के कार्यों का प्रबंधन। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> और <b>RESTful API</b> से निर्मित।", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "bn": { "title": "হাসপাতাল ব্যবস্থাপনা সফটওয়্যার", "text": "হাসপাতাল ব্যবস্থাপনার সমস্যা সমাধানকারী সফটওয়্যার। ডাক্তার, রোগী, রিসেপশনিস্ট এবং মেডিসিন ফার্মেসির কাজ পরিচালনা করে। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> এবং <b>RESTful API</b> দিয়ে তৈরি।", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "te": { "title": "హాస్పిటల్ మేనేజ్మెంట్ సాఫ్ట్‌వేర్", "text": "ఆసుపత్రి నిర్వహణ సమస్యను పరిష్కరించే సాఫ్ట్‌వేర్ అప్లికేషన్। డాక్టర్, రోగి, రిసెప్షనిస్ట్ మరియు మెడిసిన్ ఫార్మసీ పనులను నిర్వహిస్తుంది। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> మరియు <b>RESTful API</b>తో నిర్మించబడింది.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "ta": { "title": "மருத்துவமனை மேலாண்மை மென்பொருள்", "text": "மருத்துவமனை மேலாண்மை சிக்கலை தீர்க்கும் மென்பொருள். மருத்துவர், நோயாளி, அரவைவாளர் மற்றும் மருந்து மருந்தக பணிகளை நிர்வகிக்கிறது. <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> மற்றும் <b>RESTful API</b> உடன் கட்டப்பட்டது.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "mr": { "title": "हॉस्पिटल मॅनेजमेंट सॉफ्टवेअर", "text": "हॉस्पिटल व्यवस्थापनाची समस्या सोडवणारे सॉफ्टवेअर. डॉक्टर, रुग्ण, रिसेप्शनिस्ट आणि औषध फार्मसीच्या कामाचे व्यवस्थापन। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> आणि <b>RESTful API</b> सह बांधले.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "gu": { "title": "હોસ્પિટલ મેનેજમેંટ સોફ્ટવેર", "text": "હોસ્પિટલ મેનેજમેંટની સમસ્યા ઉકેલતું સોફ્ટવેર. ડૉક્ટર, દર્દી, રિસેપ્શનિસ્ટ અને મેડિસિન ફાર્મસીના કાર્યોનું સંચાલન. <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> અને <b>RESTful API</b> સાથે બનાવ્યું.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "pa": { "title": "ਹਸਪਤਾਲ ਪ੍ਰਬੰਧਨ ਸਾਫਟਵੇਅਰ", "text": "ਹਸਪਤਾਲ ਪ੍ਰਬੰਧਨ ਦੀ ਸਮੱਸਿਆ ਹੱਲ ਕਰਨ ਵਾਲਾ ਸਾਫਟਵੇਅਰ। ਡਾਕਟਰ, ਮਰੀਜ਼, ਰਿਸੇਪਸ਼ਨਿਸਟ ਅਤੇ ਦਵਾਈ ਫਾਰਮੇਸੀ ਦੇ ਕਾਰਜਾਂ ਦਾ ਪ੍ਰਬੰਧਨ। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> ਅਤੇ <b>RESTful API</b> ਨਾਲ ਬਣਾਇਆ।", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "ml": { "title": "ആശുപത്രി നിയന്ത്രണ സോഫ്റ്റ്വെയർ", "text": "ആശുപത്രി നിയന്ത്രണ പ്രശ്നം പരിഹരിക്കുന്ന സോഫ്റ്റ്വെയർ. ഡോക്ടർ, രോഗി, റിസപ്ഷൻ‌നിസ്റ്റ്, മെഡിസിൻ ഫാർമസി ജോലികൾ നിയന്ത്രിക്കുന്നു. <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b>, <b>RESTful API</b> ഉപയോഗിച്ച് നിർമ്മിച്ചത്.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "kn": { "title": "ಆಸ್ಪತ್ರೆ ನಿರ್ವಹಣೆ ಸಾಫ್ಟ್‌ವೇರ್", "text": "ಆಸ್ಪತ್ರೆ ನಿರ್ವಹಣೆ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸುವ ಸಾಫ್ಟ್‌ವೇರ್. ಡಾಕ್ಟರ್, ರೋಗಿ, ರಿಸೆಪ್ಷನಿಸ್ಟ್ ಮತ್ತು ಮೆಡಿಸಿನ್ ಫಾರ್ಮಸಿ ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ. <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> ಮತ್ತು <b>RESTful API</b> ಹೊಂದಿದೆ.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "or": { "title": "ହସପିଟାଲ ମ୍ୟାନେଜମେଣ୍ଟ ସଫ୍ଟୱେର୍", "text": "ହସପିଟାଲ ପରିଚାଳନା ସମସ୍ୟା ସମାଧାନ କରୁଥିବା ସଫ୍ଟୱେର୍। ଡାକ୍ତର, ରୋଗୀ, ରିସେପସନିଷ୍ଟ ଓ ଔଷଧ ଫାର୍ମାସି କାର୍ଯ୍ୟ ପରିଚାଳନା। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> ଓ <b>RESTful API</b> ରେ ନିର୍ମିତ।", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "as": { "title": "চিকিৎসালয় ব্যৱস্থাপনা ছফ্টৱেৰ", "text": "চিকিৎসালয় ব্যৱস্থাপনা সমস্যা সমাধান কৰা ছফ্টৱেৰ। চিকিৎসক, ৰোগী, অভ্যর্থনাকাৰী আৰু ঔষধ ফাৰ্মাচীৰ কাম পৰিচালনা। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> আৰু <b>RESTful API</b> ৰে নিৰ্মাণ।", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "mai": { "title": "हॉस्पिटल मैनेजमेंट सॉफ्टवेयर", "text": "हॉस्पिटल प्रबंधन समस्या समाधान करब वाला सॉफ्टवेयर। डॉक्टर, मरीज़, रिसेप्शनिस्ट आरू दवा फार्मेसी क काम प्रबंधन। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> आरू <b>RESTful API</b> सँ निर्मित।", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "sd": { "title": "اسپتال انتظامي سافٽ ويئر", "text": "اسپتال انتظام جي مسئلو کي حل ڪندڙ سافٽ ويئر۔ ڊاڪٽر، مريض، ريسيپشنسٽ ۽ دوايي فارميسي جي ڪمن کي منظم ڪيو۔ <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> ۽ <b>RESTful API</b> سان ٺاهيو.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "kok": { "title": "हॉस्पिटल मॅनेजमेंट सॉफ्टवेयर", "text": "हॉस्पिटल व्यवस्थापनाचो प्रश्न सोडोवपी सॉफ्टवेयर। डॉक्टर, रुग्ण, रिसेप्शनिस्ट आनी औषध फार्मसीच्या कामाचें व्यवस्थापन। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> आनी <b>RESTful API</b> वापरून बांदलें।", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "ne": { "title": "अस्पताल व्यवस्थापन सफ्टवेयर", "text": "अस्पताल व्यवस्थापन समस्याको समाधान गर्ने सफ्टवेयर। डाक्टर, रोगी, रिसेपसनिस्ट र औषधि फार्मेसीको कार्य व्यवस्थापन। <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> र <b>RESTful API</b> बाट निर्माण।", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "ks": { "title": "اسپتال انتظام سافٹ ویئر", "text": "اسپتال انتظام چھ مسلو حل کرنس وۄن سافٹ ویئر۔ ڈاکٹر، مریض، رسیپشنسٹ تہ دوا فارمسی چھ کم منظم کران۔ <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> تہ <b>RESTful API</b> سان بناوَن۔", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "ur": { "title": "ہسپتال مینجمنٹ سافٹ ویئر", "text": "ہسپتال مینجمنٹ کے مسائل حل کرنے والا سافٹ ویئر۔ ڈاکٹر، مریض، رسیپشنسٹ اور دوا فارمسی کے کام کا انتظام۔ <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> اور <b>RESTful API</b> سے بنایا۔", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "zh": { "title": "医院管理软件", "text": "解决医院管理问题的软件应用。管理医生、患者、接待员及药房任务。使用<b>Node.js</b>、<b>Express.js</b>、<b>SQL</b>和<b>RESTful API</b>构建。", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "ja": { "title": "病院管理ソフトウェア", "text": "病院管理の課題を解決するソフトウェア。医師、患者、受付、薬局業務を管理。<b>Node.js</b>、<b>Express.js</b>、<b>SQL</b>、<b>RESTful API</b>で構築。", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "ar": { "title": "برنامج إدارة المستشفيات", "text": "تطبيق برمجي لحل مشكلة إدارة المستشفيات. إدارة مهام الطبيب والمريض والاستقبال والصيدلية. مبني بـ <b>Node.js</b> و<b>Express.js</b> و<b>SQL</b> و<b>RESTful API</b>.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "pt": { "title": "Software de Gestão Hospitalar", "text": "Aplicação de software que resolve problemas de gestão hospitalar. Gestão de tarefas de médico, paciente, receção e farmácia. Construído com <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> e <b>RESTful API</b>.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "de": { "title": "Krankenhausverwaltungssoftware", "text": "Software zur Lösung von Krankenhausverwaltungsproblemen. Verwaltung von Arzt-, Patient-, Empfangs- und Apothekenaufgaben. Gebaut mit <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> und <b>RESTful API</b>.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "ru": { "title": "Программа управления больницей", "text": "Программное приложение для решения задач управления больницей. Управление задачами врача, пациента, регистратуры и аптеки. Построено на <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> и <b>RESTful API</b>.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "it": { "title": "Software di Gestione Ospedaliera", "text": "App software per la gestione ospedaliera. Gestione di compiti di medico, paziente, reception e farmacia. Costruito con <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> e <b>RESTful API</b>.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "es": { "title": "Software de Gestión Hospitalaria", "text": "Aplicación software que resuelve la gestión hospitalaria. Gestiona tareas de médico, paciente, recepción y farmacia. Construido con <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> y <b>RESTful API</b>.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "fr": { "title": "Logiciel de Gestion Hospitalière", "text": "Application logicielle pour la gestion hospitalière. Gestion des tâches médecin, patient, réception et pharmacie. Construit avec <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b> et <b>RESTful API</b>.", "tags": ["Node.js", "Express", "SQL", "REST API"] },
+            "ko": { "title": "병원 관리 소프트웨어", "text": "병원 관리 문제를 해결하는 소프트웨어. 의사, 환자, 접수처, 약국 업무 관리. <b>Node.js</b>, <b>Express.js</b>, <b>SQL</b>, <b>RESTful API</b>로 구축.", "tags": ["Node.js", "Express", "SQL", "REST API"] }
           }
         },
         {
           "id": 3,
           "categoryId": "category_web",
-          "img": "",
+          "img": "/images/pictures/calculator-2.jpg",
           "faIcon": "fa-solid fa-calculator",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
@@ -145,17 +213,40 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "JEE Main Rank Calculator",
-              "text": "A Desktop Application built with <b>Java</b> and <b>SQL</b> Database for calculating <b>JEE Main Rank</b> with Common Rank List (CRL) and Category Rank List (CRL) features. Implements complex ranking algorithms and database management for competitive exam results.",
-              "tags": ["Java", "SQL", "Calculator"]
-            }
+            "en": { "title": "JEE Main Rank Calculator", "text": "A Desktop Application built with <b>Java</b> and <b>SQL</b> Database for calculating <b>JEE Main Rank</b> with Common Rank List (CRL) and Category Rank List (CRL) features. Implements complex ranking algorithms and database management for competitive exam results.", "tags": ["Java", "SQL", "Calculator"] },
+            "hi": { "title": "JEE Main रैंक कैलकुलेटर", "text": "<b>JEE Main रैंक</b> की गणना के लिए <b>Java</b> और <b>SQL</b> डेटाबेस से बना डेस्कटॉप एप्लिकेशन। सामान्य रैंक सूची (CRL) और श्रेणी रैंक सूची सुविधाएँ। प्रतियोगी परीक्षा परिणामों के लिए जटिल रैंकिंग एल्गोरिदम।", "tags": ["Java", "SQL", "Calculator"] },
+            "bn": { "title": "JEE Main Rank ক্যালকুলেটর", "text": "<b>JEE Main Rank</b> গণনার জন্য <b>Java</b> এবং <b>SQL</b> ডেটাবেস দিয়ে নির্মিত ডেস্কটপ অ্যাপ্লিকেশন। কমন র‍্যাংক লিস্ট (CRL) এবং ক্যাটাগরি র‍্যাংক লিস্ট বৈশিষ্ট্য। প্রতিযোগিতামূলক পরীক্ষার ফলাফলের জন্য জটিল র‍্যাংকিং অ্যালগরিদম।", "tags": ["Java", "SQL", "Calculator"] },
+            "te": { "title": "JEE Main ర్యాంక్ కాల్కులేటర్", "text": "<b>JEE Main ర్యాంక్</b> గణన కోసం <b>Java</b> మరియు <b>SQL</b> డేటాబేస్ తో నిర్మించిన డెస్క్‌టాప్ అప్లికేషన్। కామన్ ర్యాంక్ లిస్ట్ (CRL) మరియు క్యాటగరీ ర్యాంక్ లిస్ట్ ఫీచర్లు। ప్రతిష్టాత్మక పరీక్ష ఫలితాల కోసం సంక్లిష్ట ర్యాంకింగ్ అల్గారిథమ్లు।", "tags": ["Java", "SQL", "Calculator"] },
+            "ta": { "title": "JEE Main ரேங்க் கால்குலேட்டர்", "text": "<b>JEE Main ரேங்க்</b> கணக்கிட <b>Java</b> மற்றும் <b>SQL</b> தரவுத்தளத்துடன் கட்டப்பட்ட டெஸ்க்டாப் பயன்பாடு। பொது ரேங்க் பட்டியல் (CRL) மற்றும் வகை ரேங்க் பட்டியல் அம்சங்கள்। போட்டித் தேர்வு முடிவுகளுக்கான சிக்கலான ரேங்கிங் வழிமுறைகள்।", "tags": ["Java", "SQL", "Calculator"] },
+            "mr": { "title": "JEE Main रँक कॅल्क्युलेटर", "text": "<b>JEE Main रँक</b> मोजण्यासाठी <b>Java</b> आणि <b>SQL</b> डेटाबेससह बांधलेले डेस्कटॉप अॅप्लिकेशन। कॉमन रँक लिस्ट (CRL) आणि कॅटेगरी रँक लिस्ट फीचर्स। स्पर्धात्मक परीक्षा परिणामांसाठी जटिल रँकिंग अल्गोरिदम।", "tags": ["Java", "SQL", "Calculator"] },
+            "gu": { "title": "JEE Main રેંક કેલ્ક્યુલેટર", "text": "<b>JEE Main રેંક</b> ગણતરી માટે <b>Java</b> અને <b>SQL</b> ડેટાબેઝથી બનાવેલ ડેસ્કટોપ એપ્લિકેશન। કોમન રેંક લિસ્ટ (CRL) અને કેટેગરી રેંક લિસ્ટ ફીચર્સ। સ્પર્ધાત્મક પરીક્ષા પરિણામો માટે જટિલ રેંકિંગ અલ્ગોરિધમ્સ।", "tags": ["Java", "SQL", "Calculator"] },
+            "pa": { "title": "JEE Main ਰੈਂਕ ਕੈਲਕੁਲੇਟਰ", "text": "<b>JEE Main ਰੈਂਕ</b> ਗਣਨਾ ਲਈ <b>Java</b> ਅਤੇ <b>SQL</b> ਡਾਟਾਬੇਸ ਨਾਲ ਬਣਾਈ ਡੈਸਕਟਾਪ ਐਪ। ਕਾਮਨ ਰੈਂਕ ਲਿਸਟ (CRL) ਅਤੇ ਕੈਟਾਗਰੀ ਰੈਂਕ ਲਿਸਟ ਫੀਚਰਸ। ਮੁਕਾਬਲੇਬਾਜ਼ੀ ਇਮਤਿਹਾਨ ਨਤੀਜਿਆਂ ਲਈ ਜਟਿਲ ਰੈਂਕਿੰਗ ਅਲਗੋਰਿਦਮ।", "tags": ["Java", "SQL", "Calculator"] },
+            "ml": { "title": "JEE Main റാങ്ക് കാൽക്കുലേട്ടർ", "text": "<b>JEE Main റാങ്ക്</b> കണക്കാക്കാൻ <b>Java</b>, <b>SQL</b> ഡാറ്റാബേസ് ഉപയോഗിച്ച് നിർമ്മിച്ച ഡെസ്ക്ടോപ്പ് ആപ്പ്। കോമൺ റാങ്ക് ലിസ്റ്റ് (CRL), കാറ്റഗറി റാങ്ക് ലിസ്റ്റ് ഫീച്ചറുകൾ। മത്സര പരീക്ഷാ ഫലങ്ങൾക്കായി സങ്കീർണ്ണ റാങ്കിംഗ് അൽഗോരിതംസ്.", "tags": ["Java", "SQL", "Calculator"] },
+            "kn": { "title": "JEE Main ರ್ಯಾಂಕ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್", "text": "<b>JEE Main ರ್ಯಾಂಕ್</b> ಲೆಕ್ಕಾಚಾರಕ್ಕಾಗಿ <b>Java</b> ಮತ್ತು <b>SQL</b> ಡೇಟಾಬೇಸ್ ಇರುವ ಡೆಸ್ಕ್‌ಟಾಪ್ ಅಪ್ಲಿಕೇಶನ್। ಕಾಮನ್ ರ್ಯಾಂಕ್ ಲಿಸ್ಟ್ (CRL) ಮತ್ತು ಕ್ಯಾಟೆಗರಿ ರ್ಯಾಂಕ್ ಲಿಸ್ಟ್ ಫೀಚರ್‌ಗಳು। ಸ್ಪರ್ಧಾ ಪರೀಕ್ಷೆ ಫಲಿತಾಂಶಗಳಿಗೆ ಸಂಕೀರ್ಣ ರ್ಯಾಂಕಿಂಗ್ ಅಲ್ಗಾರಿದಮ್‌ಗಳು.", "tags": ["Java", "SQL", "Calculator"] },
+            "or": { "title": "JEE Main ର୍ୟାଙ୍କ୍ କ୍ୟାଲ୍କୁଲେଟର୍", "text": "<b>JEE Main ର୍ୟାଙ୍କ୍</b> ଗଣନା ପାଇଁ <b>Java</b> ଓ <b>SQL</b> ଡାଟାବେସ୍ ରେ ନିର୍ମିତ ଡେସ୍କଟପ୍ ଆପ୍। କମନ୍ ର୍ୟାଙ୍କ୍ ଲିଷ୍ଟ୍ (CRL) ଓ କାଟେଗରି ର୍ୟାଙ୍କ୍ ଲିଷ୍ଟ୍ ଫିଚର୍। ପ୍ରତିଯୋଗିତା ପରୀକ୍ଷା ପରିଣାମପାଇଁ ଜଟିଳ ର୍ୟାଙ୍କିଙ୍ଗ୍ ଆଲଗୋରିଦମ୍।", "tags": ["Java", "SQL", "Calculator"] },
+            "as": { "title": "JEE Main ৰেংক কেলকুলেটৰ", "text": "<b>JEE Main ৰেংক</b> গণনা কৰিবলৈ <b>Java</b> আৰু <b>SQL</b> ডাটাবেচেৰে নিৰ্মিত ডেস্কটপ এপ। কমন ৰেংক লিষ্ট (CRL) আৰু কেটেগৰি ৰেংক লিষ্ট ফিচাৰ। প্ৰতিযোগিতামূলক পৰীক্ষাৰ ফলাফলৰ বাবে জটিল ৰেংকিং এলগৰিদম।", "tags": ["Java", "SQL", "Calculator"] },
+            "mai": { "title": "JEE Main रैंक कैलकुलेटर", "text": "<b>JEE Main रैंक</b> गणना लेल <b>Java</b> आरू <b>SQL</b> डेटाबेस सँ बनल डेस्कटॉप एप्लिकेशन। कॉमन रैंक लिस्ट (CRL) आरू कैटगरी रैंक लिस्ट फीचर। प्रतियोगी परीक्षा परिणाम क लेल जटिल रैंकिंग एल्गोरिदम।", "tags": ["Java", "SQL", "Calculator"] },
+            "sd": { "title": "JEE Main رينڪ ڪيلڪوليٽر", "text": "<b>JEE Main رينڪ</b> ڳڻڻ لاءِ <b>Java</b> ۽ <b>SQL</b> ڊيٽابيز سان ٺاهيل ڊيسڪٽاپ ايپ۔ ڪامن رينڪ لسٽ (CRL) ۽ ڪيٽگري رينڪ لسٽ فيچرز۔ مقابلي جي امتحان نتيجن لاءِ پيچيده رينڪنگ الگوردمز۔", "tags": ["Java", "SQL", "Calculator"] },
+            "kok": { "title": "JEE Main रॅंक कॅल्क्युलेटर", "text": "<b>JEE Main रॅंक</b> मोजपाक लेल <b>Java</b> आनी <b>SQL</b> डेटाबेस सय बांदल्लें डेस्कटॉप अॅप्लिकेशन। कॉमन रॅंक लिस्ट (CRL) आनी कॅटेगरी रॅंक लिस्ट फीचरस। स्पर्धात्मक परीक्षा परिणामां खातीर जटिल रॅंकिंग अल्गोरिदम।", "tags": ["Java", "SQL", "Calculator"] },
+            "ne": { "title": "JEE Main र्याङ्क क्याल्कुलेटर", "text": "<b>JEE Main र्याङ्क</b> गणना गर्न <b>Java</b> र <b>SQL</b> डेटाबेसबाट बनाइएको डेस्कटप एप। कमन र्याङ्क लिस्ट (CRL) र क्याटेगरी र्याङ्क लिस्ट फिचरहरू। प्रतिस्पर्धी परीक्षा परिणामहरूका लागि जटिल र्याङ्किङ अल्गोरिदमहरू।", "tags": ["Java", "SQL", "Calculator"] },
+            "ks": { "title": "JEE Main رینک کیلکیولٹر", "text": "<b>JEE Main رینک</b> حساب چھ کرنس लین <b>Java</b> تہ <b>SQL</b> ڊیٹابیس سان بناوَن ڊیسک ٹاپ ایپ۔ کمَن رینک لسٹ (CRL) تہ کٹیگری رینک لسٹ فیچرز۔ مقابلہ امتحان نتائج چھ لین پیچیدہ رینکنگ الگوردمز۔", "tags": ["Java", "SQL", "Calculator"] },
+            "ur": { "title": "JEE Main رینک کیلکیولیٹر", "text": "<b>JEE Main رینک</b> کے حساب کے لیے <b>Java</b> اور <b>SQL</b> ڈیٹابیس سے بنایا گیا ڈیسک ٹاپ ایپ۔ کومن رینک لسٹ (CRL) اور کیٹگری رینک لسٹ فیچرز۔ مقابلہ جاتی امتحان کے نتائج کے لیے پیچیدہ رینکنگ الگورتھمز۔", "tags": ["Java", "SQL", "Calculator"] },
+            "zh": { "title": "JEE Main名次计算器", "text": "使用<b>Java</b>和<b>SQL</b>数据库构建的桌面应用，用于计算<b>JEE Main名次</b>，含通用名次列表(CRL)和类别名次列表功能。实现竞争性考试结果的复杂排名算法。", "tags": ["Java", "SQL", "Calculator"] },
+            "ja": { "title": "JEE Main順位計算機", "text": "<b>JEE Main順位</b>計算のための<b>Java</b>と<b>SQL</b>データベースで構築したデスクトップアプリ。共通順位リスト(CRL)とカテゴリー順位リスト機能。競争試験結果用の複雑なランキングアルゴリズム。", "tags": ["Java", "SQL", "Calculator"] },
+            "ar": { "title": "آلة حاسبة لترتيب JEE Main", "text": "تطبيق سطح مكتب مبني بـ <b>Java</b> و<b>SQL</b> لحساب <b>ترتيب JEE Main</b>. ميزات قائمة الترتيب المشتركة (CRL) وقائمة ترتيب الفئة. خوارزميات ترتيب معقدة لنتائج الامتحانات التنافسية.", "tags": ["Java", "SQL", "Calculator"] },
+            "pt": { "title": "Calculadora de Ranking JEE Main", "text": "Aplicação de desktop em <b>Java</b> e <b>SQL</b> para cálculo de <b>Ranking JEE Main</b> com Lista de Ranking Comum (CRL) e Lista de Ranking por Categoria. Algoritmos de classificação complexos para resultados de exames competitivos.", "tags": ["Java", "SQL", "Calculator"] },
+            "de": { "title": "JEE Main Rangrechner", "text": "Desktop-Anwendung in <b>Java</b> und <b>SQL</b> zur Berechnung des <b>JEE Main Rangs</b> mit Gemeinsamer Rangliste (CRL) und Kategorie-Rangliste. Komplexe Rangordnungsalgorithmen für Wettbewerbsprüfungsergebnisse.", "tags": ["Java", "SQL", "Calculator"] },
+            "ru": { "title": "Калькулятор ранга JEE Main", "text": "Десктоп-приложение на <b>Java</b> и <b>SQL</b> для расчёта <b>ранга JEE Main</b> с общим ранговым списком (CRL) и списком рангов по категориям. Сложные алгоритмы ранжирования для результатов конкурсных экзаменов.", "tags": ["Java", "SQL", "Calculator"] },
+            "it": { "title": "Calcolatore Classifica JEE Main", "text": "App desktop in <b>Java</b> e <b>SQL</b> per il calcolo della <b>Classifica JEE Main</b> con Elenco Classifica Comune (CRL) ed Elenco Classifica per Categoria. Algoritmi di classificazione complessi per esiti di esami competitivi.", "tags": ["Java", "SQL", "Calculator"] },
+            "es": { "title": "Calculadora de Rango JEE Main", "text": "Aplicación de escritorio en <b>Java</b> y <b>SQL</b> para calcular el <b>Rango JEE Main</b> con Lista de Rango Común (CRL) y Lista de Rango por Categoría. Algoritmos de clasificación complejos para resultados de exámenes competitivos.", "tags": ["Java", "SQL", "Calculator"] },
+            "fr": { "title": "Calculateur de Rang JEE Main", "text": "Application de bureau en <b>Java</b> et <b>SQL</b> pour le calcul du <b>Rang JEE Main</b> avec Liste de Rang Commun (CRL) et Liste de Rang par Catégorie. Algorithmes de classement complexes pour résultats d'examens compétitifs.", "tags": ["Java", "SQL", "Calculator"] },
+            "ko": { "title": "JEE Main 순위 계산기", "text": "<b>JEE Main 순위</b> 계산용 <b>Java</b>, <b>SQL</b> 데이터베이스로 구축한 데스크톱 앱. 공통 순위 목록(CRL), 카테고리 순위 목록 기능. 경쟁 시험 결과용 복잡한 순위 알고리즘.", "tags": ["Java", "SQL", "Calculator"] }
           }
         },
         {
           "id": 4,
           "categoryId": "category_web",
-          "img": "",
+          "img": "/images/pictures/play-school.png",
           "faIcon": "fa-solid fa-school",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
@@ -171,11 +262,34 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Play School Website",
-              "text": "A complete Play School Management Website built with <b>React</b>, <b>Firebase</b>, <b>SQL Database</b>, and <b>REST API</b>. Features include Notice Board, Admission Forms, Event Management, Photo Gallery, and Contact System.",
-              "tags": ["React", "Firebase", "SQL", "REST API"]
-            }
+            "en": { "title": "Play School Website", "text": "A complete Play School Management Website built with <b>React</b>, <b>Firebase</b>, <b>SQL Database</b>, and <b>REST API</b>. Features include Notice Board, Admission Forms, Event Management, Photo Gallery, and Contact System.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "hi": { "title": "प्ले स्कूल वेबसाइट", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL डेटाबेस</b> और <b>REST API</b> से बना पूर्ण प्ले स्कूल मैनेजमेंट वेबसाइट। नोटिस बोर्ड, एडमिशन फॉर्म, इवेंट मैनेजमेंट, फोटो गैलरी और कॉन्टैक्ट सिस्टम।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "bn": { "title": "প্লে স্কুল ওয়েবসাইট", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ডেটাবেস</b> এবং <b>REST API</b> দিয়ে তৈরি সম্পূর্ণ প্লে স্কুল ম্যানেজমেন্ট ওয়েবসাইট। নোটিশ বোর্ড, ভর্তি ফর্ম, ইভেন্ট ম্যানেজমেন্ট, ফোটো গ্যালারি এবং কন্টাক্ট সিস্টেম।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "te": { "title": "ప్లే స్కూల్ వెబ్‌సైట్", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL డేటాబేస్</b> మరియు <b>REST API</b>తో నిర్మించిన పూర్తి ప్లే స్కూల్ మేనేజ్మెంట్ వెబ్‌సైట్। నోటీస్ బోర్డ్, అడ్మిషన్ ఫార్మ్స్, ఈవెంట్ మేనేజ్మెంట్, ఫోటో గ్యాలరీ మరియు కాంటాక్ట్ సిస్టం।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "ta": { "title": "பிளே ஸ்கூல் வலைத்தளம்", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL தரவுத்தளம்</b> மற்றும் <b>REST API</b> உடன் கட்டப்பட்ட முழு பிளே ஸ்கூல் மேலாண்மை வலைத்தளம்। அறிவிப்புப் பலகம், சேர்ப்பு படிவங்கள், நிகழ்வு மேலாண்மை, புகைப்பட காட்சியகம் மற்றும் தொடர்பு அமைப்பு।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "mr": { "title": "प्ले स्कूल वेबसाइट", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL डेटाबेस</b> आणि <b>REST API</b> सह बांधलेली पूर्ण प्ले स्कूल मॅनेजमेंट वेबसाइट। नोटिस बोर्ड, अॅडमिशन फॉर्म्स, इव्हेंट मॅनेजमेंट, फोटो गॅलरी आणि कॉन्टॅक्ट सिस्टम।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "gu": { "title": "પ્લે સ્કૂલ વેબસાઇટ", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ડેટાબેસ</b> અને <b>REST API</b> સાથે બનાવેલી સંપૂર્ણ પ્લે સ્કૂલ મેનેજમેંટ વેબસાઇટ। નોટિસ બોર્ડ, એડમિશન ફોર્મ્સ, ઇવેન્ટ મેનેજમેંટ, ફોટો ગેલેરી અને કોન્ટેક્ટ સિસ્ટમ।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "pa": { "title": "ਪਲੇ ਸਕੂਲ ਵੈੱਬਸਾਈਟ", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ਡਾਟਾਬੇਸ</b> ਅਤੇ <b>REST API</b> ਨਾਲ ਬਣੀ ਪੂਰੀ ਪਲੇ ਸਕੂਲ ਪ੍ਰਬੰਧਨ ਵੈੱਬਸਾਈਟ। ਨੋਟਿਸ ਬੋਰਡ, ਦਾਖਲਾ ਫਾਰਮ, ਈਵੈਂਟ ਪ੍ਰਬੰਧਨ, ਫੋਟੋ ਗੈਲਰੀ ਅਤੇ ਸੰਪਰਕ ਸਿਸਟਮ।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "ml": { "title": "പ്ലേ സ്കൂൾ വെബ്സൈറ്റ്", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ഡാറ്റാബേസ്</b>, <b>REST API</b> ഉപയോഗിച്ച് നിർമ്മിച്ച സമ്പൂർണ്ണ പ്ലേ സ്കൂൾ നിയന്ത്രണ വെബ്സൈറ്റ്. നോട്ടീസ് ബോർഡ്, അഡ്മിഷൻ ഫോമുകൾ, ഇവന്റ് മാനേജ്മെന്റ്, ഫോട്ടോ ഗ്യാലറി, കോൺടാക്റ്റ് സിസ്റ്റം.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "kn": { "title": "ಪ್ಲೇ ಸ್ಕೂಲ್ ವೆಬ್‌ಸೈಟ್", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ಡೇಟಾಬೇಸ್</b> ಮತ್ತು <b>REST API</b> ಬಳಸಿ ನಿರ್ಮಿಸಿದ ಸಂಪೂರ್ಣ ಪ್ಲೇ ಸ್ಕೂಲ್ ನಿರ್ವಹಣೆ ವೆಬ್‌ಸೈಟ್. ನೋಟೀಸ್ ಬೋರ್ಡ್, ಪ್ರವೇಶ ಫಾರ್ಮ್‌ಗಳು, ಈವೆಂಟ್ ನಿರ್ವಹಣೆ, ಫೋಟೋ ಗ್ಯಾಲರಿ ಮತ್ತು ಸಂಪರ್ಕ ವ್ಯವಸ್ಥೆ.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "or": { "title": "ପ୍ଲେ ସ୍କୁଲ୍ ୱେବ୍ସାଇଟ୍", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ଡାଟାବେସ୍</b> ଓ <b>REST API</b> ରେ ନିର୍ମିତ ସମ୍ପୂର୍ଣ୍ଣ ପ୍ଲେ ସ୍କୁଲ୍ ପରିଚାଳନା ୱେବ୍ସାଇଟ୍। ନୋଟିସ୍ ବୋର୍ଡ୍, ଆଡ଼ମିଶନ ଫର୍ମ୍, ଇଭେଣ୍ଟ ପରିଚାଳନା, ଫଟୋ ଗ୍ୟାଲେରି ଓ କଣ୍ଟାକ୍ଟ ସିଷ୍ଟମ୍।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "as": { "title": "প্লে স্কুল ৱেবছাইট", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ডাটাবেচ</b> আৰু <b>REST API</b> ৰে নিৰ্মাণ কৰা সম্পূৰ্ণ প্লে স্কুল পৰিচালনা ৱেবছাইট। বিজ্ঞপ্তি বোৰ্ড, ভৰ্তি পত্ৰ, অনুষ্ঠান পৰিচালনা, আলোকচিত্ৰ গেলেৰী আৰু যোগাযোগ ব্যৱস্থা।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "mai": { "title": "प्ले स्कूल वेबसाइट", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL डेटाबेस</b> आरू <b>REST API</b> सँ बनल पूर्ण प्ले स्कूल मैनेजमेंट वेबसाइट। नोटिस बोर्ड, एडमिशन फॉर्म, इवेंट मैनेजमेंट, फोटो गैलरी आरू कॉन्टैक्ट सिस्टम।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "sd": { "title": "پلے اسڪول ويب سائيٽ", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ڊيٽا بيز</b> ۽ <b>REST API</b> سان ٺاهيل مڪمل پلے اسڪول انتظام ويب سائيٽ۔ نوٽس بورڊ، داخلن فارم، تقريب انتظام، فوٽو گيلري ۽ رابطو سسٽم۔", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "kok": { "title": "प्ले स्कूल वेबसाइट", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL डेटाबेस</b> आनी <b>REST API</b> वापरून बांदल्लें पुराय प्ले स्कूल व्यवस्थापन वेबसाइट। नोटिस बोर्ड, अॅडमिशन फॉर्म्स, इव्हेंट व्यवस्थापन, फोटो गॅलरी आनी कॉन्टॅक्ट सिस्टम।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "ne": { "title": "प्ले स्कूल वेबसाइट", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL डेटाबेस</b> र <b>REST API</b> बाट निर्माण गरिएको पूर्ण प्ले स्कूल व्यवस्थापन वेबसाइट। सूचना बोर्ड, भर्ना फारम, कार्यक्रम व्यवस्थापन, फोटो ग्यालरी र सम्पर्क प्रणाली।", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "ks": { "title": "پلے سکول ویب سائٹ", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ڊیٹابیس</b> تہ <b>REST API</b> سان بناوَن مکمل پلے سکول انتظام ویب سائٹ۔ نوٹس بورڈ، داخلہ فارمس، ایونٹ انتظام، فوٹو گیلیری تہ ربط سسٹم۔", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "ur": { "title": "پلے اسکول ویب سائٹ", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL ڈیٹابیس</b> اور <b>REST API</b> سے بنائی گئی مکمل پلے اسکول انتظام ویب سائٹ۔ نوٹس بورڈ، داخلہ فارمس، ایونٹ انتظام، فوٹو گیلری اور رابطہ سسٹم۔", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "zh": { "title": "幼儿园管理网站", "text": "使用<b>React</b>、<b>Firebase</b>、<b>SQL数据库</b>和<b>REST API</b>构建的完整幼儿园管理网站。包含公告栏、入学表单、活动管理、相册和联系系统。", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "ja": { "title": "プレースクールウェブサイト", "text": "<b>React</b>、<b>Firebase</b>、<b>SQLデータベース</b>、<b>REST API</b>で構築したプレースクール管理サイト。お知らせ掲示板、入学申込、イベント管理、フォトギャラリー、問い合わせシステム。", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "ar": { "title": "موقع مدرسة اللعب", "text": "موقع إدارة مدرسة ألعاب كامل مبني بـ <b>React</b> و<b>Firebase</b> و<b>قاعدة بيانات SQL</b> و<b>REST API</b>. لوحة إعلانات، نماذج قبول، إدارة فعاليات، معرض صور ونظام اتصال.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "pt": { "title": "Site da Escola Infantil", "text": "Site completo de gestão de escola infantil em <b>React</b>, <b>Firebase</b>, <b>SQL</b> e <b>REST API</b>. Quadro de avisos, formulários de admissão, gestão de eventos, galeria de fotos e sistema de contacto.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "de": { "title": "Vorschul-Website", "text": "Vollständige Vorschul-Verwaltungswebsite mit <b>React</b>, <b>Firebase</b>, <b>SQL-Datenbank</b> und <b>REST API</b>. Anschlagbrett, Aufnahmeformulare, Event-Verwaltung, Fotogalerie und Kontaktsystem.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "ru": { "title": "Сайт детского сада", "text": "Полнофункциональный сайт управления детским садом на <b>React</b>, <b>Firebase</b>, <b>SQL</b> и <b>REST API</b>. Доска объявлений, формы приёма, управление мероприятиями, фото-галерея и контактная система.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "it": { "title": "Sito Web Scuola dell'Infanzia", "text": "Sito completo di gestione scuola dell'infanzia in <b>React</b>, <b>Firebase</b>, <b>SQL</b> e <b>REST API</b>. Bacheca, moduli di ammissione, gestione eventi, galleria foto e sistema di contatto.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "es": { "title": "Sitio Web de Guardería", "text": "Sitio completo de gestión de guardería en <b>React</b>, <b>Firebase</b>, <b>SQL</b> y <b>REST API</b>. Tablón de anuncios, formularios de admisión, gestión de eventos, galería de fotos y sistema de contacto.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "fr": { "title": "Site Web École Maternelle", "text": "Site complet de gestion d'école maternelle en <b>React</b>, <b>Firebase</b>, <b>SQL</b> et <b>REST API</b>. Tableau d'affichage, formulaires d'admission, gestion d'événements, galerie photo et système de contact.", "tags": ["React", "Firebase", "SQL", "REST API"] },
+            "ko": { "title": "플레이 스쿨 웹사이트", "text": "<b>React</b>, <b>Firebase</b>, <b>SQL 데이터베이스</b>, <b>REST API</b>로 구축한 플레이 스쿨 관리 웹사이트. 공지판, 입학 신청서, 이벤트 관리, 사진 갤러리, 연락처 시스템.", "tags": ["React", "Firebase", "SQL", "REST API"] }
           }
         }
       ]

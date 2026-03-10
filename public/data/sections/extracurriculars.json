@@ -24,7 +24,31 @@
         "title_short_nav": "특별활동",
         "title_long_prefix": "내",
         "title_long": "{{과외활동}}"
-      }
+      },
+      "hi": { "title_short": "अतिरिक्त", "title_short_nav": "अतिरिक्त गतिविधियाँ", "title_long_prefix": "मेरी", "title_long": "{{अतिरिक्त गतिविधियाँ}}" },
+      "bn": { "title_short": "অতিরিক্ত", "title_short_nav": "অতিরিক্ত কার্যক্রম", "title_long_prefix": "আমার", "title_long": "{{অতিরিক্ত কার্যক্রম}}" },
+      "te": { "title_short": "అతిరిక్త", "title_short_nav": "అతిరిక్త కార్యక్రమాలు", "title_long_prefix": "నా", "title_long": "{{అతిరిక్త కార్యక్రమాలు}}" },
+      "ta": { "title_short": "கூடுதல்", "title_short_nav": "பாடப்பிரிவுக்கு அப்பாற்பட்ட", "title_long_prefix": "எனது", "title_long": "{{பாடப்பிரிவுக்கு அப்பாற்பட்ட}} நடவடிக்கைகள்" },
+      "mr": { "title_short": "अतिरिक्त", "title_short_nav": "अतिरिक्त उपक्रम", "title_long_prefix": "माझे", "title_long": "{{अतिरिक्त उपक्रम}}" },
+      "gu": { "title_short": "અતિરિક્ત", "title_short_nav": "અતિરિક્ત પ્રવૃત્તિઓ", "title_long_prefix": "મારી", "title_long": "{{અતિરિક્ત પ્રવૃત્તિઓ}}" },
+      "pa": { "title_short": "ਅਤਿਰਿਕਤ", "title_short_nav": "ਅਤਿਰਿਕਤ ਗਤੀਵਿਧੀਆਂ", "title_long_prefix": "ਮੇਰੀਆਂ", "title_long": "{{ਅਤਿਰਿਕਤ ਗਤੀਵਿਧੀਆਂ}}" },
+      "ml": { "title_short": "അധിക", "title_short_nav": "അധിക പ്രവർത്തനങ്ങൾ", "title_long_prefix": "എന്റെ", "title_long": "{{അധിക പ്രവർത്തനങ്ങൾ}}" },
+      "kn": { "title_short": "ಅತಿರಿಕ್ತ", "title_short_nav": "ಅತಿರಿಕ್ತ ಚಟುವಟಿಕೆಗಳು", "title_long_prefix": "ನನ್ನ", "title_long": "{{ಅತಿರಿಕ್ತ ಚಟುವಟಿಕೆಗಳು}}" },
+      "or": { "title_short": "ଅତିରିକ୍ତ", "title_short_nav": "ଅତିରିକ୍ତ କାର୍ଯ୍ୟକଳାପ", "title_long_prefix": "ମୋର", "title_long": "{{ଅତିରିକ୍ତ କାର୍ଯ୍ୟକଳାପ}}" },
+      "as": { "title_short": "অতিৰিক্ত", "title_short_nav": "অতিৰিক্ত কাৰ্য্যাৱলী", "title_long_prefix": "মোৰ", "title_long": "{{অতিৰিক্ত কাৰ্য্যাৱলী}}" },
+      "mai": { "title_short": "अतिरिक्त", "title_short_nav": "अतिरिक्त गतिविधि", "title_long_prefix": "महरा", "title_long": "{{अतिरिक्त गतिविधि}}" },
+      "sd": { "title_short": "اضافي", "title_short_nav": "اضافي سرگرميون", "title_long_prefix": "منهنجيون", "title_long": "{{اضافي سرگرميون}}" },
+      "kok": { "title_short": "अतिरिक्त", "title_short_nav": "अतिरिक्त उपक्रम", "title_long_prefix": "म्हजे", "title_long": "{{अतिरिक्त उपक्रम}}" },
+      "ne": { "title_short": "अतिरिक्त", "title_short_nav": "अतिरिक्त गतिविधिहरू", "title_long_prefix": "मेरो", "title_long": "{{अतिरिक्त गतिविधिहरू}}" },
+      "ks": { "title_short": "اضافی", "title_short_nav": "اضافی سرگرمیاں", "title_long_prefix": "مے چھ", "title_long": "{{اضافی سرگرمیاں}}" },
+      "ur": { "title_short": "اضافی", "title_short_nav": "اضافی سرگرمیاں", "title_long_prefix": "میری", "title_long": "{{اضافی سرگرمیاں}}" },
+      "zh": { "title_short": "课外", "title_short_nav": "课外活动", "title_long_prefix": "我的", "title_long": "{{课外活动}}" },
+      "ja": { "title_short": "課外", "title_short_nav": "課外活動", "title_long_prefix": "私の", "title_long": "{{課外活動}}" },
+      "ar": { "title_short": "الأنشطة", "title_short_nav": "الأنشطة اللامنهجية", "title_long_prefix": "أنشطتي", "title_long": "{{اللامنهجية}}" },
+      "pt": { "title_short": "Extras", "title_short_nav": "Atividades Extracurriculares", "title_long_prefix": "Minhas", "title_long": "{{Atividades Extracurriculares}}" },
+      "de": { "title_short": "Außerschulisch", "title_short_nav": "Außerschulische Aktivitäten", "title_long_prefix": "Meine", "title_long": "{{außerschulischen Aktivitäten}}" },
+      "ru": { "title_short": "Внеурочные", "title_short_nav": "Внеклассная деятельность", "title_long_prefix": "Мои", "title_long": "{{внеклассные занятия}}" },
+      "it": { "title_short": "Extracurricolari", "title_short_nav": "Attività Extracurricolari", "title_long_prefix": "Le mie", "title_long": "{{Attività Extracurricolari}}" }
     }
   },
 
@@ -33,7 +57,34 @@
       "id": 1,
       "component": "ArticleTimeline",
       "locales": {
-        "en": { "title": "Volunteer Work" }
+        "en": { "title": "Volunteer Work" },
+        "hi": { "title": "स्वयंसेवक कार्य" },
+        "bn": { "title": "স্বেচ্ছাসেবী কাজ" },
+        "te": { "title": "స్వచ్ఛంద సేవా కార్యం" },
+        "ta": { "title": "தன்னார்வ பணி" },
+        "mr": { "title": "स्वयंसेवक काम" },
+        "gu": { "title": "સ્વયંસેવક કાર્ય" },
+        "pa": { "title": "ਵਲੰਟੀਅਰ ਕੰਮ" },
+        "ml": { "title": "സ്വയംസേവക പ്രവർത്തനം" },
+        "kn": { "title": "ಸ್ವಯಂಸೇವಕ ಕೆಲಸ" },
+        "or": { "title": "ସ୍ୱୟଂସେବୀ କାର୍ଯ୍ୟ" },
+        "as": { "title": "স্বেচ্ছাসেৱক কাম" },
+        "mai": { "title": "स्वयंसेवक काम" },
+        "sd": { "title": "رضاکارانه ڪم" },
+        "kok": { "title": "स्वयंसेवक काम" },
+        "ne": { "title": "स्वयंसेवक काम" },
+        "ks": { "title": "رضاکارانہ کم" },
+        "ur": { "title": "رضاکارانہ کام" },
+        "zh": { "title": "志愿工作" },
+        "ja": { "title": "ボランティア活動" },
+        "ar": { "title": "العمل التطوعي" },
+        "pt": { "title": "Trabalho Voluntário" },
+        "de": { "title": "Freiwilligenarbeit" },
+        "ru": { "title": "Волонтёрская работа" },
+        "it": { "title": "Lavoro Volontario" },
+        "es": { "title": "Trabajo Voluntario" },
+        "fr": { "title": "Travail Bénévole" },
+        "ko": { "title": "봉사 활동" }
       },
       "settings": {
         "order_items_by": "dateStart",
@@ -42,6 +93,9 @@
       "items": [
         {
           "id": 1,
+          "img": "/images/pictures/Pcon_logo.png",
+          "faIcon": "fa-solid fa-chalkboard-user",
+          "faIconColors": { "bg": "", "fill": "" },
           "dateStart": { "year": 2020, "month": 1 },
           "dateEnd": { "year": 2022, "month": 6 },
           "location": "NIT Jamshedpur",
@@ -52,15 +106,41 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Teaching Volunteer",
-              "institution": "PCON - Programming Club of NIT Jamshedpur",
-              "text": "Volunteered as a teaching assistant, conducting workshops and mentoring students in competitive programming and DSA (Data Structures and Algorithms). Helped organize and conduct programming contests and hackathons for over 500+ students."
-            }
+            "en": { "title": "Teaching Volunteer", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "Volunteered as a teaching assistant, conducting workshops and mentoring students in competitive programming and DSA (Data Structures and Algorithms). Helped organize and conduct programming contests and hackathons for over 500+ students." },
+            "hi": { "title": "शिक्षण स्वयंसेवक", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "शिक्षण सहायक के रूप में काम किया, प्रतियोगी प्रोग्रामिंग और DSA में वर्कशॉप आयोजित की और छात्रों को मार्गदर्शन दिया। 500+ छात्रों के लिए प्रोग्रामिंग प्रतियोगिताओं और हैकाथॉन आयोजित करने में मदद की।" },
+            "bn": { "title": "শিক্ষা স্বেচ্ছাসেবী", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "শিক্ষক সহায়ক হিসেবে কাজ করেছেন, প্রতিযোগিতামূলক প্রোগ্রামিং ও DSA-তে ওয়ার্কশপ করেছেন এবং ছাত্রদের পরামর্শ দিয়েছেন। 500+ ছাত্রের জন্য প্রোগ্রামিং প্রতিযোগিতা ও হ্যাকাথন আয়োজনে সহায়তা।" },
+            "te": { "title": "టీచింగ్ వాలంటీర్", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "టీచింగ్ అసిస్టెంట్ గా వాలంటీర్ చేశారు, ప్రతియోగితా ప్రోగ్రామింగ్ మరియు DSAలో వర్క్‌షాప్లు నిర్వహించారు మరియు విద్యార్థులకు మార్గదర్శనం చేశారు. 500+ విద్యార్థుల కోసం ప్రోగ్రామింగ్ కంటెస్ట్లు మరియు హ్యాకథాన్లు నిర్వహించడంలో సహాయం చేశారు." },
+            "ta": { "title": "கற்பித்தல் தன்னார்வலர்", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "உதவி ஆசிரியராகப் பணியாற்றி, போட்டி நிரலாக்கம் மற்றும் DSA-ல் பயிற்சி அமர்வுகள் நடத்தி மாணவர்களுக்கு வழிகாட்டினார். 500+ மாணவர்களுக்கான நிரலாக்கப் போட்டிகள் மற்றும் ஹேகாதான்கள் நடத்த உதவினார்." },
+            "mr": { "title": "शिक्षण स्वयंसेवक", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "शिक्षण सहायक म्हणून स्वयंसेवक, स्पर्धात्मक प्रोग्रामिंग आणि DSA मध्ये वर्कशॉप आयोजित केल्या आणि विद्यार्थ्यांना मार्गदर्शन केले. 500+ विद्यार्थ्यांसाठी प्रोग्रामिंग स्पर्धा आणि हॅकाथॉन आयोजित करण्यात मदत केली." },
+            "gu": { "title": "શિક્ષણ સ્વયંસેવક", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "શિક્ષણ સહાયક તરીકે સ્વયંસેવક, સ્પર્ધાત્મક પ્રોગ્રામિંગ અને DSAમાં વર્કશોપ આયોજિત કર્યા અને વિદ્યાર્થીઓને માર્ગદર્શન આપ્યું. 500+ વિદ્યાર્થીઓ માટે પ્રોગ્રામિંગ સ્પર્ધા અને હેકાથોન આયોજિત કરવામાં મદદ કરી." },
+            "pa": { "title": "ਸਿੱਖਿਆ ਵਲੰਟੀਅਰ", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "ਸਿੱਖਿਆ ਸਹਾਇਕ ਵਜੋਂ ਵਲੰਟੀਅਰ, ਮੁਕਾਬਲੇਬਾਜ਼ੀ ਪ੍ਰੋਗਰਾਮਿੰਗ ਅਤੇ DSA ਵਿੱਚ ਵਰਕਸ਼ਾਪਾਂ ਕਰਵਾਈਆਂ ਅਤੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਸਲਾਹ ਦਿੱਤੀ। 500+ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਪ੍ਰੋਗਰਾਮਿੰਗ ਮੁਕਾਬਲੇ ਅਤੇ ਹੈਕਾਥਾਨ ਆਯੋਜਿਤ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕੀਤੀ।" },
+            "ml": { "title": "പഠന സ്വയംസേവകൻ", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "പഠന സഹായിയായി സ്വയംസേവകം; മത്സരാധിഷ്ഠിത പ്രോഗ്രാമിംഗും DSA-യിലും വർക്ക്‌ഷോപ്പുകൾ നടത്തി വിദ്യാർഥികളെ പഠിപ്പിച്ചു. 500+ വിദ്യാർഥികൾക്ക് പ്രോഗ്രാമിംഗ് മത്സരങ്ങളും ഹാക്കാഥണുകളും ആയോജിക്കാൻ സഹായിച്ചു." },
+            "kn": { "title": "ಶಿಕ್ಷಣ ಸ್ವಯಂಸೇವಕ", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "ಶಿಕ್ಷಣ ಸಹಾಯಕರಾಗಿ ಸ್ವಯಂಸೇವಕರು; ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಮತ್ತು DSA ಮೇಲೆ ಕಾರ್ಯಾಗಾರಗಳನ್ನು ನಡೆಸಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡಿದರು. 500+ ವಿದ್ಯಾರ್ಥಿಗಳಿಗಾಗಿ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಸ್ಪರ್ಧೆಗಳು ಮತ್ತು ಹ್ಯಾಕಾಥಾನ್ಗಳನ್ನು ಏರ್ಪಾಡು ಮಾಡಲು ಸಹಾಯ ಮಾಡಿದರು." },
+            "or": { "title": "ଶିକ୍ଷଣ ସ୍ୱୟଂସେବୀ", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "ଶିକ୍ଷଣ ସହାୟକ ଭାବରେ ସ୍ୱୟଂସେବୀ; ପ୍ରତିଯୋଗିତା ପ୍ରୋଗ୍ରାମିଂ ଓ DSA ରେ ୱାର୍କସପ୍ ଆଯୋଜନ କରି ଛାତ୍ରମାନଙ୍କୁ ମାର୍ଗଦର୍ଶନ ଦେଇଥିଲେ। 500+ ଛାତ୍ରଙ୍କ ପାଇଁ ପ୍ରୋଗ୍ରାମିଂ ପ୍ରତିଯୋଗିତା ଓ ହ୍ୟାକାଥନ୍ ଆଯୋଜନରେ ସାହାଯ୍ୟ କରିଥିଲେ।" },
+            "as": { "title": "শিক্ষা স্বেচ্ছাসেৱক", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "শিক্ষক সহায়ক হিচাপে স্বেচ্ছাসেৱক, প্ৰতিযোগিতামূলক প্ৰগ্ৰামিং আৰু DSA-ত ৱৰ্কশ্বপ অনুষ্ঠিত কৰি ছাত্ৰসকলক পৰামৰ্শ দিছিল। 500+ ছাত্ৰৰ বাবে প্ৰগ্ৰামিং প্ৰতিযোগিতা আৰু হেকাথন পৰিচালনা কৰাত সহায় কৰিছিল।" },
+            "mai": { "title": "शिक्षण स्वयंसेवक", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "शिक्षण सहायक क रुप मे स्वयंसेवक, प्रतियोगी प्रोग्रामिंग आरू DSA मे वर्कशॉप करायल आरू छात्रसभ क मार्गदर्शन केलौ। 500+ छात्र क लेल प्रोग्रामिंग प्रतियोगिता आरू हैकाथॉन आयोजित करब मे सहयोग केलौ।" },
+            "sd": { "title": "ٽيچنگ رضاکار", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "ٽيچنگ معاون طور رضاکار؛ مقابلي پروگرامنگ ۽ DSA ۾ ورڪشاپس ڪيون ۽ شاگردن کي رهنمائي ڏني. 500+ شاگردن لاءِ پروگرامنگ مقابلي ۽ هيڪاٿون منظم ڪرڻ ۾ مدد ڪئي." },
+            "kok": { "title": "शिक्षण स्वयंसेवक", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "शिक्षण सहायक म्हणून स्वयंसेवक, स्पर्धात्मक प्रोग्रामिंग आनी DSA आंत वर्कशॉप आयोजीत केल्यो आनी विद्यार्थ्यांक मार्गदर्शन केलें। 500+ विद्यार्थ्यां खातीर प्रोग्रामिंग स्पर्धा आनी हॅकाथॉन आयोजीत करपाक सहाय्य केलें।" },
+            "ne": { "title": "शिक्षण स्वयंसेवक", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "शिक्षण सहायकको रूपमा स्वयंसेवक; प्रतिस्पर्धी प्रोग्रामिङ र DSA मा वर्कसपहरू आयोजन गर्दै विद्यार्थीहरूलाई मार्गदर्शन गरे। 500+ विद्यार्थीहरूको लागि प्रोग्रामिङ प्रतियोगिता र ह्याकाथन आयोजन गर्न मद्दत गरे।" },
+            "ks": { "title": "ٹیچنگ رضاکار", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "ٹیچنگ معاون طور رضاکار؛ مقابلہ پروگرامنگ تہ DSA منز ورکشاپس کرُن تہ شاگردن کہ مارگدرشن۔ 500+ شاگردن چھ لین پروگرامنگ مقابلی تہ ہیکاتھون منظم کرنس منز مدد۔" },
+            "ur": { "title": "تدریسی رضاکار", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "تدریسی معاون کے طور پر رضاکار؛ مقابلہ جاتی پروگرامنگ اور DSA میں ورکشاپس منعقد کیں اور طلبہ کی رہنمائی کی۔ 500+ طلبہ کے لیے پروگرامنگ مقابلوں اور ہیکاتھون منعقد کرنے میں مدد کی۔" },
+            "zh": { "title": "教学志愿者", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "作为助教志愿者，举办竞赛编程和DSA研讨会并指导学生。协助为500+学生组织编程竞赛和黑客松。" },
+            "ja": { "title": "教育ボランティア", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "ティーチングアシスタントとしてボランティア。競技プログラミングとDSAのワークショップを開催し学生を指導。500+学生向けプログラミング大会とハッカソンの企画・運営を支援。" },
+            "ar": { "title": "متطوع تدريس", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "تطوع كمساعد تدريس؛ أجرى ورش عمل في البرمجة التنافسية وDSA ووجّه الطلاب. ساعد في تنظيم مسابقات برمجة وهاكاثون لأكثر من 500 طالب." },
+            "pt": { "title": "Voluntário de Ensino", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "Voluntariou como assistente de ensino, conduzindo workshops e orientando alunos em programação competitiva e DSA. Ajudou a organizar e realizar concursos de programação e hackathons para mais de 500 estudantes." },
+            "de": { "title": "Lehrfreiwilliger", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "Als Lehrassistent ehrenamtlich tätig; Workshops in Competitive Programming und DSA durchgeführt und Studierende betreut. Half bei der Organisation von Programmierwettbewerben und Hackathons für über 500 Studierende." },
+            "ru": { "title": "Волонтёр преподавания", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "Волонтёр как ассистент преподавателя; проводил воркшопы по соревновательному программированию и DSA, наставлял студентов. Помог организовать программистские конкурсы и хакатоны для 500+ студентов." },
+            "it": { "title": "Volontario d'insegnamento", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "Volontario come assistente didattico; ha tenuto workshop e mentorato studenti in programmazione competitiva e DSA. Ha aiutato a organizzare concorsi di programmazione e hackathon per oltre 500 studenti." },
+            "es": { "title": "Voluntario de enseñanza", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "Voluntario como asistente docente; impartió talleres y orientó estudiantes en programación competitiva y DSA. Ayudó a organizar concursos de programación y hackathons para más de 500 estudiantes." },
+            "fr": { "title": "Volontaire d'enseignement", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "Volontaire comme assistant d'enseignement; a animé des ateliers et mentoré des étudiants en programmation compétitive et DSA. A aidé à organiser concours de programmation et hackathons pour plus de 500 étudiants." },
+            "ko": { "title": "교육 봉사자", "institution": "PCON - Programming Club of NIT Jamshedpur", "text": "교육 보조로서 봉사; 경쟁 프로그래밍과 DSA 워크숍 진행 및 학생 멘토링. 500+ 학생 대상 프로그래밍 대회 및 해커톤 기획·운영 지원." }
           }
         },
         {
           "id": 2,
+          "img": "/images/pictures/sankalp.jpeg",
+          "faIcon": "fa-solid fa-hand-holding-heart",
+          "faIconColors": { "bg": "", "fill": "" },
           "dateStart": { "year": 2019, "month": 6 },
           "dateEnd": { "year": 2021, "month": 5 },
           "location": "Jamshedpur",
@@ -71,15 +151,41 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Teaching Volunteer",
-              "institution": "Sankalp - NGO for Underprivileged Children Education",
-              "text": "Volunteered to teach underprivileged children in local communities. Conducted free educational sessions covering basic math, English, and science subjects. Helped 50+ children in improving their academic performance."
-            }
+            "en": { "title": "Teaching Volunteer", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "Volunteered to teach underprivileged children in local communities. Conducted free educational sessions covering basic math, English, and science subjects. Helped 50+ children in improving their academic performance." },
+            "hi": { "title": "शिक्षण स्वयंसेवक", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "स्थानीय समुदायों में वंचित बच्चों को पढ़ाने के लिए स्वयंसेवा की। बुनियादी गणित, अंग्रेजी और विज्ञान विषयों पर मुफ्त शैक्षिक सत्र आयोजित किए। 50+ बच्चों की शैक्षणिक प्रदर्शन में सुधार करने में मदद की।" },
+            "bn": { "title": "শিক্ষা স্বেচ্ছাসেবী", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "স্থানীয় সম্প্রদায়ে সুবিধাবঞ্চিত শিশুদের পড়ানোর জন্য স্বেচ্ছাসেবী। প্রাথমিক গণিত, ইংরেজি ও বিজ্ঞান বিষয়ে বিনামূল্যে শিক্ষামূলক সেশন অনুষ্ঠিত। 50+ শিশুর শিক্ষাগত ফলাফল উন্নত করতে সহায়তা।" },
+            "te": { "title": "టీచింగ్ వాలంటీర్", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "స్థానిక సంఘాలలో ప్రయోజనవంతమైన పిల్లలకు చదివించడానికి వాలంటీర్ చేశారు. ప్రాథమిక గణితం, ఇంగ్లీష్ మరియు సైన్స్ విషయాలపై ఉచిత విద్యా సెషన్లు నిర్వహించారు. 50+ పిల్లల పాఠశాల పనితీరును మెరుగుపరచడంలో సహాయం చేశారు." },
+            "ta": { "title": "கற்பித்தல் தன்னார்வலர்", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "உள்ளூர் சமூகங்களில் பின்தங்கிய குழந்தைகளுக்கு பாடம் நடத்த தன்னார்வமாக இருந்தார். அடிப்படை கணிதம், ஆங்கிலம் மற்றும் அறிவியல் பாடங்கள் குறித்த இலவச கல்வி அமர்வுகள் நடத்தினார். 50+ குழந்தைகளின் கல்வித் திறனை மேம்படுத்த உதவினார்." },
+            "mr": { "title": "शिक्षण स्वयंसेवक", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "स्थानिक समुदायातील वंचित मुलांना शिकवण्यासाठी स्वयंसेवक. मूलभूत गणित, इंग्रजी आणि विज्ञान विषयांवर मोफत शैक्षणिक सत्रे आयोजित केली. 50+ मुलांच्या शैक्षणिक कामगिरीत सुधारण्यात मदत केली." },
+            "gu": { "title": "શિક્ષણ સ્વયંસેવક", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "સ્થાનિક સમુદાયોમાં વંચિત બાળકોને શીખવવા માટે સ્વયંસેવક. મૂળભૂત ગણિત, અંગ્રેજી અને વિજ્ઞાન વિષયોની મફત શૈક્ષણિક સત્રો યોજ્યા. 50+ બાળકોની શૈક્ષણિક કામગીરી સુધારવામાં મદદ કરી." },
+            "pa": { "title": "ਸਿੱਖਿਆ ਵਲੰਟੀਅਰ", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "ਸਥਾਨਕ ਭਾਈਚਾਰਿਆਂ ਵਿੱਚ ਵੰਚਿਤ ਬੱਚਿਆਂ ਨੂੰ ਪੜ੍ਹਾਉਣ ਲਈ ਵਲੰਟੀਅਰ। ਮੂਲ ਗਣਿਤ, ਅੰਗਰੇਜ਼ੀ ਅਤੇ ਵਿਗਿਆਨ ਵਿਸ਼ਿਆਂ 'ਤੇ ਮੁਫ਼ਤ ਐਜੂਕੇਸ਼ਨਲ ਸੈਸ਼ਨ ਕਰਵਾਏ। 50+ ਬੱਚਿਆਂ ਦੀ ਐਕਡੈਮਿਕ ਪ੍ਰਦਰਸ਼ਨ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਕੀਤੀ।" },
+            "ml": { "title": "പഠന സ്വയംസേവകൻ", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "പ്രാദേശിക സമൂഹങ്ങളിലെ കുറഞ്ഞ അവസരമുള്ള കുട്ടികൾക്ക് പഠിപ്പിക്കാൻ സ്വയംസേവകം. അടിസ്ഥാന ഗണിതം, ഇംഗ്ലീഷ്, സയൻസ് വിഷയങ്ങളിൽ സൗജന്യ വിദ്യാഭ്യാസ സെഷനുകൾ നടത്തി. 50+ കുട്ടികളുടെ അക്കാദമിക് പ്രകടനം മെച്ചപ്പെടുത്താൻ സഹായിച്ചു." },
+            "kn": { "title": "ಶಿಕ್ಷಣ ಸ್ವಯಂಸೇವಕ", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "ಸ್ಥಳೀಯ ಸಮುದಾಯಗಳಲ್ಲಿ ಹಿಂದುಳಿದ ಮಕ್ಕಳಿಗೆ ಪಠಿಸಲು ಸ್ವಯಂಸೇವಕರು. ಮೂಲ ಗಣಿತ, ಇಂಗ್ಲಿಷ್ ಮತ್ತು ವಿಜ್ಞಾನ ವಿಷಯಗಳ ಕುರಿತು ಉಚಿತ ಶೈಕ್ಷಣಿಕ ಅಧಿವೇಶನಗಳನ್ನು ನಡೆಸಿದರು. 50+ ಮಕ್ಕಳ ಅಕಾಡೆಮಿಕ್ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಿದರು." },
+            "or": { "title": "ଶିକ୍ଷଣ ସ୍ୱୟଂସେବୀ", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "ସ୍ଥାନୀୟ ସମାଜର ଅସୁବିଧାଗ୍ରସ୍ତ ପିଲାମାନଙ୍କୁ ପଢ଼ାଇବାକୁ ସ୍ୱୟଂସେବୀ। ମୌଳିକ ଗଣିତ, ଇଂରାଜୀ ଓ ବିଜ୍ଞାନ ବିଷୟରେ ମାଗଣା ଶିକ୍ଷା ଅଧିବେଶନ ଆଯୋଜନ କଲେ। 50+ ପିଲାଙ୍କ ଶିକ୍ଷା ପ୍ରଦର୍ଶନ ଉନ୍ନତିରେ ସାହାଯ୍ୟ କରିଥିଲେ।" },
+            "as": { "title": "শিক্ষা স্বেচ্ছাসেৱক", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "স্থানীয় সম্প্ৰদায়ত সুবিধাবঞ্চিত শিশুসকলক পঢ়াবলৈ স্বেচ্ছাসেৱক। মূল গণিত, ইংৰাজী আৰু বিজ্ঞান বিষয়ত বিনামূলীয়া শিক্ষামূলক অধিবেশন অনুষ্ঠিত কৰিছিল। 50+ শিশুৰ শিক্ষাগত ফলাফল উন্নত কৰাত সহায় কৰিছিল।" },
+            "mai": { "title": "शिक्षण स्वयंसेवक", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "स्थानीय समुदाय मे वंचित बच्चसभ क पढ़ाबै स्वयंसेवक। बुनियादी गणित, अंग्रेजी आरू विज्ञान विषय पे मुफ्त शैक्षणिक सत्र आयोजित केलौ। 50+ बच्चा क शैक्षणिक प्रदर्शन बढ़ाबै मे सहयोग केलौ।" },
+            "sd": { "title": "ٽيچنگ رضاکار", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "مقامي برادري ۾ محروم ٻچن کي پڙهائڻ لاءِ رضاکار. بنيادي رياضي، انگريزي ۽ سائنس جي موضوعن تي مفت تعليمي سيشن ڪيا. 50+ ٻچن جي اڪيڊمڪ ڪارڪردگي بيهتر ڪرڻ ۾ مدد ڪئي." },
+            "kok": { "title": "शिक्षण स्वयंसेवक", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "स्थानिक समुदायांत वंचित भुरग्यांक शिकवपाखातीर स्वयंसेवक। मूळ गणित, इंग्लीश आनी विज्ञान विषयांवेल्यान मोफत शैक्षणिक सत्र आयोजीत केलीं। 50+ भुरग्यांची शैक्षणिक कामगिरी बऱ्याक करपाक सहाय्य केलें।" },
+            "ne": { "title": "शिक्षण स्वयंसेवक", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "स्थानीय समुदायमा वंचित बच्चाहरूलाई पढाउन स्वयंसेवक। बुनियादी गणित, अङ्ग्रेजी र विज्ञान विषयमा निःशुल्क शैक्षिक सत्रहरू आयोजना गरे। 50+ बच्चाहरूको शैक्षिक प्रदर्शन सुधार्न मद्दत गरे।" },
+            "ks": { "title": "ٹیچنگ رضاکار", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "مقامی برادریس منز محروم بچن کہ پڑھاونس لین رضاکار۔ بنیادی ریاضی، انگریزی تہ سائنس موضوعس منز مفت تعلیمی سیشنس کرُن تہ 50+ بچن چھ کارکردگی بہتر کرنس منز مدد۔" },
+            "ur": { "title": "تدریسی رضاکار", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "مقامی برادریوں میں محروم بچوں کو پڑھانے کے لیے رضاکار۔ بنیادی ریاضی، انگریزی اور سائنس کے موضوعات پر مفت تعلیمی سیشنز منعقد کیے۔ 50+ بچوں کی تعلیمی کارکردگی بہتر بنانے میں مدد کی۔" },
+            "zh": { "title": "教学志愿者", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "志愿为当地社区的弱势儿童授课。开展基础数学、英语和科学科目的免费教育课程。帮助50+儿童提高学业表现。" },
+            "ja": { "title": "教育ボランティア", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "地域社会の恵まれない子どもたちに教えるボランティア。基礎数学・英語・理科の無料教育セッションを実施。50人以上の子どもの学業成績向上を支援。" },
+            "ar": { "title": "متطوع تدريس", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "تطوع لتعليم الأطفال المحرومين في المجتمعات المحلية. أجرى جلسات تعليمية مجانية في الرياضيات الأساسية والإنجليزية والعلوم. ساعد أكثر من 50 طفلاً في تحسين أدائهم الأكاديمي." },
+            "pt": { "title": "Voluntário de Ensino", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "Voluntariou para ensinar crianças carenciadas em comunidades locais. Conduziu sessões educativas gratuitas em matemática básica, inglês e ciências. Ajudou mais de 50 crianças a melhorar o desempenho académico." },
+            "de": { "title": "Lehrfreiwilliger", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "Ehrenamtlich unterrichtete benachteiligte Kinder in lokalen Gemeinden. Führt kostenlose Bildungsveranstaltungen in Grundrechnen, Englisch und Naturwissenschaften durch. Half über 50 Kindern, ihre schulischen Leistungen zu verbessern." },
+            "ru": { "title": "Волонтёр преподавания", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "Волонтёрское обучение детей из неблагополучных семей в местных общинах. Проводил бесплатные занятия по базовой математике, английскому и естественным наукам. Помог более чем 50 детям улучшить успеваемость." },
+            "it": { "title": "Volontario d'insegnamento", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "Volontariato per insegnare bambini svantaggiati nelle comunità locali. Ha tenuto sessioni educative gratuite in matematica base, inglese e scienze. Ha aiutato oltre 50 bambini a migliorare le prestazioni accademiche." },
+            "es": { "title": "Voluntario de enseñanza", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "Voluntariado para enseñar a niños desfavorecidos en comunidades locales. Impartió sesiones educativas gratuitas en matemáticas básicas, inglés y ciencias. Ayudó a más de 50 niños a mejorar su rendimiento académico." },
+            "fr": { "title": "Volontaire d'enseignement", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "Volontariat pour enseigner aux enfants défavorisés dans les communautés locales. A animé des sessions éducatives gratuites en maths de base, anglais et sciences. A aidé plus de 50 enfants à améliorer leurs résultats scolaires." },
+            "ko": { "title": "교육 봉사자", "institution": "Sankalp - NGO for Underprivileged Children Education", "text": "지역 사회의 취약계층 아동 교육 봉사. 기초 수학, 영어, 과학 과목 무료 교육 세션 진행. 50명 이상 아동의 학업 성적 향상 지원." }
           }
         },
         {
           "id": 3,
+          "img": "/images/pictures/ojass.jpg",
+          "faIcon": "fa-solid fa-laptop-code",
+          "faIconColors": { "bg": "", "fill": "" },
           "dateStart": { "year": 2020, "month": 3 },
           "dateEnd": { "year": 2022, "month": 4 },
           "location": "NIT Jamshedpur",
@@ -90,11 +196,34 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Full Stack Web Developer",
-              "institution": "Ojass - TechFest of NIT Jamshedpur",
-              "text": "Developed and maintained the official website for Ojass, the flagship techfest of NIT Jamshedpur. Built dynamic web pages with React, implemented backend services, and managed database operations. Website received 10,000+ visits during the event."
-            }
+            "en": { "title": "Full Stack Web Developer", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "Developed and maintained the official website for Ojass, the flagship techfest of NIT Jamshedpur. Built dynamic web pages with React, implemented backend services, and managed database operations. Website received 10,000+ visits during the event." },
+            "hi": { "title": "फुल स्टैक वेब डेवलपर", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur के प्रमुख टेकफेस्ट Ojass की आधिकारिक वेबसाइट विकसित और रखरखाव की। React के साथ डायनामिक वेब पेज बनाए, बैकएंड सेवाएं लागू कीं और डेटाबेस ऑपरेशंस प्रबंधित किए। इवेंट के दौरान वेबसाइट को 10,000+ विजिट मिले।" },
+            "bn": { "title": "ফুল স্ট্যাক ওয়েব ডেভেলপার", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur এর ফ্ল্যাগশিপ টেকফেস্ট Ojass-এর অফিসিয়াল ওয়েবসাইট তৈরি এবং রক্ষণাবেক্ষণ করেছেন। React দিয়ে ডাইনামিক ওয়েব পেজ বানিয়েছেন, ব্যাকএন্ড পরিষেবা বাস্তবায়ন করেছেন এবং ডেটাবেস অপারেশন পরিচালনা করেছেন। ইভেন্ট চলাকালে ওয়েবসাইটে 10,000+ ভিজিট পেয়েছে।" },
+            "te": { "title": "ఫుల్ స్టాక్ వెబ్ డెవలపర్", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur యొక్క ప్రధాన టెక్ఫెస్ట్ Ojass యొక్క అధికారిక వెబ్‌సైట్ అభివృద్ధి చేసి నిర్వహించారు. React తో డైనమిక్ వెబ్ పేజీలు నిర్మించారు, బ్యాక్‌ఎండ్ సేవలను అమలు చేసారు మరియు డేటాబేస్ ఆపరేషన్లను నిర్వహించారు. ఈవెంట్ సమయంలో వెబ్‌సైట్‌కు 10,000+ విజిట్లు వచ్చాయి." },
+            "ta": { "title": "ஃபுல் ஸ்டாக் வெப் டெவலப்பர்", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur இன் முதன்மை டெக்ஃபெஸ்ட் Ojass இன் அதிகாரப்பூர்வ வலைத்தளத்தை உருவாக்கி பராமரித்தார். React உடன் டைனமிக் வலை பக்கங்கள் கட்டினார், பேக்எண்ட் சேவைகள் செயல்படுத்தினார் மற்றும் தரவுத்தள செயல்பாடுகளை நிர்வகித்தார். நிகழ்வின் போது வலைத்தளம் 10,000+ பார்வைகளைப் பெற்றது." },
+            "mr": { "title": "फुल स्टॅक वेब डेव्हलपर", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur च्या प्रमुख टेकफेस्ट Ojass ची अधिकृत वेबसाइट विकसित आणि राखभाड केली. React सह डायनॅमिक वेब पेज बांधले, बॅकएंड सेवा अंमलात आणल्या आणि डेटाबेस ऑपरेशन्स व्यवस्थापित केले. इव्हेंट दरम्यान वेबसाइटला 10,000+ विजिट मिळाल्या." },
+            "gu": { "title": "ફુલ સ્ટેક વેબ ડેવલપર", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur ના ફ્લેગશિપ ટેકફેસ્ટ Ojass ની સત્તાવાર વેબસાઇટ વિકસાવી અને જાળવી. React સાથે ડાયનેમિક વેબ પેજ બનાવ્યા, બેકએન્ડ સેવાઓ લાગુ કરી અને ડેટાબેઝ ઑપરેશન્સ મેનેજ કર્યા. ઇવેન્ટ દરમિયાન વેબસાઇટને 10,000+ વિઝિટ મળ્યા." },
+            "pa": { "title": "ਫੁੱਲ ਸਟੈਕ ਵੈੱਬ ਡਿਵੈਲਪਰ", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur ਦੇ ਫਲੈਗਸ਼ਿਪ ਟੈਕਫੈਸਟ Ojass ਦੀ ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ ਵਿਕਸਿਤ ਅਤੇ ਸੰਭਾਲੀ। React ਨਾਲ ਡਾਇਨਾਮਿਕ ਵੈੱਬ ਪੰਨੇ ਬਣਾਏ, ਬੈਕਐਂਡ ਸੇਵਾਵਾਂ ਲਾਗੂ ਕੀਤੀਆਂ ਅਤੇ ਡਾਟਾਬੇਸ ਆਪਰੇਸ਼ਨਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕੀਤਾ। ਸਮਾਗਮ ਦੌਰਾਨ ਵੈੱਬਸਾਈਟ ਨੂੰ 10,000+ ਵਿਜ਼ਿਟ ਮਿਲੇ।" },
+            "ml": { "title": "ഫുൾ സ്റ്റാക്ക് വെബ് ഡെവലപ്പർ", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur യുടെ ഫ്ലാഗ്ഷിപ്പ് ടെക്ഫെസ്റ്റ് Ojass-ന്റെ ഔദ്യോഗിക വെബ്‌സൈറ്റ് വികസിപ്പിച്ചും പരിപാലിച്ചും. React ഉപയോഗിച്ച് ഡൈനാമിക് വെബ് പേജുകൾ നിർമ്മിച്ച് ബാക്ക്‌എൻഡ് സേവനങ്ങൾ ഇംപ്ലിമെന്റ് ചെയ്ത് ഡാറ്റാബേസ് ഓപ്പറേഷനുകൾ നിയന്ത്രിച്ചു. ഇവന്റ് സമയത്ത് വെബ്‌സൈറ്റിന് 10,000+ സന്ദർശനങ്ങൾ ലഭിച്ചു." },
+            "kn": { "title": "ಫುಲ್ ಸ್ಟ್ಯಾಕ್ ವೆಬ್ ಡೆವಲಪರ್", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur ನ ಫ್ಲ್ಯಾಗ್‌ಶಿಪ್ ಟೆಕ್‌ಫೆಸ್ಟ್ Ojass ನ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್ ಅಭಿವೃದ್ಧಿಪಡಿಸಿ ನಿರ್ವಹಿಸಿದರು. React ನೊಂದಿಗೆ ಡೈನಾಮಿಕ್ ವೆಬ್ ಪೇಜ್‌ಗಳನ್ನು ನಿರ್ಮಿಸಿದರು, ಬ್ಯಾಕ್‌ಎಂಡ್ ಸೇವೆಗಳನ್ನು ಅನುಷ್ಠಾನಗೊಳಿಸಿದರು ಮತ್ತು ಡೇಟಾಬೇಸ್ ಕಾರ್ಯಾಚರಣೆಗಳನ್ನು ನಿರ್ವಹಿಸಿದರು. ಈವೆಂಟ್ ಸಮಯದಲ್ಲಿ ವೆಬ್‌ಸೈಟಿಗೆ 10,000+ ಭೇಟಿಗಳು ಬಂದವು." },
+            "or": { "title": "ଫୁଲ୍ ସ୍ଟାକ୍ ୱେବ୍ ଡେଭଲପର୍", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur ର ଫ୍ଲାଗ୍ସିପ୍ ଟେକ୍ଫେଷ୍ଟ୍ Ojass ର ସରକାରୀ ୱେବ୍ସାଇଟ୍ ବିକାଶ କରି ରକ୍ଷଣାବେକ୍ଷଣ କଲେ। React ସହିତ ଡାଇନାମିକ୍ ୱେବ୍ ପେଜ୍ ଗଠନ କଲେ, ବ୍ୟାକେଣ୍ଡ୍ ସେବା କାର୍ଯ୍ୟକାରୀ କଲେ ଓ ଡାଟାବେସ୍ ଅପରେସନ୍ ପରିଚାଳନା କଲେ। ଇଭେଣ୍ଟ ସମୟରେ ୱେବ୍ସାଇଟ୍ କୁ 10,000+ ଭ୍ରମଣ ମିଳିଥିଲା।" },
+            "as": { "title": "ফুল ষ্টেক ৱেব ডেৱেলপাৰ", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur ৰ প্ৰধান টেকফেচ্ট Ojass ৰ আধিকাৰিক ৱেবছাইট সৃষ্টি আৰু পৰিচালনা কৰিছিল। React ৰে ডাইনামিক ৱেব পেজ সাজিছিল, বেকএণ্ড সেৱা কাৰ্যকৰী কৰিছিল আৰু ডাটাবেচ কাৰ্য পৰিচালনা কৰিছিল। অনুষ্ঠানকালত ৱেবছাইটে 10,000+ ভ্ৰমণ পাইছিল।" },
+            "mai": { "title": "फुल स्टैक वेब डेवलपर", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur क प्रमुख टेकफेस्ट Ojass क आधिकारिक वेबसाइट विकसित आरू रखरखाव केलौ। React सँ डायनामिक वेब पेज बनायलौ, बैकएंड सेवा लागू केलौ आरू डेटाबेस ऑपरेशंस प्रबंधित केलौ। इवेंट दौरान वेबसाइट क 10,000+ विजिट मिललौ।" },
+            "sd": { "title": "فل اسٽيڪ ويب ڊولپر", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur جي پرچم بردار ٽيڪفيسٽ Ojass جي سرڪاري ويب سائيٽ ٺاهي ۽ سنڀالي. React سان ڊائنامڪ ويب صفحا ٺاهيا، بئڪ اينڊ خدمتون لاڳو ڪيون ۽ ڊيٽا بيز آپريشنن کي منظم ڪيو. تقريب دوران ويب سائيٽ کي 10,000+ گهمڻ مليا." },
+            "kok": { "title": "फुल स्टॅक वेब डेव्हलपर", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur च्या प्रमुख टेकफेस्ट Ojass ची अधिकृत वेबसाइट विकसित आनी राखभाड केली। React सय डायनॅमिक वेब पेज बांदलीं, बॅकएंड सेवा अंमलांत आनलीं आनी डेटाबेस ऑपरेशन्स व्यवस्थापित केलीं। इव्हेंट दरम्यान वेबसाइटाक 10,000+ विजिट मेळ्ळ्यो।" },
+            "ne": { "title": "फुल स्ट्याक वेब विकासक", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur को प्रमुख टेकफेस्ट Ojass को आधिकारिक वेबसाइट विकास गरे र पालन गरे। React सँग डायनामिक वेब पेजहरू निर्माण गरे, ब्याकएन्ड सेवाहरू कार्यान्वयन गरे र डेटाबेस सञ्चालन व्यवस्थापन गरे। इभेन्टको समयमा वेबसाइटले 10,000+ भ्रमण प्राप्त गर्यो।" },
+            "ks": { "title": "فل سٹیک ویب ڈولپر", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur کہ پرچم بردار ٹیک فیسٹ Ojass کہ سرکاری ویب سائٹ بنائی تہ سنبھالی۔ React سان ڈائنامک ویب صفحے بنائے، بیک اینڈ سروسز لاگو کرُن تہ ڈیٹابیس آپریشنز منظم۔ تقریب دوران ویب سائٹس پے 10,000+ وزٹ مِلِت۔" },
+            "ur": { "title": "فل اسٹیک ویب ڈیولپر", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur کے پرچم بردار ٹیک فیسٹ Ojass کی سرکاری ویب سائٹ بنائی اور سنبھالی۔ React کے ساتھ ڈائنامک ویب پیجز بنائے، بیک اینڈ سروسز لاگو کیں اور ڈیٹابیس آپریشنز منظم کیے۔ تقریب کے دوران ویب سائٹ کو 10,000+ وزٹ موصول ہوئے۔" },
+            "zh": { "title": "全栈Web开发", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "开发并维护NIT Jamshedpur旗舰科技节Ojass官网。使用React构建动态网页，实现后端服务并管理数据库操作。活动期间网站获得10,000+访问量。" },
+            "ja": { "title": "フルスタックWeb開発", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT JamshedpurのフラグシップテクフェストOjassの公式サイトを開発・保守。ReactでダイナミックWebページを構築、バックエンドサービスを実装しDB操作を管理。イベント期間中に10,000+アクセス。" },
+            "ar": { "title": "مطور ويب Full Stack", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "طور وصان موقع الويب الرسمي لـ Ojass، المهرجان التقني الرئيسي لـ NIT Jamshedpur. بناء صفحات ويب ديناميكية بـ React، تنفيذ خدمات الخلفية وإدارة عمليات قاعدة البيانات. تلقت الموقع أكثر من 10,000 زيارة أثناء الحدث." },
+            "pt": { "title": "Desenvolvedor Web Full Stack", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "Desenvolveu e manteve o site oficial de Ojass, o techfest principal da NIT Jamshedpur. Construiu páginas web dinâmicas com React, implementou serviços backend e geriu operações de base de dados. O site recebeu 10,000+ visitas durante o evento." },
+            "de": { "title": "Full-Stack-Webentwickler", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "Entwickelte und betreute die offizielle Website von Ojass, dem Flagship-Techfest der NIT Jamshedpur. Dynamische Webseiten mit React gebaut, Backend-Services implementiert und Datenbankoperationen verwaltet. Über 10.000 Besuche während des Events." },
+            "ru": { "title": "Full Stack веб-разработчик", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "Разработал и поддерживал официальный сайт Ojass, главного техфеста NIT Jamshedpur. Построил динамические страницы на React, реализовал бэкенд-сервисы и управлял операциями БД. Более 10 000 посещений во время мероприятия." },
+            "it": { "title": "Sviluppatore Web Full Stack", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "Sviluppato e mantenuto il sito ufficiale di Ojass, il techfest principale di NIT Jamshedpur. Costruite pagine web dinamiche con React, implementati servizi backend e gestite operazioni database. oltre 10.000 visite durante l'evento." },
+            "es": { "title": "Desarrollador Web Full Stack", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "Desarrolló y mantuvo el sitio web oficial de Ojass, el techfest principal de NIT Jamshedpur. Construyó páginas web dinámicas con React, implementó servicios backend y gestionó operaciones de base de datos. 10,000+ visitas durante el evento." },
+            "fr": { "title": "Développeur Web Full Stack", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "A développé et maintenu le site officiel d'Ojass, le techfest phare de NIT Jamshedpur. Pages web dynamiques avec React, services backend et gestion de la BDD. Plus de 10 000 visites pendant l'événement." },
+            "ko": { "title": "풀스택 웹 개발", "institution": "Ojass - TechFest of NIT Jamshedpur", "text": "NIT Jamshedpur 플래그십 테크페스트 Ojass 공식 웹사이트 개발 및 유지보수. React로 동적 웹 페이지 구축, 백엔드 서비스 구현, DB 작업 관리. 행사 기간 10,000+ 방문." }
           }
         }
       ]

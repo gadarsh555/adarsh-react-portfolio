@@ -21,6 +21,7 @@ export const useParser = () => {
     const parseSectionTitle = (section) => {
         const isLgOrHigher = viewport.isBreakpoint("lg")
         const titleLocales = section.data?.title?.locales || {}
+        const isAboutSection = section?.id === "about"
 
         return {
             title:
@@ -29,7 +30,7 @@ export const useParser = () => {
                 language.getTranslation(titleLocales, "title_short"),
 
             prefix:
-                isLgOrHigher ?
+                isLgOrHigher && isAboutSection ?
                 language.getTranslation(titleLocales, "title_long_prefix") :
                 null,
 

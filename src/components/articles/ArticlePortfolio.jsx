@@ -4,6 +4,7 @@ import Article from "/src/components/articles/base/Article.jsx"
 import Transitionable from "/src/components/capabilities/Transitionable.jsx"
 import {useViewport} from "/src/providers/ViewportProvider.jsx"
 import {useConstants} from "/src/hooks/constants.js"
+import {useUtils} from "/src/hooks/utils.js"
 import AvatarView from "/src/components/generic/AvatarView.jsx"
 import {Tag, Tags} from "/src/components/generic/Tags.jsx"
 import ArticleItemPreviewMenu from "/src/components/articles/partials/ArticleItemPreviewMenu.jsx"
@@ -122,8 +123,14 @@ function ArticlePortfolioItemTitle({ itemWrapper }) {
  * @constructor
  */
 function ArticlePortfolioItemBody({ itemWrapper }) {
+    const utils = useUtils()
+    const textHtml = utils.string.highlightPortfolioTerms(itemWrapper.locales.text || "")
+
     return (
         <div className={`article-portfolio-item-body`}>
+            <div className={`article-portfolio-item-body-description text-2`}
+                 dangerouslySetInnerHTML={{__html: textHtml}}/>
+
             <Tags className={`article-portfolio-item-body-tags`}>
                 {itemWrapper.locales.tags && Boolean(itemWrapper.locales.tags.length) && itemWrapper.locales.tags.map((tag, key) => (
                     <Tag key={key}
@@ -132,9 +139,6 @@ function ArticlePortfolioItemBody({ itemWrapper }) {
                          className={`article-portfolio-item-body-tag text-1`}/>
                 ))}
             </Tags>
-
-            <div className={`article-portfolio-item-body-description text-2`}
-                 dangerouslySetInnerHTML={{__html: itemWrapper.locales.text}}/>
         </div>
     )
 }

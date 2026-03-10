@@ -14,6 +14,12 @@ div.article-timeline-item-info-for-timelines {
 
     @include media-breakpoint-down(sm) {
         --content-padding: 22px 28px 22px 28px;
+        --date-badge-width: 140px;
+    }
+
+    @media (max-width: $breakpoint-mobile-narrow) {
+        --content-padding: 16px 20px;
+        --date-badge-width: 110px;
     }
 }
 
@@ -29,6 +35,8 @@ div.article-timeline-item-info-for-timelines {
 
     background-color: var(--theme-boards-background);
     border-radius: $standard-border-radius;
+    box-shadow: var(--theme-board-shadow);
+    border: var(--theme-card-border);
 }
 
 /** -------------- HEADING -------------- **/
@@ -63,8 +71,35 @@ div.article-timeline-item-info-for-timelines-header-title {
     }
 }
 
+div.article-timeline-item-info-for-timelines-institution {
+    font-size: 0.9em;
+    color: var(--theme-texts-6);
+    margin-top: 2px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+    div.article-timeline-item-info-for-timelines-institution-name-block {
+        font-weight: 600;
+    }
+
+    div.article-timeline-item-info-for-timelines-institution-location-block {
+        font-weight: 400;
+        margin-top: 4px;
+    }
+}
+
 ul.article-timeline-item-info-for-timelines-header-prop-list {
     color: var(--theme-texts-12);
+}
+
+span.highlight-metric {
+    font-weight: 600;
+    color: var(--theme-primary);
+}
+
+span.highlight-experience {
+    font-weight: 700;
 }
 
 /** -------------- BODY -------------- **/
@@ -80,6 +115,161 @@ div.article-timeline-item-info-for-timelines-body {
 
 ul.article-timeline-item-info-for-timelines-body-list {
     margin-top: 8px;
+}
+
+/** Education Background - same content font style as Skills page (category cards) */
+#section-education {
+    div.article-timeline-item-info-for-timelines-body,
+    div.article-timeline-item-info-for-timelines-body-text {
+        color: var(--theme-texts-light-2);
+        font-size: 1.02rem;
+        line-height: 1.5;
+        letter-spacing: 0.01em;
+    }
+    span.highlight-metric,
+    span.highlight-education {
+        font-weight: 700;
+        color: inherit;
+    }
+
+    /* Separate blocks: school/college name and address - light green gradient */
+    div.article-timeline-item-info-for-timelines-institution {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 4px;
+        margin-top: 4px;
+        margin-bottom: 5px;
+
+        div.article-timeline-item-info-for-timelines-institution-name-block,
+        div.article-timeline-item-info-for-timelines-institution-location-block {
+            display: inline-block;
+            width: fit-content;
+            background: linear-gradient(135deg, #ecfccb 0%, #bbf7d0 50%, #86efac 100%);
+            color: #14532d;
+            padding: 8px 14px;
+            border-radius: 8px;
+            font-size: 0.94rem;
+        }
+
+        div.article-timeline-item-info-for-timelines-institution-location-block {
+            margin-top: 0;
+            font-weight: bold;
+        }
+    }
+
+    /* Tags - blue background, white text */
+    li.article-timeline-item-info-for-timelines-tags-footer-tag {
+        background-color: #2563eb !important;
+        color: #fff !important;
+
+        &:hover {
+            background-color: #1d4ed8 !important;
+        }
+    }
+}
+
+/** Extracurricular Activities - separate blocks for subheadings, light green style, less margin */
+#section-extracurriculars {
+    div.article-timeline-item-info-for-timelines-institution {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 4px;
+        margin-top: 4px;
+        margin-bottom: 5px;
+
+        div.article-timeline-item-info-for-timelines-institution-name-block,
+        div.article-timeline-item-info-for-timelines-institution-location-block {
+            display: inline-block;
+            width: fit-content;
+            background: linear-gradient(135deg, #ecfccb 0%, #bbf7d0 50%, #86efac 100%);
+            color: #14532d;
+            padding: 3px 10px;
+            border-radius: 6px;
+            font-size: 0.94rem;
+        }
+
+        div.article-timeline-item-info-for-timelines-institution-location-block {
+            margin-top: 0;
+            font-weight: bold;
+        }
+    }
+}
+
+/** Achievements - separate blocks for subheadings (institution etc), light green style */
+#section-achievements {
+    div.article-timeline-item-info-for-timelines-institution {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 4px;
+        margin-top: 4px;
+        margin-bottom: 5px;
+
+        div.article-timeline-item-info-for-timelines-institution-name-block,
+        div.article-timeline-item-info-for-timelines-institution-location-block {
+            display: inline-block;
+            width: fit-content;
+            background: linear-gradient(135deg, #ecfccb 0%, #bbf7d0 50%, #86efac 100%);
+            color: #14532d;
+            padding: 3px 10px;
+            border-radius: 6px;
+            font-size: 0.94rem;
+        }
+
+        div.article-timeline-item-info-for-timelines-institution-location-block {
+            margin-top: 0;
+            font-weight: bold;
+        }
+    }
+}
+
+/** Work Experience - separate blocks for company name and location, light green style */
+#section-experience {
+    div.article-timeline-item-info-for-timelines-institution {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 4px;
+        margin-top: 4px;
+        margin-bottom: 5px;
+
+        div.article-timeline-item-info-for-timelines-institution-name-block,
+        div.article-timeline-item-info-for-timelines-institution-location-block {
+            display: inline-block;
+            width: fit-content;
+            background: linear-gradient(135deg, #ecfccb 0%, #bbf7d0 50%, #86efac 100%);
+            color: #14532d;
+            padding: 8px 14px;
+            border-radius: 8px;
+            font-size: 0.94rem;
+        }
+
+        div.article-timeline-item-info-for-timelines-institution-location-block {
+            margin-top: 0;
+            font-weight: bold;
+        }
+    }
+}
+
+/** -------------- IMAGES (COMPANY LOGOS) -------------- **/
+div.article-timeline-item-info-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    margin-top: 16px;
+
+    img.article-timeline-item-info-images-logo {
+        max-width: 72px;
+        max-height: 72px;
+        width: auto;
+        height: auto;
+        object-fit: contain;
+        border-radius: 6px;
+        background-color: var(--theme-boards-background-alt, #f5f5f5);
+    }
 }
 
 /** -------------- FOOTER -------------- **/

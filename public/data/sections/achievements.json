@@ -24,7 +24,31 @@
         "title_short_nav": "경력 성과",
         "title_long_prefix": "다음은",
         "title_long": "{{경력 성과}}입니다"
-      }
+      },
+      "hi": { "title_short": "पुरस्कार", "title_short_nav": "उपलब्धियाँ", "title_long_prefix": "ये रहे मेरी", "title_long": "करियर {{उपलब्धियाँ}}" },
+      "bn": { "title_short": "পুরস্কার", "title_short_nav": "অর্জন", "title_long_prefix": "এগুলো আমার", "title_long": "ক্যারিয়ার {{অর্জন}}" },
+      "te": { "title_short": "అవార్డులు", "title_short_nav": "సాధనలు", "title_long_prefix": "ఇవి నా", "title_long": "వృత్తి {{సాధనలు}}" },
+      "ta": { "title_short": "விருதுகள்", "title_short_nav": "சாதனைகள்", "title_long_prefix": "இவை என்", "title_long": "வாழ்க்கை {{சாதனைகள்}}" },
+      "mr": { "title_short": "पुरस्कार", "title_short_nav": "यश", "title_long_prefix": "हे आहेत माझे", "title_long": "करियर {{यश}}" },
+      "gu": { "title_short": "ઇનામો", "title_short_nav": "ઉપલબ્ધિઓ", "title_long_prefix": "અહીં છે મારી", "title_long": "કારકિર્દીની {{ઉપલબ્ધિઓ}}" },
+      "pa": { "title_short": "ਇਨਾਮ", "title_short_nav": "ਉਪਲਬਧੀਆਂ", "title_long_prefix": "ਇੱਥੇ ਮੇਰੀਆਂ", "title_long": "ਕੈਰੀਅਰ {{ਉਪਲਬਧੀਆਂ}}" },
+      "ml": { "title_short": "പുരസ്കാരങ്ങൾ", "title_short_nav": "സംഭവനീയത", "title_long_prefix": "എന്റെ", "title_long": "കരിയർ {{സാധനകൾ}}" },
+      "kn": { "title_short": "ಪುರಸ್ಕಾರಗಳು", "title_short_nav": "ಸಾಧನೆಗಳು", "title_long_prefix": "ಇವು ನನ್ನ", "title_long": "ವೃತ್ತಿ {{ಸಾಧನೆಗಳು}}" },
+      "or": { "title_short": "ପୁରସ୍କାର", "title_short_nav": "ଉପଲବ୍ଧି", "title_long_prefix": "ଏଗୁଡିକ ମୋର", "title_long": "କ୍ୟାରିଅର {{ଉପଲବ୍ଧି}}" },
+      "as": { "title_short": "বঁটা", "title_short_nav": "অভিগম", "title_long_prefix": "ইবোৰ মোৰ", "title_long": "কেৰিয়াৰৰ {{অভিগম}}" },
+      "mai": { "title_short": "पुरस्कार", "title_short_nav": "उपलब्धि", "title_long_prefix": "ई छी महरा", "title_long": "करियर {{उपलब्धि}}" },
+      "sd": { "title_short": "انعام", "title_short_nav": "سکناونون", "title_long_prefix": "هيءَ منهنجيون", "title_long": "ڪيريئر {{سکناونون}}" },
+      "kok": { "title_short": "पुरस्कार", "title_short_nav": "उपलब्धी", "title_long_prefix": "हें म्हजें", "title_long": "करियर {{उपलब्धी}}" },
+      "ne": { "title_short": "पुरस्कार", "title_short_nav": "उपलब्धिहरू", "title_long_prefix": "यी हुन् मेरा", "title_long": "करियर {{उपलब्धिहरू}}" },
+      "ks": { "title_short": "انعام", "title_short_nav": "سکناون", "title_long_prefix": "یہ چھ میچھ", "title_long": "کیرئیر {{سکناون}}" },
+      "ur": { "title_short": "انعامات", "title_short_nav": "کامیابیاں", "title_long_prefix": "یہ ہیں میری", "title_long": "کیرئیر کی {{کامیابیاں}}" },
+      "zh": { "title_short": "奖项", "title_short_nav": "成就", "title_long_prefix": "以下是我的", "title_long": "职业{{成就}}" },
+      "ja": { "title_short": "受賞", "title_short_nav": "実績", "title_long_prefix": "私の", "title_long": "キャリア{{実績}}" },
+      "ar": { "title_short": "الجوائز", "title_short_nav": "الإنجازات", "title_long_prefix": "إليك", "title_long": "{{إنجازاتي}} المهنية" },
+      "pt": { "title_short": "Prêmios", "title_short_nav": "Conquistas", "title_long_prefix": "Aqui estão minhas", "title_long": "{{Conquistas}} de Carreira" },
+      "de": { "title_short": "Auszeichnungen", "title_short_nav": "Erfolge", "title_long_prefix": "Hier sind meine", "title_long": "Karriere{{erfolge}}" },
+      "ru": { "title_short": "Награды", "title_short_nav": "Достижения", "title_long_prefix": "Вот мои", "title_long": "карьерные {{достижения}}" },
+      "it": { "title_short": "Premi", "title_short_nav": "Risultati", "title_long_prefix": "Ecco i miei", "title_long": "{{Risultati}} di Carriera" }
     }
   },
 
@@ -34,6 +58,30 @@
       "component": "ArticleCards",
       "locales": {
         "en": { "title": "Certifications" },
+        "hi": { "title": "प्रमाणपत्र" },
+        "bn": { "title": "সার্টিফিকেট" },
+        "te": { "title": "ధృవపత్రాలు" },
+        "ta": { "title": "சான்றிதழ்கள்" },
+        "mr": { "title": "प्रमाणपत्रे" },
+        "gu": { "title": "પ્રમાણપત્રો" },
+        "pa": { "title": "ਸਰਟੀਫਿਕੇਟ" },
+        "ml": { "title": "സർട്ടിഫിക്കറ്റുകൾ" },
+        "kn": { "title": "ಪ್ರಮಾಣಪತ್ರಗಳು" },
+        "or": { "title": "ପ୍ରମାଣପତ୍ର" },
+        "as": { "title": "প্ৰমাণপত্ৰ" },
+        "mai": { "title": "प्रमाणपत्र" },
+        "sd": { "title": "سرٽيفڪيٽ" },
+        "kok": { "title": "प्रमाणपत्र" },
+        "ne": { "title": "प्रमाणपत्रहरू" },
+        "ks": { "title": "سرٹیفکیٹس" },
+        "ur": { "title": "سرٹیفکیٹس" },
+        "zh": { "title": "证书" },
+        "ja": { "title": "資格証明" },
+        "ar": { "title": "الشهادات" },
+        "pt": { "title": "Certificações" },
+        "de": { "title": "Zertifikate" },
+        "ru": { "title": "Сертификаты" },
+        "it": { "title": "Certificazioni" },
         "es": { "title": "Certificaciones" },
         "fr": { "title": "Certifications" },
         "ko": { "title": "인증서" }
@@ -45,7 +93,7 @@
       "items": [
         {
           "id": 1,
-          "img": "",
+          "img": "/images/pictures/Pcon_logo.png",
           "faIcon": "fa-solid fa-certificate",
           "faIconColors": { "bg": "#FF6B6B", "fill": "#EEE" },
           "date": { "year": 2020, "month": 9 },
@@ -54,16 +102,40 @@
             "tooltipString": "see_certification"
           },
           "locales": {
-            "en": {
-              "title": "{{PCON}} Certificate",
-              "text": "Programming Club of NIT Jamshedpur - Teaching Volunteer"
-            }
+            "en": { "title": "{{PCON}} Certificate", "text": "Programming Club of NIT Jamshedpur - Teaching Volunteer" },
+            "hi": { "title": "{{PCON}} प्रमाणपत्र", "text": "Programming Club of NIT Jamshedpur - शिक्षण स्वयंसेवक" },
+            "bn": { "title": "{{PCON}} সার্টিফিকেট", "text": "Programming Club of NIT Jamshedpur - শিক্ষা স্বেচ্ছাসেবী" },
+            "te": { "title": "{{PCON}} ధృవపత్రం", "text": "Programming Club of NIT Jamshedpur - టీచింగ్ వాలంటీర్" },
+            "ta": { "title": "{{PCON}} சான்றிதழ்", "text": "Programming Club of NIT Jamshedpur - கற்பித்தல் தன்னார்வலர்" },
+            "mr": { "title": "{{PCON}} प्रमाणपत्र", "text": "Programming Club of NIT Jamshedpur - शिक्षण स्वयंसेवक" },
+            "gu": { "title": "{{PCON}} પ્રમાણપત્ર", "text": "Programming Club of NIT Jamshedpur - શિક્ષણ સ્વયંસેવક" },
+            "pa": { "title": "{{PCON}} ਸਰਟੀਫਿਕੇਟ", "text": "Programming Club of NIT Jamshedpur - ਸਿੱਖਿਆ ਵਲੰਟੀਅਰ" },
+            "ml": { "title": "{{PCON}} സർട്ടിഫിക്കറ്റ്", "text": "Programming Club of NIT Jamshedpur - ടീച്ചിങ്ങ് വാലന്റിയർ" },
+            "kn": { "title": "{{PCON}} ಪ್ರಮಾಣಪತ್ರ", "text": "Programming Club of NIT Jamshedpur - ಶಿಕ್ಷಣ ಸ್ವಯಂಸೇವಕ" },
+            "or": { "title": "{{PCON}} ପ୍ରମାଣପତ୍ର", "text": "Programming Club of NIT Jamshedpur - ଶିକ୍ଷଣ ସ୍ୱୟଂସେବୀ" },
+            "as": { "title": "{{PCON}} প্ৰমাণপত্ৰ", "text": "Programming Club of NIT Jamshedpur - পাঠদান স্বেচ্ছাসেৱক" },
+            "mai": { "title": "{{PCON}} प्रमाणपत्र", "text": "Programming Club of NIT Jamshedpur - शिक्षण स्वयंसेवक" },
+            "sd": { "title": "{{PCON}} سرٽيفڪيٽ", "text": "Programming Club of NIT Jamshedpur - ٽيچنگ رضاکار" },
+            "kok": { "title": "{{PCON}} प्रमाणपत्र", "text": "Programming Club of NIT Jamshedpur - शिक्षण स्वयंसेवक" },
+            "ne": { "title": "{{PCON}} प्रमाणपत्र", "text": "Programming Club of NIT Jamshedpur - शिक्षण स्वयंसेवक" },
+            "ks": { "title": "{{PCON}} سرٹیفکیٹ", "text": "Programming Club of NIT Jamshedpur - ٹیچنگ رضاکار" },
+            "ur": { "title": "{{PCON}} سرٹیفکیٹ", "text": "Programming Club of NIT Jamshedpur - تدریسی رضاکار" },
+            "zh": { "title": "{{PCON}}证书", "text": "Programming Club of NIT Jamshedpur - 教学志愿者" },
+            "ja": { "title": "{{PCON}}証明書", "text": "Programming Club of NIT Jamshedpur - 教育ボランティア" },
+            "ar": { "title": "{{PCON}} شهادة", "text": "Programming Club of NIT Jamshedpur - متطوع تدريس" },
+            "pt": { "title": "{{PCON}} Certificado", "text": "Programming Club of NIT Jamshedpur - Voluntário de Ensino" },
+            "de": { "title": "{{PCON}} Zertifikat", "text": "Programming Club of NIT Jamshedpur - Lehrfreiwilliger" },
+            "ru": { "title": "{{PCON}} Сертификат", "text": "Programming Club of NIT Jamshedpur - Волонтёр преподавания" },
+            "it": { "title": "{{PCON}} Certificato", "text": "Programming Club of NIT Jamshedpur - Volontario d'insegnamento" },
+            "es": { "title": "{{PCON}} Certificado", "text": "Programming Club of NIT Jamshedpur - Voluntario de enseñanza" },
+            "fr": { "title": "{{PCON}} Certificat", "text": "Programming Club of NIT Jamshedpur - Volontaire d'enseignement" },
+            "ko": { "title": "{{PCON}} 인증서", "text": "Programming Club of NIT Jamshedpur - 교육 봉사자" }
           }
         },
 
         {
           "id": 2,
-          "img": "",
+          "img": "/images/pictures/nit-jsr-logo-3.jpeg",
           "faIcon": "fa-solid fa-certificate",
           "faIconColors": { "bg": "#4ECDC4", "fill": "#EEE" },
           "date": { "year": 2021, "month": 6 },
@@ -72,16 +144,40 @@
             "tooltipString": "see_certification"
           },
           "locales": {
-            "en": {
-              "title": "{{WebTeam}} Certificate",
-              "text": "NIT Jamshedpur Web Development Team"
-            }
+            "en": { "title": "{{WebTeam}} Certificate", "text": "NIT Jamshedpur Web Development Team" },
+            "hi": { "title": "{{WebTeam}} प्रमाणपत्र", "text": "NIT Jamshedpur वेब डेवलपमेंट टीम" },
+            "bn": { "title": "{{WebTeam}} সার্টিফিকেট", "text": "NIT Jamshedpur ওয়েব ডেভেলপমেন্ট দল" },
+            "te": { "title": "{{WebTeam}} ధృవపత్రం", "text": "NIT Jamshedpur వెబ్ డెవలప్మెంట్ టీమ్" },
+            "ta": { "title": "{{WebTeam}} சான்றிதழ்", "text": "NIT Jamshedpur வலை அபிவிருத்தி குழு" },
+            "mr": { "title": "{{WebTeam}} प्रमाणपत्र", "text": "NIT Jamshedpur वेब डेव्हलपमेंट टीम" },
+            "gu": { "title": "{{WebTeam}} પ્રમાણપત્ર", "text": "NIT Jamshedpur વેબ ડેવલપમેંટ ટીમ" },
+            "pa": { "title": "{{WebTeam}} ਸਰਟੀਫਿਕੇਟ", "text": "NIT Jamshedpur ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ ਟੀਮ" },
+            "ml": { "title": "{{WebTeam}} സർട്ടിഫിക്കറ്റ്", "text": "NIT Jamshedpur വെബ് ഡെവലപ്മെന്റ് ടീം" },
+            "kn": { "title": "{{WebTeam}} ಪ್ರಮಾಣಪತ್ರ", "text": "NIT Jamshedpur ವೆಬ್ ಅಭಿವೃದ್ಧಿ ತಂಡ" },
+            "or": { "title": "{{WebTeam}} ପ୍ରମାଣପତ୍ର", "text": "NIT Jamshedpur ଓବ୍ ଡେଭଲପମେଣ୍ଟ ଦଳ" },
+            "as": { "title": "{{WebTeam}} প্ৰমাণপত্ৰ", "text": "NIT Jamshedpur ৱেব ডেভেলপমেণ্ট দল" },
+            "mai": { "title": "{{WebTeam}} प्रमाणपत्र", "text": "NIT Jamshedpur वेब डेवलपमेंट टीम" },
+            "sd": { "title": "{{WebTeam}} سرٽيفڪيٽ", "text": "NIT Jamshedpur ويب ڊولپمينٽ ٽيم" },
+            "kok": { "title": "{{WebTeam}} प्रमाणपत्र", "text": "NIT Jamshedpur वेब डेव्हलपमेंट टीम" },
+            "ne": { "title": "{{WebTeam}} प्रमाणपत्र", "text": "NIT Jamshedpur वेब विकास टोली" },
+            "ks": { "title": "{{WebTeam}} سرٹیفکیٹ", "text": "NIT Jamshedpur ویب ڈولپمنٹ ٹیم" },
+            "ur": { "title": "{{WebTeam}} سرٹیفکیٹ", "text": "NIT Jamshedpur ویب ڈیولپمنٹ ٹیم" },
+            "zh": { "title": "{{WebTeam}}证书", "text": "NIT Jamshedpur 网页开发团队" },
+            "ja": { "title": "{{WebTeam}}証明書", "text": "NIT Jamshedpur Web開発チーム" },
+            "ar": { "title": "{{WebTeam}} شهادة", "text": "NIT Jamshedpur فريق تطوير الويب" },
+            "pt": { "title": "{{WebTeam}} Certificado", "text": "NIT Jamshedpur Equipa de Desenvolvimento Web" },
+            "de": { "title": "{{WebTeam}} Zertifikat", "text": "NIT Jamshedpur Webentwicklungsteam" },
+            "ru": { "title": "{{WebTeam}} Сертификат", "text": "NIT Jamshedpur Команда веб-разработки" },
+            "it": { "title": "{{WebTeam}} Certificato", "text": "NIT Jamshedpur Team Sviluppo Web" },
+            "es": { "title": "{{WebTeam}} Certificado", "text": "NIT Jamshedpur Equipo de Desarrollo Web" },
+            "fr": { "title": "{{WebTeam}} Certificat", "text": "NIT Jamshedpur Équipe Développement Web" },
+            "ko": { "title": "{{WebTeam}} 인증서", "text": "NIT Jamshedpur 웹 개발 팀" }
           }
         },
 
         {
           "id": 3,
-          "img": "",
+          "img": "/images/pictures/Tekion-Logo.png",
           "faIcon": "fa-solid fa-certificate",
           "faIconColors": { "bg": "#45B7D1", "fill": "#EEE" },
           "date": { "year": 2024, "month": 3 },
@@ -90,16 +186,40 @@
             "tooltipString": "see_certification"
           },
           "locales": {
-            "en": {
-              "title": "{{Tekion}} Certificate",
-              "text": "Software Engineer -2 Frontend, Tekion Corp"
-            }
+            "en": { "title": "{{Tekion}} Certificate", "text": "Software Engineer -2 Frontend, Tekion Corp" },
+            "hi": { "title": "{{Tekion}} प्रमाणपत्र", "text": "सॉफ्टवेयर इंजीनियर -2 फ्रंटएंड, Tekion Corp" },
+            "bn": { "title": "{{Tekion}} সার্টিফিকেট", "text": "সফটওয়্যার ইঞ্জিনিয়ার -২ ফ্রন্টএন্ড, Tekion Corp" },
+            "te": { "title": "{{Tekion}} ధృవపత్రం", "text": "సాఫ్ట్‌వేర్ ఇంజనీర్ -2 ఫ్రంట్‌ఎండ్, Tekion Corp" },
+            "ta": { "title": "{{Tekion}} சான்றிதழ்", "text": "மென்பொருள் பொறியாளர் -2 ஃப்ரன்ட்எண்ட், Tekion Corp" },
+            "mr": { "title": "{{Tekion}} प्रमाणपत्र", "text": "सॉफ्टवेअर अभियंता -2 फ्रंटएंड, Tekion Corp" },
+            "gu": { "title": "{{Tekion}} પ્રમાણપત્ર", "text": "સોફ્ટવેર ઇજનેર -2 ફ્રન્ટએન્ડ, Tekion Corp" },
+            "pa": { "title": "{{Tekion}} ਸਰਟੀਫਿਕੇਟ", "text": "ਸਾਫਟਵੇਅਰ ਇੰਜੀਨੀਅਰ -2 ਫਰੰਟਐਂਡ, Tekion Corp" },
+            "ml": { "title": "{{Tekion}} സർട്ടിഫിക്കറ്റ്", "text": "സോഫ്റ്റ്വെയർ എഞ്ചിനീയർ -2 ഫ്രണ്ടെൻഡ്, Tekion Corp" },
+            "kn": { "title": "{{Tekion}} ಪ್ರಮಾಣಪತ್ರ", "text": "ಸಾಫ್ಟ್‌ವೇರ್ ಇಂಜಿನಿಯರ್ -2 ಫ್ರಂಟ್‌ಎಂಡ್, Tekion Corp" },
+            "or": { "title": "{{Tekion}} ପ୍ରମାଣପତ୍ର", "text": "ସଫ୍ଟୱେର୍ ଇଞ୍ଜିନିୟର -2 ଫ୍ରଣ୍ଟ୍ୟାଣ୍ଡ୍, Tekion Corp" },
+            "as": { "title": "{{Tekion}} প্ৰমাণপত্ৰ", "text": "ছফ্টৱেৰ ইঞ্জিনিয়াৰ -২ ফ্ৰণ্টেণ্ড, Tekion Corp" },
+            "mai": { "title": "{{Tekion}} प्रमाणपत्र", "text": "सॉफ्टवेयर इंजीनियर -2 फ्रंटएंड, Tekion Corp" },
+            "sd": { "title": "{{Tekion}} سرٽيفڪيٽ", "text": "سافٽويئر انجنيئر -2 فرنٽ اينڊ, Tekion Corp" },
+            "kok": { "title": "{{Tekion}} प्रमाणपत्र", "text": "सॉफ्टवेयर इंजीनियर -2 फ्रंटएंड, Tekion Corp" },
+            "ne": { "title": "{{Tekion}} प्रमाणपत्र", "text": "सफ्टवेयर इन्जिनियर -2 फ्रन्टएन्ड, Tekion Corp" },
+            "ks": { "title": "{{Tekion}} سرٹیفکیٹ", "text": "سافٹ ویئر انجینئر -2 فرنٹ اینڈ, Tekion Corp" },
+            "ur": { "title": "{{Tekion}} سرٹیفکیٹ", "text": "سافٹ ویئر انجینئر -2 فرنٹ اینڈ, Tekion Corp" },
+            "zh": { "title": "{{Tekion}}证书", "text": "软件工程师-2 前端, Tekion Corp" },
+            "ja": { "title": "{{Tekion}}証明書", "text": "ソフトウェアエンジニア-2 フロントエンド, Tekion Corp" },
+            "ar": { "title": "{{Tekion}} شهادة", "text": "مهندس برمجيات -2 واجهة أمامية, Tekion Corp" },
+            "pt": { "title": "{{Tekion}} Certificado", "text": "Engenheiro de Software -2 Frontend, Tekion Corp" },
+            "de": { "title": "{{Tekion}} Zertifikat", "text": "Software-Ingenieur -2 Frontend, Tekion Corp" },
+            "ru": { "title": "{{Tekion}} Сертификат", "text": "Инженер-программист -2 Фронтенд, Tekion Corp" },
+            "it": { "title": "{{Tekion}} Certificato", "text": "Ingegnere Software -2 Frontend, Tekion Corp" },
+            "es": { "title": "{{Tekion}} Certificado", "text": "Ingeniero de Software -2 Frontend, Tekion Corp" },
+            "fr": { "title": "{{Tekion}} Certificat", "text": "Ingénieur Logiciel -2 Frontend, Tekion Corp" },
+            "ko": { "title": "{{Tekion}} 인증서", "text": "소프트웨어 엔지니어 -2 프론트엔드, Tekion Corp" }
           }
         },
 
         {
           "id": 4,
-          "img": "",
+          "img": "/images/pictures/Saas-Labs-Logo-2.jpg",
           "faIcon": "fa-solid fa-certificate",
           "faIconColors": { "bg": "#9B59B6", "fill": "#EEE" },
           "date": { "year": 2023, "month": 7 },
@@ -108,10 +228,34 @@
             "tooltipString": "see_certification"
           },
           "locales": {
-            "en": {
-              "title": "{{SaaS Labs}} Certificate",
-              "text": "Internship Experience - Full Stack Development"
-            }
+            "en": { "title": "{{SaaS Labs}} Certificate", "text": "Internship Experience - Full Stack Development" },
+            "hi": { "title": "{{SaaS Labs}} प्रमाणपत्र", "text": "इंटर्नशिप अनुभव - फुल स्टैक डेवलपमेंट" },
+            "bn": { "title": "{{SaaS Labs}} সার্টিফিকেট", "text": "ইনটার্নশিপ অভিজ্ঞতা - ফুল স্ট্যাক ডেভেলপমেন্ট" },
+            "te": { "title": "{{SaaS Labs}} ధృవపత్రం", "text": "ఇంటర్న్‌షిప్ అనుభవం - ఫుల్ స్టాక్ డెవలప్మెంట్" },
+            "ta": { "title": "{{SaaS Labs}} சான்றிதழ்", "text": "பயிற்சி அனுபவம் - ஃபுல் ஸ்டாக் டெவலப்மென்ட்" },
+            "mr": { "title": "{{SaaS Labs}} प्रमाणपत्र", "text": "इंटर्नशिप अनुभव - फुल स्टॅक डेव्हलपमेंट" },
+            "gu": { "title": "{{SaaS Labs}} પ્રમાણપત્ર", "text": "ઇન્ટર્નશિપ અનુભવ - ફુલ સ્ટેક ડેવલપમેંટ" },
+            "pa": { "title": "{{SaaS Labs}} ਸਰਟੀਫਿਕੇਟ", "text": "ਇੰਟਰਨਸ਼ਿਪ ਤਜਰਬਾ - ਫੁੱਲ ਸਟੈਕ ਡਿਵੈਲਪਮੈਂਟ" },
+            "ml": { "title": "{{SaaS Labs}} സർട്ടിഫിക്കറ്റ്", "text": "ഇന്റേൺഷിപ്പ് അനുഭവം - ഫുൾ സ്റ്റാക്ക് ഡെവലപ്മെന്റ്" },
+            "kn": { "title": "{{SaaS Labs}} ಪ್ರಮಾಣಪತ್ರ", "text": "ಇಂಟರ್ನ್‌ಶಿಪ್ ಅನುಭವ - ಫುಲ್ ಸ್ಟ್ಯಾಕ್ ಡೆವಲಪ್ಮೆಂಟ್" },
+            "or": { "title": "{{SaaS Labs}} ପ୍ରମାଣପତ୍ର", "text": "ଇଣ୍ଟର୍ନସିପ୍ ଅଭିଜ୍ଞତା - ଫୁଲ୍ ସ୍ଟାକ୍ ଡେଭଲପମେଣ୍ଟ୍" },
+            "as": { "title": "{{SaaS Labs}} প্ৰমাণপত্ৰ", "text": "ইণ্টাৰ্নশ্বিপ অভিজ্ঞতা - ফুল ষ্টেক ডেৱেলপমেণ্ট" },
+            "mai": { "title": "{{SaaS Labs}} प्रमाणपत्र", "text": "इंटर्नशिप अनुभव - फुल स्टैक डेवलपमेंट" },
+            "sd": { "title": "{{SaaS Labs}} سرٽيفڪيٽ", "text": "انٽرن شپ تجربو - فل اسٽيڪ ڊولپمينٽ" },
+            "kok": { "title": "{{SaaS Labs}} प्रमाणपत्र", "text": "इंटर्नशिप अनुभव - फुल स्टॅक डेव्हलपमेंट" },
+            "ne": { "title": "{{SaaS Labs}} प्रमाणपत्र", "text": "इन्टर्नसिप अनुभव - फुल स्ट्याक विकास" },
+            "ks": { "title": "{{SaaS Labs}} سرٹیفکیٹ", "text": "انٹرن شپ تجربو - فل سٹیک ڈولپمنٹ" },
+            "ur": { "title": "{{SaaS Labs}} سرٹیفکیٹ", "text": "انٹرن شپ تجربہ - فل اسٹیک ڈیولپمنٹ" },
+            "zh": { "title": "{{SaaS Labs}}证书", "text": "实习经历 - 全栈开发" },
+            "ja": { "title": "{{SaaS Labs}}証明書", "text": "インターンシップ経験 - フルスタック開発" },
+            "ar": { "title": "{{SaaS Labs}} شهادة", "text": "تجربة التدريب - تطوير Full Stack" },
+            "pt": { "title": "{{SaaS Labs}} Certificado", "text": "Experiência de Estágio - Desenvolvimento Full Stack" },
+            "de": { "title": "{{SaaS Labs}} Zertifikat", "text": "Praktikumserfahrung - Full-Stack-Entwicklung" },
+            "ru": { "title": "{{SaaS Labs}} Сертификат", "text": "Опыт стажировки - Full Stack разработка" },
+            "it": { "title": "{{SaaS Labs}} Certificato", "text": "Esperienza di stage - Sviluppo Full Stack" },
+            "es": { "title": "{{SaaS Labs}} Certificado", "text": "Experiencia de prácticas - Desarrollo Full Stack" },
+            "fr": { "title": "{{SaaS Labs}} Certificat", "text": "Expérience de stage - Développement Full Stack" },
+            "ko": { "title": "{{SaaS Labs}} 인증서", "text": "인턴 경험 - 풀스택 개발" }
           }
         }
       ]
@@ -120,18 +264,47 @@
     {
       "id": 2,
       "component": "ArticleThread",
-      "locales": {
-        "en": { "title": "Achievements" }
-      },
       "settings": {
+        "hideDateBadges": true,
         "max_rows_collapse_threshold": 6,
         "order_items_by": "date",
         "order_items_sort": "desc"
+      },
+      "locales": {
+        "en": { "title": "Achievements" },
+        "hi": { "title": "उपलब्धियाँ" },
+        "bn": { "title": "অর্জন" },
+        "te": { "title": "సాధనలు" },
+        "ta": { "title": "சாதனைகள்" },
+        "mr": { "title": "यश" },
+        "gu": { "title": "ઉપલબ્ધિઓ" },
+        "pa": { "title": "ਉਪਲਬਧੀਆਂ" },
+        "ml": { "title": "സാധനകൾ" },
+        "kn": { "title": "ಸಾಧನೆಗಳು" },
+        "or": { "title": "ଉପଲବ୍ଧି" },
+        "as": { "title": "অভিগম" },
+        "mai": { "title": "उपलब्धि" },
+        "sd": { "title": "سکناونون" },
+        "kok": { "title": "उपलब्धी" },
+        "ne": { "title": "उपलब्धिहरू" },
+        "ks": { "title": "سکناون" },
+        "ur": { "title": "کامیابیاں" },
+        "zh": { "title": "成就" },
+        "ja": { "title": "実績" },
+        "ar": { "title": "الإنجازات" },
+        "pt": { "title": "Conquistas" },
+        "de": { "title": "Erfolge" },
+        "ru": { "title": "Достижения" },
+        "it": { "title": "Risultati" },
+        "es": { "title": "Logros" },
+        "fr": { "title": "Réalisations" },
+        "ko": { "title": "성과" }
       },
       "items": [
         {
           "id": 1,
           "date": { "year": 2022, "month": 8 },
+          "images": ["/images/pictures/SIH.png"],
           "preview": {
             "links": [],
             "screenshots": [],
@@ -139,16 +312,44 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Winner - Smart India Hackathon",
-              "institution": "NIT Jamshedpur",
-              "text": "Won Smart India Hackathon at NIT Jamshedpur for developing 'Swastik', a vaccination management software for Indian villages."
-            }
+            "en": { "title": "Winner - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "Won Smart India Hackathon at NIT Jamshedpur for developing 'Swastik', a vaccination management software for Indian villages." },
+            "hi": { "title": "विजेता - स्मार्ट इंडिया हैकाथॉन", "institution": "NIT Jamshedpur", "text": "भारतीय गाँवों के लिए 'स्वस्तिक' टीकाकरण प्रबंधन सॉफ्टवेयर विकसित करने के लिए NIT Jamshedpur में स्मार्ट इंडिया हैकाथॉन जीता।" },
+            "bn": { "title": "বিজয়ী - স্মার্ট ইন্ডিয়া হ্যাকাথন", "institution": "NIT Jamshedpur", "text": "ভারতীয় গ্রামের জন্য 'স্বস্তিক' টিকা ব্যবস্থাপনা সফটওয়্যার তৈরি করার জন্য NIT Jamshedpur-এ স্মার্ট ইন্ডিয়া হ্যাকাথনে জয়ী।" },
+            "te": { "title": "విజేత - స్మార్ట్ ఇండియా హ్యాకథాన్", "institution": "NIT Jamshedpur", "text": "భారతీయ గ్రామాలకు 'స్వస్తిక్' టీకా నిర్వహణ సాఫ్ట్‌వేర్ అభివృద్ధి చేసినందుకు NIT Jamshedpurలో స్మార్ట్ ఇండియా హ్యాకథాన్ గెలుచుకున్నారు." },
+            "ta": { "title": "வெற்றியாளர் - ஸ்மார்ட் இந்தியா ஹேகாதான்", "institution": "NIT Jamshedpur", "text": "இந்திய கிராமங்களுக்கான 'ஸ்வஸ்திக்' தடுப்பூசி மேலாண்மை மென்பொருள் உருவாக்கத்திற்காக NIT Jamshedpurஇல் ஸ்மார்ட் இந்தியா ஹேகாதான் வென்றார்." },
+            "mr": { "title": "विजेता - स्मार्ट इंडिया हॅकाथॉन", "institution": "NIT Jamshedpur", "text": "भारतीय गावांसाठी 'स्वस्तिक' लस व्यवस्थापन सॉफ्टवेअर विकसित केल्याबद्दल NIT Jamshedpur मध्ये स्मार्ट इंडिया हॅकाथॉन जिंकला." },
+            "gu": { "title": "વિજેતા - સ્માર્ટ ઇન્ડિયા હેકાથોન", "institution": "NIT Jamshedpur", "text": "ભારતીય ગામો માટે 'સ્વસ્તિક' ટીકાકરણ સંચાલન સોફ્ટવેર વિકસાવવા માટે NIT Jamshedpurમાં સ્માર્ટ ઇન્ડિયા હેકાથોન જીત્યો." },
+            "pa": { "title": "ਜੇਤੂ - ਸਮਾਰਟ ਇੰਡੀਆ ਹੈਕਾਥਾਨ", "institution": "NIT Jamshedpur", "text": "ਭਾਰਤੀ ਪਿੰਡਾਂ ਲਈ 'ਸਵਸਤਿਕ' ਟੀਕਾਕਰਨ ਪ੍ਰਬੰਧਨ ਸਾਫਟਵੇਅਰ ਵਿਕਸਿਤ ਕਰਨ ਲਈ NIT Jamshedpur ਵਿਚ ਸਮਾਰਟ ਇੰਡੀਆ ਹੈਕਾਥਾਨ ਜਿੱਤਿਆ।" },
+            "ml": { "title": "വിജേത - സ്മാർട്ട് ഇന്ത്യ ഹാക്കാഥൺ", "institution": "NIT Jamshedpur", "text": "ഇന്ത്യൻ ഗ്രാമങ്ങൾക്കായി 'സ്വസ്തിക്' വാക്സിനേഷൻ മാനേജ്മെന്റ് സോഫ്റ്റ്വെയർ വികസിപ്പിക്കുന്നതിന് NIT Jamshedpur-ൽ സ്മാർട്ട് ഇന്ത്യ ഹാക്കാഥൺ നേടി." },
+            "kn": { "title": "ವಿಜೇತ - ಸ್ಮಾರ್ಟ್ ಇಂಡಿಯಾ ಹ್ಯಾಕಾಥಾನ್", "institution": "NIT Jamshedpur", "text": "ಭಾರತೀಯ ಗ್ರಾಮಗಳಿಗಾಗಿ 'ಸ್ವಸ್ತಿಕ್' ಲಸೀಕರಣ ನಿರ್ವಹಣಾ ಸಾಫ್ಟ್‌ವೇರ್ ಅಭಿವೃದ್ಧಿ ಪಡಿಸಿದ್ದಕ್ಕಾಗಿ NIT Jamshedpurನಲ್ಲಿ ಸ್ಮಾರ್ಟ್ ಇಂಡಿಯಾ ಹ್ಯಾಕಾಥಾನ್ ಗೆದ್ದರು." },
+            "or": { "title": "ବିଜେତା - ସ୍ମାର୍ଟ ଇଣ୍ଡିଆ ହ୍ୟାକାଥନ୍", "institution": "NIT Jamshedpur", "text": "ଭାରତୀୟ ଗ୍ରାମଗୁଡିକ ପାଇଁ 'ସ୍ୱସ୍ତିକ' ଟିକାକରଣ ପରିଚାଳନା ସଫ୍ଟୱେର୍ ବିକାଶ ପାଇଁ NIT Jamshedpur ରେ ସ୍ମାର୍ଟ ଇଣ୍ଡିଆ ହ୍ୟାକାଥନ୍ ଜିତିଥିଲେ।" },
+            "as": { "title": "বিজয়ী - স্মাৰ্ট ইণ্ডিয়া হেকাথন", "institution": "NIT Jamshedpur", "text": "ভাৰতীয় গাঁওবোৰৰ বাবে 'স্বস্তিক' ৰোগপ্ৰতিৰোধী ব্যৱস্থাপনা ছফ্টৱেৰ সৃষ্টি কৰাৰ বাবে NIT Jamshedpurত স্মাৰ্ট ইণ্ডিয়া হেকাথন জিকিছিল।" },
+            "mai": { "title": "विजेता - स्मार्ट इंडिया हैकाथॉन", "institution": "NIT Jamshedpur", "text": "भारतीय गाँव क लेल 'स्वस्तिक' टीकाकरण प्रबंधन सॉफ्टवेयर बनाबै NIT Jamshedpur मे स्मार्ट इंडिया हैकाथॉन जीतलौ।" },
+            "sd": { "title": "فاتح - اسمارٽ انڊيا هيڪاٿون", "institution": "NIT Jamshedpur", "text": "ڀارتي ڳوٺن لاءِ 'سواستيڪ' وئڪسينيشن انتظام سافٽويئر ٺاهڻ لاءِ NIT Jamshedpur ۾ اسمارٽ انڊيا هيڪاٿون کٽيو." },
+            "kok": { "title": "विजेता - स्मार्ट इंडिया हैकाथॉन", "institution": "NIT Jamshedpur", "text": "भारतीय गांवांचा खातीर 'स्वस्तिक' लस व्यवस्थापन सॉफ्टवेयर विकसित केल्याबद्दल NIT Jamshedpur आंत स्मार्ट इंडिया हैकाथॉन जिखलें।" },
+            "ne": { "title": "विजेता - स्मार्ट इन्डिया ह्याकाथन", "institution": "NIT Jamshedpur", "text": "भारतीय गाउँहरूको लागि 'स्वस्तिक' लसीकरण व्यवस्थापन सफ्टवेयर विकास गर्दै NIT Jamshedpur मा स्मार्ट इन्डिया ह्याकाथन जिते।" },
+            "ks": { "title": "فاتح - سمارٹ انڈیا ہیکاتھون", "institution": "NIT Jamshedpur", "text": "بھارتی گاؤںس لین 'سواستک' ٹیکا کاری انتظام سافٹ ویئر ڈیولپ کرنس NIT Jamshedpurس منز سمارٹ انڈیا ہیکاتھون جتیت۔" },
+            "ur": { "title": "فاتح - سمارٹ انڈیا ہیکاتھون", "institution": "NIT Jamshedpur", "text": "بھارتی گاؤںوں کے لیے 'سواستک' ویکسینیشن مینجمنٹ سافٹ ویئر بنانے پر NIT Jamshedpur میں سمارٹ انڈیا ہیکاتھون جیتا۔" },
+            "zh": { "title": "获奖者 - 智慧印度黑客松", "institution": "NIT Jamshedpur", "text": "因开发印度村庄疫苗接种管理软件'Swastik'在NIT Jamshedpur智慧印度黑客松中获奖。" },
+            "ja": { "title": "優勝 - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "インドの村のための予防接種管理ソフト「Swastik」開発でNIT JamshedpurのSmart India Hackathon優勝。" },
+            "ar": { "title": "الفائز - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "فاز بـ Smart India Hackathon في NIT Jamshedpur لتطوير 'Swastik'، برنامج إدارة التطعيم للقرى الهندية." },
+            "pt": { "title": "Vencedor - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "Venceu Smart India Hackathon na NIT Jamshedpur por desenvolver 'Swastik', software de gestão de vacinação para aldeias indianas." },
+            "de": { "title": "Gewinner - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "Gewann Smart India Hackathon an der NIT Jamshedpur für die Entwicklung von 'Swastik', einer Impfverwaltungssoftware für indische Dörfer." },
+            "ru": { "title": "Победитель - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "Победил в Smart India Hackathon в NIT Jamshedpur за разработку 'Swastik', ПО управления вакцинацией для индийских деревень." },
+            "it": { "title": "Vincitore - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "Vinto Smart India Hackathon alla NIT Jamshedpur per lo sviluppo di 'Swastik', software di gestione vaccini per villaggi indiani." },
+            "es": { "title": "Ganador - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "Ganó Smart India Hackathon en NIT Jamshedpur por desarrollar 'Swastik', software de gestión de vacunación para pueblos indios." },
+            "fr": { "title": "Gagnant - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "Gagné Smart India Hackathon à NIT Jamshedpur pour le développement de 'Swastik', logiciel de gestion de vaccination pour villages indiens." },
+            "ko": { "title": "수상 - Smart India Hackathon", "institution": "NIT Jamshedpur", "text": "인도 마을을 위한 예방접종 관리 소프트웨어 'Swastik' 개발로 NIT Jamshedpur Smart India Hackathon 수상." }
           }
         },
         {
           "id": 2,
           "date": { "year": 2021, "month": 6 },
+          "images": [
+            "/images/pictures/codeforces.jpeg",
+            "/images/pictures/codechef.png",
+            "/images/pictures/hackerrank.jpeg"
+          ],
           "preview": {
             "links": [],
             "screenshots": [],
@@ -156,16 +357,43 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Competitive Programming",
-              "institution": "Codeforces / CodeChef / HackerRank",
-              "text": "Max Specialist (1407) on CodeForces, 3* (1628) on CodeChef, 5-Star Badge on HackerRank; solved 700+ problems across platforms."
-            }
+            "en": { "title": "Competitive Programming", "institution": "Codeforces / CodeChef / HackerRank", "text": "Max Specialist (1407) on CodeForces, 3* (1628) on CodeChef, 5-Star Badge on HackerRank; solved 700+ problems across platforms." },
+            "hi": { "title": "प्रतियोगी प्रोग्रामिंग", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces पर Max Specialist (1407), CodeChef पर 3* (1628), HackerRank पर 5-Star Badge; प्लेटफॉर्म पर 700+ समस्याएं हल।" },
+            "bn": { "title": "প্রতিযোগিতামূলক প্রোগ্রামিং", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces-এ Max Specialist (1407), CodeChef-এ 3* (1628), HackerRank-এ 5-Star Badge; প্ল্যাটফর্ম জুড়ে 700+ সমস্যা সমাধান।" },
+            "te": { "title": "ప్రతియోగితా ప్రోగ్రామింగ్", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForcesలో Max Specialist (1407), CodeChefలో 3* (1628), HackerRankలో 5-Star Badge; ప్లాట్‌ఫారమ్స్ అంతటా 700+ సమస్యలు పరిష్కరించారు." },
+            "ta": { "title": "போட்டி நிரலாக்கம்", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForcesஇல் Max Specialist (1407), CodeChefஇல் 3* (1628), HackerRankஇல் 5-Star Badge; தளங்களில் 700+ சிக்கல்கள் தீர்த்தார்." },
+            "mr": { "title": "स्पर्धात्मक प्रोग्रामिंग", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces वर Max Specialist (1407), CodeChef वर 3* (1628), HackerRank वर 5-Star Badge; प्लॅटफॉर्मवर 700+ समस्या सोडवल्या." },
+            "gu": { "title": "સ્પર્ધાત્મક પ્રોગ્રામિંગ", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces પર Max Specialist (1407), CodeChef પર 3* (1628), HackerRank પર 5-Star Badge; પ્લેટફોર્મ પર 700+ સમસ્યાઓ ઉકેલ્યા." },
+            "pa": { "title": "ਪ੍ਰਤਿਯੋਗੀ ਪ੍ਰੋਗਰਾਮਿੰਗ", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces 'ਤੇ Max Specialist (1407), CodeChef 'ਤੇ 3* (1628), HackerRank 'ਤੇ 5-Star Badge; ਪਲੇਟਫਾਰਮਾਂ 'ਤੇ 700+ ਸਮੱਸਿਆਵਾਂ ਹੱਲ ਕੀਤੀਆਂ।" },
+            "ml": { "title": "മത്സരാധിഷ്ഠിത പ്രോഗ്രാമിംഗ്", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces-ൽ Max Specialist (1407), CodeChef-ൽ 3* (1628), HackerRank-ൽ 5-Star Badge; പ്ലാറ്റ്ഫോമുകളിൽ 700+ പ്രശ്നങ്ങൾ പരിഹരിച്ചു." },
+            "kn": { "title": "ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರೋಗ್ರಾಮಿಂಗ್", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForcesನಲ್ಲಿ Max Specialist (1407), CodeChefನಲ್ಲಿ 3* (1628), HackerRankನಲ್ಲಿ 5-Star Badge; ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳಲ್ಲಿ 700+ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಿದರು." },
+            "or": { "title": "ପ୍ରତିଯୋଗିତା ପ୍ରୋଗ୍ରାମିଂ", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForcesରେ Max Specialist (1407), CodeChefରେ 3* (1628), HackerRankରେ 5-Star Badge; ପ୍ଲାଟଫର୍ମରେ 700+ ସମସ୍ୟା ସମାଧାନ।" },
+            "as": { "title": "প্ৰতিযোগিতামূলক প্ৰগ্ৰামিং", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForcesত Max Specialist (1407), CodeChefত 3* (1628), HackerRankত 5-Star Badge; প্লেটফৰ্মত 700+ সমস্যা সমাধান।" },
+            "mai": { "title": "प्रतियोगी प्रोग्रामिंग", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces पे Max Specialist (1407), CodeChef पे 3* (1628), HackerRank पे 5-Star Badge; प्लेटफॉर्म पे 700+ समस्या सुलझायल।" },
+            "sd": { "title": "مقابلي پروگرامنگ", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces تي Max Specialist (1407), CodeChef تي 3* (1628), HackerRank تي 5-Star Badge؛ پليٽفارم تي 700+ مسلا حل ڪيا." },
+            "kok": { "title": "स्पर्धात्मक प्रोग्रामिंग", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForcesाचेर Max Specialist (1407), CodeChefाचेर 3* (1628), HackerRankाचेर 5-Star Badge; प्लॅटफॉर्माचेर 700+ समस्या सोडवल्यो." },
+            "ne": { "title": "प्रतिस्पर्धी प्रोग्रामिङ", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces मा Max Specialist (1407), CodeChef मा 3* (1628), HackerRank मा 5-Star Badge; प्लेटफर्महरूमा 700+ समस्याहरू समाधान।" },
+            "ks": { "title": "مقابلہ پروگرامنگ", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForcesس پے Max Specialist (1407), CodeChefس پے 3* (1628), HackerRankس پے 5-Star Badge؛ پلیٹ فارمس منز 700+ مسلا حل۔" },
+            "ur": { "title": "مقابلہ جاتی پروگرامنگ", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces پر Max Specialist (1407)، CodeChef پر 3* (1628)، HackerRank پر 5-Star Badge؛ پلیٹ فارمز پر 700+ مسائل حل۔" },
+            "zh": { "title": "竞赛编程", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces上Max Specialist (1407)、CodeChef上3* (1628)、HackerRank上5星徽章；跨平台解决700+题目。" },
+            "ja": { "title": "競技プログラミング", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForcesでMax Specialist (1407)、CodeChefで3* (1628)、HackerRankで5スター；プラットフォームで700+問解決。" },
+            "ar": { "title": "البرمجة التنافسية", "institution": "Codeforces / CodeChef / HackerRank", "text": "Max Specialist (1407) على CodeForces، 3* (1628) على CodeChef، شارة 5 نجوم على HackerRank؛ حُلّت 700+ مسألة عبر المنصات." },
+            "pt": { "title": "Programação Competitiva", "institution": "Codeforces / CodeChef / HackerRank", "text": "Max Specialist (1407) no CodeForces, 3* (1628) no CodeChef, 5-Star Badge no HackerRank; resolveu 700+ problemas em várias plataformas." },
+            "de": { "title": "Competitive Programming", "institution": "Codeforces / CodeChef / HackerRank", "text": "Max Specialist (1407) auf CodeForces, 3* (1628) auf CodeChef, 5-Star Badge auf HackerRank; 700+ Probleme auf Plattformen gelöst." },
+            "ru": { "title": "Соревновательное программирование", "institution": "Codeforces / CodeChef / HackerRank", "text": "Max Specialist (1407) на CodeForces, 3* (1628) на CodeChef, 5-Star Badge на HackerRank; решено 700+ задач на платформах." },
+            "it": { "title": "Programmazione Competitiva", "institution": "Codeforces / CodeChef / HackerRank", "text": "Max Specialist (1407) su CodeForces, 3* (1628) su CodeChef, 5-Star Badge su HackerRank; risolti 700+ problemi su piattaforme." },
+            "es": { "title": "Programación Competitiva", "institution": "Codeforces / CodeChef / HackerRank", "text": "Max Specialist (1407) en CodeForces, 3* (1628) en CodeChef, 5-Star Badge en HackerRank; resueltos 700+ problemas en plataformas." },
+            "fr": { "title": "Programmation Compétitive", "institution": "Codeforces / CodeChef / HackerRank", "text": "Max Specialist (1407) sur CodeForces, 3* (1628) sur CodeChef, 5-Star Badge sur HackerRank; 700+ problèmes résolus sur plateformes." },
+            "ko": { "title": "경쟁 프로그래밍", "institution": "Codeforces / CodeChef / HackerRank", "text": "CodeForces Max Specialist (1407), CodeChef 3* (1628), HackerRank 5-Star Badge; 플랫폼에서 700+ 문제 해결." }
           }
         },
         {
           "id": 3,
           "date": { "year": 2018, "month": 6 },
+          "images": [
+            "/images/pictures/jee-main.jpg",
+            "/images/pictures/JEE-Advance-Logo.png"
+          ],
           "preview": {
             "links": [],
             "screenshots": [],
@@ -173,16 +401,45 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "JEE Ranks",
-              "institution": "JEE",
-              "text": "Ranked top 5% in JEE Main and top 6% in JEE Advanced (2018)."
-            }
+            "en": { "title": "Cracked IIT JEE", "institution": "JEE", "text": "Cleared IIT JEE National level engineering entrance exams in 2018 and Got admission to a Tier-1 College with Top Branch Computer science." },
+            "hi": { "title": "JEE रैंक", "institution": "JEE", "text": "JEE Main में शीर्ष 5% और JEE Advanced (2018) में शीर्ष 6% में रैंक।" },
+            "bn": { "title": "JEE র‍্যাংক", "institution": "JEE", "text": "JEE Main-এ শীর্ষ 5% এবং JEE Advanced (2018)-এ শীর্ষ 6% র‍্যাংক।" },
+            "te": { "title": "JEE ర్యాంకులు", "institution": "JEE", "text": "JEE Mainలో టాప్ 5% మరియు JEE Advanced (2018)లో టాప్ 6% ర్యాంక్." },
+            "ta": { "title": "JEE ரேங்குகள்", "institution": "JEE", "text": "JEE Mainஇல் முதல் 5% மற்றும் JEE Advanced (2018)இல் முதல் 6% ரேங்க்." },
+            "mr": { "title": "JEE रँक", "institution": "JEE", "text": "JEE Main मध्ये शीर्ष 5% आणि JEE Advanced (2018) मध्ये शीर्ष 6% रँक." },
+            "gu": { "title": "JEE રેંક", "institution": "JEE", "text": "JEE Main માં ટોચના 5% અને JEE Advanced (2018) માં ટોચના 6% રેંક." },
+            "pa": { "title": "JEE ਰੈਂਕ", "institution": "JEE", "text": "JEE Main ਵਿੱਚ ਚੋਟੀ ਦੇ 5% ਅਤੇ JEE Advanced (2018) ਵਿੱਚ ਚੋਟੀ ਦੇ 6% ਰੈਂਕ।" },
+            "ml": { "title": "JEE റാങ്കുകൾ", "institution": "JEE", "text": "JEE Main-ൽ മുകളിൽ 5% ഉം JEE Advanced (2018)-ൽ മുകളിൽ 6% ഉം റാങ്ക്." },
+            "kn": { "title": "JEE ರ್ಯಾಂಕ್‌ಗಳು", "institution": "JEE", "text": "JEE Mainನಲ್ಲಿ ಉನ್ನತ 5% ಮತ್ತು JEE Advanced (2018)ನಲ್ಲಿ ಉನ್ನತ 6% ರ್ಯಾಂಕ್." },
+            "or": { "title": "JEE ର୍ୟାଙ୍କ୍", "institution": "JEE", "text": "JEE Main ରେ ଟପ୍ 5% ଓ JEE Advanced (2018) ରେ ଟପ୍ 6% ର୍ୟାଙ୍କ୍।" },
+            "as": { "title": "JEE ৰেংক", "institution": "JEE", "text": "JEE Mainত শীৰ্ষ 5% আৰু JEE Advanced (2018)ত শীৰ্ষ 6% ৰেংক।" },
+            "mai": { "title": "JEE रैंक", "institution": "JEE", "text": "JEE Main मे शीर्ष 5% आरू JEE Advanced (2018) मे शीर्ष 6% रैंक।" },
+            "sd": { "title": "JEE رينڪ", "institution": "JEE", "text": "JEE Main ۾ مٿين 5% ۽ JEE Advanced (2018) ۾ مٿين 6% رينڪ." },
+            "kok": { "title": "JEE रॅंक", "institution": "JEE", "text": "JEE Main आंत शिखर 5% आनी JEE Advanced (2018) आंत शिखर 6% रॅंक." },
+            "ne": { "title": "JEE र्याङ्क", "institution": "JEE", "text": "JEE Main मा माथिल्लो 5% र JEE Advanced (2018) मा माथिल्लो 6% र्याङ्क।" },
+            "ks": { "title": "JEE رینک", "institution": "JEE", "text": "JEE Mainس منز ٹاپ 5% تہ JEE Advanced (2018)س منز ٹاپ 6% رینک۔" },
+            "ur": { "title": "JEE رینک", "institution": "JEE", "text": "JEE Main میں ٹاپ 5% اور JEE Advanced (2018) میں ٹاپ 6% رینک۔" },
+            "zh": { "title": "JEE排名", "institution": "JEE", "text": "JEE Main前5%，JEE Advanced (2018)前6%排名。" },
+            "ja": { "title": "JEE順位", "institution": "JEE", "text": "JEE Main上位5%、JEE Advanced (2018)上位6%ランク。" },
+            "ar": { "title": "ترتيب JEE", "institution": "JEE", "text": "الأعلى 5% في JEE Main والأعلى 6% في JEE Advanced (2018)." },
+            "pt": { "title": "Ranking JEE", "institution": "JEE", "text": "Top 5% no JEE Main e top 6% no JEE Advanced (2018)." },
+            "de": { "title": "JEE-Ränge", "institution": "JEE", "text": "Top 5% im JEE Main und Top 6% im JEE Advanced (2018)." },
+            "ru": { "title": "Ранги JEE", "institution": "JEE", "text": "Топ 5% в JEE Main и топ 6% в JEE Advanced (2018)." },
+            "it": { "title": "Classifiche JEE", "institution": "JEE", "text": "Top 5% in JEE Main e top 6% in JEE Advanced (2018)." },
+            "es": { "title": "Rankings JEE", "institution": "JEE", "text": "Top 5% en JEE Main y top 6% en JEE Advanced (2018)." },
+            "fr": { "title": "Classements JEE", "institution": "JEE", "text": "Top 5% au JEE Main et top 6% au JEE Advanced (2018)." },
+            "ko": { "title": "JEE 순위", "institution": "JEE", "text": "JEE Main 상위 5%, JEE Advanced (2018) 상위 6% 순위." }
           }
         },
         {
           "id": 4,
           "date": { "year": 2023, "month": 6 },
+          "images": [
+            "/images/pictures/amazon.jpg",
+            "/images/pictures/infosys.jpg",
+            "/images/pictures/tekion-5.png",
+            "/images/pictures/saasl-labs-4.png"
+          ],
           "preview": {
             "links": [],
             "screenshots": [],
@@ -190,16 +447,43 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Software Engineer Offers Cracked",
-              "institution": "SaaS Labs, Amazon, Tekion, Infosys",
-              "text": "Successfully cracked internship and full-time job offers from multiple top-tier companies including SaaS Labs, Amazon, Tekion, and Infosys."
-            }
+            "en": { "title": "Software Engineer Offers Cracked", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "Successfully cracked internship and full-time job offers from multiple top-tier companies including SaaS Labs, Amazon, Tekion, and Infosys." },
+            "hi": { "title": "सॉफ्टवेयर इंजीनियर ऑफर क्रैक", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion और Infosys सहित कई शीर्ष कंपनियों से इंटर्नशिप और पूर्णकालिक नौकरी के ऑफर प्राप्त किए।" },
+            "bn": { "title": "সফটওয়্যার ইঞ্জিনিয়ার অফার ক্র্যাক", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion এবং Infosys সহ একাধিক শীর্ষ কোম্পানির ইনটার্নশিপ এবং ফুলটাইম জব অফার অর্জন।" },
+            "te": { "title": "సాఫ్ట్‌వేర్ ఇంజనీర్ ఆఫర్స్ క్రాక్", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion మరియు Infosysతో సహా అనేక టాప్-టియర్ కంపెనీల నుండి ఇంటర్న్‌షిప్ మరియు ఫుల్-టైమ్ జాబ్ ఆఫర్లు పొందారు." },
+            "ta": { "title": "மென்பொருள் பொறியாளர் ஆஃபர் க்ராக்", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion மற்றும் Infosys உட்பட பல முதன்மை நிறுவனங்களிலிருந்து பயிற்சி மற்றும் முழுநேர வேலை வாய்ப்புகள் பெற்றார்." },
+            "mr": { "title": "सॉफ्टवेअर अभियंता ऑफर्स क्रॅक", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion आणि Infosys यासह अनेक टॉप-टियर कंपन्यांकडून इंटर्नशिप आणि पूर्णवेळ नोकरीच्या ऑफर मिळवले." },
+            "gu": { "title": "સોફ્ટવેર ઇજનેર ઑફર્સ ક્રેક", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion અને Infosys સહિત ઘણી ટોચની કંપનીઓમાંથી ઇન્ટર્નશિપ અને ફુલટાઇમ જોબ ઑફર મેળવ્યા." },
+            "pa": { "title": "ਸਾਫਟਵੇਅਰ ਇੰਜੀਨੀਅਰ ਔਫਰ ਕਰੈਕ", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion ਅਤੇ Infosys ਸਮੇਤ ਕਈ ਚੋਟੀ ਦੀਆਂ ਕੰਪਨੀਆਂ ਤੋਂ ਇੰਟਰਨਸ਼ਿਪ ਅਤੇ ਪੂਰਾ ਸਮਾਂ ਨੌਕਰੀ ਔਫਰ ਪ੍ਰਾਪਤ ਕੀਤੇ।" },
+            "ml": { "title": "സോഫ്റ്റ്വെയർ എഞ്ചിനീയർ ഓഫറുകൾ ക്രാക്ക്", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion, Infosys എന്നിവയുൾപ്പെടെ ഒന്നിലധികം ടോപ്പ് ടിയർ കമ്പനികളിൽ നിന്ന് ഇന്റേൺഷിപ്പും ഫുൾടൈം ജോലി ഓഫറുകളും നേടി." },
+            "kn": { "title": "ಸಾಫ್ಟ್‌ವೇರ್ ಇಂಜಿನಿಯರ್ ಆಫರ್‌ಗಳು ಕ್ರ್ಯಾಕ್", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion ಮತ್ತು Infosys ಸೇರಿದಂತೆ ಹಲವು ಉನ್ನತ ಕಂಪನಿಗಳಿಂದ ಇಂಟರ್ನ್‌ಶಿಪ್ ಮತ್ತು ಪೂರ್ಣ ಸಮಯ ಉದ್ಯೋಗ ಪ್ರಸ್ತಾವನೆಗಳನ್ನು ಸಫಲವಾಗಿ ಪಡೆದರು." },
+            "or": { "title": "ସଫ୍ଟୱେର୍ ଇଞ୍ଜିନିୟର ଅଫର୍ କ୍ରାକ୍", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion ଓ Infosys ସହିତ ଅନେକ ଟପ୍-ଟିଅର୍ କମ୍ପାନୀମାନଙ୍କଠାରୁ ଇଣ୍ଟର୍ନସିପ୍ ଓ ଫୁଲ୍-ଟାଇମ୍ ଜୋବ୍ ଅଫର୍ ପାଇଥିଲେ।" },
+            "as": { "title": "ছফ্টৱেৰ ইঞ্জিনিয়াৰ অফাৰ ক্ৰেক", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion আৰু Infosys সহ একাধিক শীর্ষ কোম্পানীৰ পৰা ইণ্টাৰ্নশ্বিপ আৰু পূৰ্ণকালীন চাকৰিৰ অফাৰ লাভ।" },
+            "mai": { "title": "सॉफ्टवेयर इंजीनियर ऑफर क्रैक", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion आरू Infosys सहित कई शीर्ष कंपनीसँ इंटर्नशिप आरू पूर्णकालिक नौकरी ऑफर प्राप्त।" },
+            "sd": { "title": "سافٽويئر انجنيئر آفَر ڪريڪ", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion ۽ Infosys سميت ڪيترن ئي ٽاپ ڪمپنين کان انٽرن شپ ۽ ڪامل وقت نوڪري جا آفَر حاصل ڪيا." },
+            "kok": { "title": "सॉफ्टवेयर इंजीनियर ऑफर क्रॅक", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion आनी Infosys आसात अनेक टॉप-टियर कंपनींतल्यान इंटर्नशिप आनी पूर्ण वेळ नोकरीचे ऑफर मेळ्ळें।" },
+            "ne": { "title": "सफ्टवेयर इन्जिनियर अफर क्र्याक", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion र Infosys सहित धेरै शीर्ष कम्पनीहरूबाट इन्टर्नसिप र पूर्णकालीन कामको प्रस्ताव प्राप्त।" },
+            "ks": { "title": "سافٹ ویئر انجینئر آفر کریک", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion تہ Infosys سمیت کئی ٹاپ ٹیئر کمپنیس پتہ انٹرن شپ تہ فل ٹائم نوکری آفر حاصل۔" },
+            "ur": { "title": "سافٹ ویئر انجینئر آفر کریک", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion اور Infosys سمیت کئی اعلیٰ درجے کی کمپنیوں سے انٹرن شپ اور فل ٹائم نوکری کے آفر حاصل۔" },
+            "zh": { "title": "软件工程师Offer突破", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "成功获得SaaS Labs、Amazon、Tekion、Infosys等多所顶级公司的实习和全职工作Offer。" },
+            "ja": { "title": "ソフトウェアエンジニアオファー獲得", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs、Amazon、Tekion、Infosysなど複数のトップ企業からインターンシップおよび正社員オファー獲得。" },
+            "ar": { "title": "عروض مهندس برمجيات محققة", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "نجح في الحصول على عروض تدريب وعمل بدوام كامل من شركات متعددة بما في ذلك SaaS Labs وAmazon وTekion وInfosys." },
+            "pt": { "title": "Ofertas de Engenheiro de Software Obtidas", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "Obtido com sucesso estágios e ofertas de emprego full-time de várias empresas de topo incluindo SaaS Labs, Amazon, Tekion e Infosys." },
+            "de": { "title": "Software-Ingenieur-Angebote Erhalten", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "Erfolgreich Praktika und Festanstellungsangebote von mehreren Top-Unternehmen inkl. SaaS Labs, Amazon, Tekion und Infosys erhalten." },
+            "ru": { "title": "Получены предложения инженера-программиста", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "Успешно получил стажировки и офферы на полную занятость от SaaS Labs, Amazon, Tekion, Infosys и других топ-компаний." },
+            "it": { "title": "Offerte Ingegnere Software Ottenute", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "Ottenuti con successo stage e offerte di lavoro full-time da più aziende top tra cui SaaS Labs, Amazon, Tekion e Infosys." },
+            "es": { "title": "Ofertas de Ingeniero de Software Obtenidas", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "Obtuvo con éxito prácticas y ofertas de empleo a tiempo completo de varias empresas top como SaaS Labs, Amazon, Tekion e Infosys." },
+            "fr": { "title": "Offres Ingénieur Logiciel Obtenues", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "A obtenu des stages et offres d'emploi à temps plein chez SaaS Labs, Amazon, Tekion, Infosys et autres entreprises de premier plan." },
+            "ko": { "title": "소프트웨어 엔지니어 오퍼 달성", "institution": "SaaS Labs, Amazon, Tekion, Infosys", "text": "SaaS Labs, Amazon, Tekion, Infosys 등 여러 Tier1 기업의 인턴십 및 정규직 오퍼 획득." }
           }
         },
         {
           "id": 5,
           "date": { "year": 2023, "month": 5 },
+          "images": [
+            "/images/pictures/gfglogo.png",
+            "/images/pictures/hackerearth.png"
+          ],
           "preview": {
             "links": [],
             "screenshots": [],
@@ -207,11 +491,34 @@
             "youtubeVideo": ""
           },
           "locales": {
-            "en": {
-              "title": "Problem-Solving Excellence",
-              "institution": "GeeksforGeeks / HackerEarth",
-              "text": "Solved 700+ problems across GeeksforGeeks and HackerEarth platforms, demonstrating strong problem-solving and algorithmic expertise."
-            }
+            "en": { "title": "Problem-Solving Excellence", "institution": "GeeksforGeeks / HackerEarth", "text": "Solved 700+ problems across GeeksforGeeks and HackerEarth platforms, demonstrating strong problem-solving and algorithmic expertise." },
+            "hi": { "title": "समस्या-समाधान उत्कृष्टता", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks और HackerEarth प्लेटफॉर्म पर 700+ समस्याएं हल कीं, मजबूत समस्या-समाधान और एल्गोरिदम विशेषज्ञता।" },
+            "bn": { "title": "সমস্যা সমাধান উৎকর্ষ", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks এবং HackerEarth প্ল্যাটফর্মে 700+ সমস্যা সমাধান, শক্তিশালী সমস্যা সমাধান এবং অ্যালগোরিদম দক্ষতা।" },
+            "te": { "title": "సమస్య-పరిష్కార ఉత్కృష్టత", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks మరియు HackerEarth ప్లాట్‌ఫారమ్లలో 700+ సమస్యలు పరిష్కరించారు, బలమైన సమస్య-పరిష్కార మరియు అల్గారిథమ్ నైపుణ్యం ప్రదర్శించారు." },
+            "ta": { "title": "சிக்கல் தீர்வு சிறப்பு", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks மற்றும் HackerEarth தளங்களில் 700+ சிக்கல்கள் தீர்த்தார், வலுவான சிக்கல் தீர்வு மற்றும் அல்காரிதம் நிபுணத்துவம்." },
+            "mr": { "title": "समस्या-निराकरण उत्कृष्टता", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks आणि HackerEarth प्लॅटफॉर्मवर 700+ समस्या सोडवल्या, मजबूत समस्या-निराकरण आणि अल्गोरिदम तज्ज्ञता." },
+            "gu": { "title": "સમસ્યા-ઉકેલ ઉત્કૃષ્ટતા", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks અને HackerEarth પ્લેટફોર્મ પર 700+ સમસ્યાઓ ઉકેલી, મજબૂત સમસ્યા-ઉકેલ અને એલ્ગોરિધમ નિપુણતા." },
+            "pa": { "title": "ਸਮੱਸਿਆ-ਹੱਲ ਉੱਤਮਤਾ", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks ਅਤੇ HackerEarth ਪਲੇਟਫਾਰਮ 'ਤੇ 700+ ਸਮੱਸਿਆਵਾਂ ਹੱਲ ਕੀਤੀਆਂ, ਮਜ਼ਬੂਤ ਸਮੱਸਿਆ-ਹੱਲ ਅਤੇ ਐਲਗੋਰਿਦਮ ਮਾਹਰਤਾ।" },
+            "ml": { "title": "പ്രശ്നപരിഹാര ഉത്കൃഷ്ടത", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks, HackerEarth പ്ലാറ്റ്ഫോമുകളിൽ 700+ പ്രശ്നങ്ങൾ പരിഹരിച്ചു; ശക്തമായ പ്രശ്നപരിഹാരവും അൽഗോരിതം വിദഗ്ധതയും നേടി." },
+            "kn": { "title": "ಸಮಸ್ಯೆ-ಪರಿಹಾರ ಉತ್ಕೃಷ್ಟತೆ", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks ಮತ್ತು HackerEarth ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳಲ್ಲಿ 700+ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಿದರು, ಶಕ್ತಿಶಾಲಿ ಸಮಸ್ಯೆ-ಪರಿಹಾರ ಮತ್ತು ಅಲ್ಗಾರಿದಮ್ ಪಾಂಡಿತ್ಯ." },
+            "or": { "title": "ସମସ୍ୟା-ସମାଧାନ ଉତ୍କୃଷ୍ଟତା", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks ଓ HackerEarth ପ୍ଲାଟଫର୍ମରେ 700+ ସମସ୍ୟା ସମାଧାନ; ଦୃଢ଼ ସମସ୍ୟା-ସମାଧାନ ଓ ଆଲଗୋରିଦମ୍ ବିଶେଷଜ୍ଞତା।" },
+            "as": { "title": "সমস্যা সমাধান উৎকর্ষ", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks আৰু HackerEarth প্লেটফৰ্মত 700+ সমস্যা সমাধান কৰিছিল, শক্তিশালী সমস্যা সমাধান আৰু এলগৰিদম দক্ষতা।" },
+            "mai": { "title": "समस्या-समाधान उत्कृष्टता", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks आरू HackerEarth प्लेटफॉर्म पे 700+ समस्या सुलझायल, मजबूत समस्या-समाधान आरू एल्गोरिदम विशेषज्ञता।" },
+            "sd": { "title": "مسئلو-حل عمدگي", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks ۽ HackerEarth پليٽفارمن تي 700+ مسلا حل ڪيا، مضبوط مسئلو-حل ۽ الگوردم مھارت." },
+            "kok": { "title": "समस्या-निराकरण उत्कृष्टता", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks आनी HackerEarth प्लॅटफॉर्माचेर 700+ समस्या सोडवल्यो, मजबूत समस्या-निराकरण आनी अल्गोरिदम तज्ज्ञता." },
+            "ne": { "title": "समस्या-समाधान उत्कृष्टता", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks र HackerEarth प्लेटफर्महरूमा 700+ समस्याहरू समाधान; सशक्त समस्या-समाधान र अल्गोरिदम विशेषज्ञता।" },
+            "ks": { "title": "مسلہ حل عمدگی", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks تہ HackerEarth پلیٹ فارمس منز 700+ مسلا حل؛ مضبوط مسلہ حل تہ الگوردم مہارت۔" },
+            "ur": { "title": "مسئلہ حل کی بہترین کارکردگی", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks اور HackerEarth پلیٹ فارمز پر 700+ مسائل حل؛ مضبوط مسئلہ حل اور الگورتھم کی مہارت۔" },
+            "zh": { "title": "问题解决卓越", "institution": "GeeksforGeeks / HackerEarth", "text": "在GeeksforGeeks和HackerEarth平台解决700+题目，展现出色的问题解决和算法能力。" },
+            "ja": { "title": "問題解決優秀", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeksとHackerEarthで700+問解決、強力な問題解決力とアルゴリズム専門知識を実証。" },
+            "ar": { "title": "تميز في حل المشكلات", "institution": "GeeksforGeeks / HackerEarth", "text": "حل 700+ مسألة على GeeksforGeeks وHackerEarth، يوضح قوة حل المشكلات والخبرة الخوارزمية." },
+            "pt": { "title": "Excelência em Resolução de Problemas", "institution": "GeeksforGeeks / HackerEarth", "text": "Resolveu 700+ problemas nas plataformas GeeksforGeeks e HackerEarth, demonstraindo forte capacidade de resolução e expertise algorítmica." },
+            "de": { "title": "Problem-Lösungsexzellenz", "institution": "GeeksforGeeks / HackerEarth", "text": "700+ Probleme auf GeeksforGeeks und HackerEarth gelöst, starke Problemlösungs- und Algorithmenkompetenz demonstriert." },
+            "ru": { "title": "Превосходство в решении задач", "institution": "GeeksforGeeks / HackerEarth", "text": "Решено 700+ задач на GeeksforGeeks и HackerEarth, продемонстрирована сильная способность к решению задач и алгоритмическая экспертиза." },
+            "it": { "title": "Eccellenza nel Problem Solving", "institution": "GeeksforGeeks / HackerEarth", "text": "Risolti 700+ problemi su GeeksforGeeks e HackerEarth, forte capacità di problem solving e competenza algoritmica." },
+            "es": { "title": "Excelencia en Resolución de Problemas", "institution": "GeeksforGeeks / HackerEarth", "text": "Resueltos 700+ problemas en GeeksforGeeks y HackerEarth, demuestra sólida resolución de problemas y experiencia algorítmica." },
+            "fr": { "title": "Excellence en Résolution de Problèmes", "institution": "GeeksforGeeks / HackerEarth", "text": "Résolu 700+ problèmes sur GeeksforGeeks et HackerEarth, démontrant une solide résolution de problèmes et expertise algorithmique." },
+            "ko": { "title": "문제 해결 우수", "institution": "GeeksforGeeks / HackerEarth", "text": "GeeksforGeeks 및 HackerEarth 플랫폼에서 700+ 문제 해결, 강력한 문제 해결력과 알고리즘 전문성 입증." }
           }
         }
       ]

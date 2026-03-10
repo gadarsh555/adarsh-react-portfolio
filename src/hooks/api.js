@@ -4,12 +4,13 @@
  * @description This hook provides methods to interact with external APIs.
  */
 
-import emailjs from "@emailjs/browser"
 import {useConstants} from "/src/hooks/constants.js"
 import {useUtils} from "/src/hooks/utils.js"
 
 const constants = useConstants()
 const utils = useUtils()
+
+const WEB3FORMS_API_URL = "https://api.web3forms.com/submit"
 
 export const useApi = () => {
     return {
@@ -69,21 +70,41 @@ const handlers = {
     },
 
     /**
-     * @param {Object} validationBundle
-     * @param {String} publicKey
-     * @param {String} serviceId
-     * @param {String} templateId
+     * Sends contact form via Web3Forms API
+     * @param {Object} validationBundle - { name, email, custom_subject, message, ... }
+     * @param {String} accessKey - Web3Forms access key
      * @return {Promise<{success: boolean}>}
      */
-    sendEmailRequest: async (validationBundle, publicKey, serviceId, templateId) => {
-        emailjs.init(publicKey)
+    sendContactFormRequest: async (validationBundle, accessKey) => {
+        const response = { success: false }
 
-        const response = {success: false}
+        if (!accessKey) {
+            return response
+        }
 
         try {
-            const result = await emailjs.send(serviceId, templateId, validationBundle)
-            response.success = result.status === 200
-        } catch (error) {
+            const payload = {
+                access_key: accessKey,
+                name: validationBundle.name,
+                email: validationBundle.email,
+                subject: validationBundle.custom_subject,
+                message: validationBundle.message,
+                from_name: validationBundle.from_name,
+                botcheck: "", // honeypot for spam protection
+            }
+
+            const res = await fetch(WEB3FORMS_API_URL, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Accept": "application/json"
+                },
+                body: JSON.stringify(payload)
+            })
+
+            const data = await res.json().catch(() => ({}))
+            response.success = res.ok && (data.success === true || data.success === "true")
+        } catch {
             response.success = false
         }
 

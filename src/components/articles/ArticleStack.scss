@@ -7,7 +7,7 @@ div.article-stack-items {
     --avatar-size: 75px;
     --padding: 15px 20px;
 
-    @media (max-width: 1550px) {
+    @media (max-width: $breakpoint-article-stack-wide) {
         --grid-template-columns: repeat(5, 1fr);
     }
 
@@ -34,9 +34,9 @@ div.article-stack-items {
         --padding: 10px 20px;
     }
 
-    @media (max-width: 450px) {
-        --avatar-size: 60px;
-        --padding: 15px 15px;
+    @media (max-width: $breakpoint-mobile-narrow) {
+        --avatar-size: 55px;
+        --padding: 12px 12px;
         --gap: 4px;
     }
 

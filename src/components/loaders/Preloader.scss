@@ -3,7 +3,7 @@
 div.preloader-window {
   position: fixed;
   z-index: $z-index-loader;
-  background-color: $loader-background;
+  background: $loader-background;
   color: $loader-contrast;
 
   width: 100vw;
@@ -13,7 +13,7 @@ div.preloader-window {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px;
+  padding: 32px;
 }
 
 div.preloader-window-hidden {
@@ -23,16 +23,29 @@ div.preloader-window-hidden {
 }
 
 div.preloader-window-content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
   pointer-events: none;
   user-select: none;
 }
 
+/* Loader at top - override height:100% so it doesn't stretch; keep well above text */
+div.preloader-window-content .wedges-wrapper {
+  position: absolute;
+  top: 3vh;
+  left: 50%;
+  transform: translateX(-50%);
+  height: auto !important;
+  width: auto !important;
+}
+
 div.preloader-window-info {
-  margin-top: 60px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 0;
   transition:
     0.3s opacity ease-out,
     0.3s transform ease-out;
@@ -40,7 +53,7 @@ div.preloader-window-info {
 
 div.preloader-window-info-hidden {
   opacity: 0;
-  transform: translateY(30px);
+  transform: translate(-50%, -50%) translateY(20px);
   transition: none;
 }
 
@@ -51,6 +64,43 @@ div.preloader-window-info-title {
 }
 
 div.preloader-window-info-developer {
-  opacity: 0.5;
+  margin-top: 8px;
+  font-size: 1.6rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.7;
   text-align: center;
+  @include media-breakpoint-down(sm) {
+    font-size: 1.35rem;
+    letter-spacing: 0.08em;
+  }
+}
+
+/* "Adarsh's Portfolio" title - enhanced for Aurora */
+div.preloader-window-info-title .lead-2,
+div.preloader-window .lead-2 {
+  font-size: 2.9rem !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.02em !important;
+  color: #1e1b4b !important;
+  text-shadow:
+    0 2px 4px rgba(30, 27, 75, 0.15),
+    0 0 40px rgba(139, 92, 246, 0.08);
+  @include media-breakpoint-down(lg) {
+    font-size: 2.5rem !important;
+  }
+  @include media-breakpoint-down(md) {
+    font-size: 2.1rem !important;
+  }
+  @include media-breakpoint-down(sm) {
+    font-size: 1.75rem !important;
+  }
+}
+
+div.preloader-window .text-4 {
+  font-size: 1.6rem;
+  @include media-breakpoint-down(sm) {
+    font-size: 1.35rem;
+  }
 }

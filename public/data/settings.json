@@ -9,7 +9,7 @@
   "preloaderSettings": {
     "enabled": true,
     "title": "Adarsh's <strong>Portfolio</strong>",
-    "subtitle": "Frontend Engineer",
+    "subtitle": "",
     "logoOffset": {
       "right": 14,
       "top": 2,
@@ -18,7 +18,7 @@
   },
 
   "templateSettings": {
-    "animatedCursorEnabled": true,
+    "animatedCursorEnabled": false,
     "backgroundStyle": "animated",
     "defaultLanguageId": "en",
     "defaultThemeId": "dark",
@@ -27,26 +27,34 @@
   },
 
   "supportedLanguages": [
-    {
-      "name": "English",
-      "id": "en",
-      "flagUrl": "images/flags/en-us.png"
-    },
-    {
-      "name": "Español",
-      "id": "es",
-      "flagUrl": "images/flags/es.png"
-    },
-    {
-      "name": "Français",
-      "id": "fr",
-      "flagUrl": "images/flags/fr.png"
-    },
-    {
-      "name": "한국어",
-      "id": "ko",
-      "flagUrl": "images/flags/ko.png"
-    }
+    { "name": "English", "id": "en", "flagUrl": "images/flags/en-us.png" },
+    { "name": "हिंदी", "id": "hi", "flagUrl": "images/flags/hi.png" },
+    { "name": "বাংলা", "id": "bn", "flagUrl": "images/flags/hi.png" },
+    { "name": "తెలుగు", "id": "te", "flagUrl": "images/flags/hi.png" },
+    { "name": "தமிழ்", "id": "ta", "flagUrl": "images/flags/hi.png" },
+    { "name": "मराठी", "id": "mr", "flagUrl": "images/flags/hi.png" },
+    { "name": "ગુજરાતી", "id": "gu", "flagUrl": "images/flags/hi.png" },
+    { "name": "ਪੰਜਾਬੀ", "id": "pa", "flagUrl": "images/flags/hi.png" },
+    { "name": "മലയാളം", "id": "ml", "flagUrl": "images/flags/ml.png" },
+    { "name": "ಕನ್ನಡ", "id": "kn", "flagUrl": "images/flags/hi.png" },
+    { "name": "ଓଡ଼ିଆ", "id": "or", "flagUrl": "images/flags/hi.png" },
+    { "name": "অসমীয়া", "id": "as", "flagUrl": "images/flags/hi.png" },
+    { "name": "मैथिली", "id": "mai", "flagUrl": "images/flags/hi.png" },
+    { "name": "سنڌي", "id": "sd", "flagUrl": "images/flags/hi.png" },
+    { "name": "कोंकणी", "id": "kok", "flagUrl": "images/flags/hi.png" },
+    { "name": "नेपाली", "id": "ne", "flagUrl": "images/flags/hi.png" },
+    { "name": "कश्मीरी", "id": "ks", "flagUrl": "images/flags/hi.png" },
+    { "name": "اردو", "id": "ur", "flagUrl": "images/flags/pk.png" },
+    { "name": "中文", "id": "zh", "flagUrl": "images/flags/zh.png" },
+    { "name": "日本語", "id": "ja", "flagUrl": "images/flags/ja.png" },
+    { "name": "العربية", "id": "ar", "flagUrl": "images/flags/ar-dz.png" },
+    { "name": "Español", "id": "es", "flagUrl": "images/flags/es.png" },
+    { "name": "Français", "id": "fr", "flagUrl": "images/flags/fr.png" },
+    { "name": "Português", "id": "pt", "flagUrl": "images/flags/pt-br.png" },
+    { "name": "Deutsch", "id": "de", "flagUrl": "images/flags/de.png" },
+    { "name": "Русский", "id": "ru", "flagUrl": "images/flags/ru.png" },
+    { "name": "Italiano", "id": "it", "flagUrl": "images/flags/it.png" },
+    { "name": "한국어", "id": "ko", "flagUrl": "images/flags/ko.png" }
   ],
 
   "supportedThemes": [
@@ -55,10 +63,9 @@
       "icon": "fa-solid fa-moon",
       "dark": true,
       "locales": {
-        "en": { "name": "Dark Mode" },
-        "es": { "name": "Modo Oscuro" },
-        "fr": { "name": "Mode Sombre" },
-        "ko": { "name": "다크 모드" }
+        "en": { "name": "Dark Mode" }, "es": { "name": "Modo Oscuro" }, "fr": { "name": "Mode Sombre" }, "ko": { "name": "다크 모드" },
+        "hi": { "name": "डार्क मोड" }, "bn": { "name": "ডার্ক মোড" }, "te": { "name": "డార్క్ మోడ్" }, "ta": { "name": "இருள் முறை" }, "mr": { "name": "डार्क मोड" }, "gu": { "name": "ડાર્ક મોડ" }, "pa": { "name": "ਡਾਰਕ ਮੋਡ" }, "ml": { "name": "ഡാർക്ക് മോഡ്" }, "kn": { "name": "ಡಾರ್ಕ್ ಮೋಡ್" }, "or": { "name": "ଡାର୍କ ମୋଡ୍" }, "as": { "name": "ডার্ক মড" }, "mai": { "name": "डार्क मोड" }, "sd": { "name": "ڊارڪ موڊ" }, "kok": { "name": "डार्क मोड" }, "ne": { "name": "डार्क मोड" }, "ks": { "name": "ڈارک موڈ" }, "ur": { "name": "ڈارک موڈ" },
+        "zh": { "name": "深色模式" }, "ja": { "name": "ダークモード" }, "ar": { "name": "الوضع الداكن" }, "pt": { "name": "Modo Escuro" }, "de": { "name": "Dunkelmodus" }, "ru": { "name": "Тёмный режим" }, "it": { "name": "Modalità Scura" }
       }
     },
     {
@@ -66,10 +73,9 @@
       "icon": "fa-solid fa-sun",
       "dark": false,
       "locales": {
-        "en": { "name": "Light Mode" },
-        "es": { "name": "Modo Claro" },
-        "fr": { "name": "Mode Clair" },
-        "ko": { "name": "라이트 모드" }
+        "en": { "name": "Light Mode" }, "es": { "name": "Modo Claro" }, "fr": { "name": "Mode Clair" }, "ko": { "name": "라이트 모드" },
+        "hi": { "name": "लाइट मोड" }, "bn": { "name": "লাইট মোড" }, "te": { "name": "లైట్ మోడ్" }, "ta": { "name": "ஒளி முறை" }, "mr": { "name": "लाइट मोड" }, "gu": { "name": "લાઇટ મોડ" }, "pa": { "name": "ਲਾਈਟ ਮੋਡ" }, "ml": { "name": "ലൈറ്റ് മോഡ്" }, "kn": { "name": "ಲೈಟ್ ಮೋಡ್" }, "or": { "name": "ଲାଇଟ୍ ମୋଡ୍" }, "as": { "name": "লাইট মড" }, "mai": { "name": "लाइट मोड" }, "sd": { "name": "لائٽ موڊ" }, "kok": { "name": "लाइट मोड" }, "ne": { "name": "लाइट मोड" }, "ks": { "name": "لائٹ موڈ" }, "ur": { "name": "لائٹ موڈ" },
+        "zh": { "name": "浅色模式" }, "ja": { "name": "ライトモード" }, "ar": { "name": "الوضع الفاتح" }, "pt": { "name": "Modo Claro" }, "de": { "name": "Hellmodus" }, "ru": { "name": "Светлый режим" }, "it": { "name": "Modalità Chiara" }
       }
     }
   ],
@@ -88,7 +94,7 @@
           "Bootstrap 5: https://getbootstrap.com/",
           "Smooth Scrollbar: https://tinyurl.com/4yhm4n4a",
           "Swiper: https://swiperjs.com/",
-          "EmailJS: https://www.emailjs.com/",
+          "Web3Forms: https://web3forms.com/",
           "Font Awesome: https://fontawesome.com/",
           "PrimeIcons: https://primefaces.org/"
         ],

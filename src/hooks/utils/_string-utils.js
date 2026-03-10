@@ -147,5 +147,87 @@ export const _stringUtils = {
         if(percentage === null || percentage === undefined || isNaN(percentage))
             return null
         return percentage + "%"
+    },
+
+    /**
+     * Wraps CGPA and percentage values in highlight spans for visual emphasis.
+     * @param {string} string
+     * @return {string}
+     */
+    highlightMetrics: (string) => {
+        if (!string || typeof string !== "string") return string
+        return String(string)
+            .replace(/(\d+\.?\d*%)/g, '<span class="highlight-metric">$1</span>')
+            .replace(/(\d+\.?\d*\s*CGPA|CGPA:\s*\d+\.?\d*)/gi, '<span class="highlight-metric">$1</span>')
+    },
+
+    /**
+     * Wraps important achievement terms (numbers, scores, company/platform names) in highlight spans.
+     * Use for Achievements section descriptions.
+     * @param {string} string - Already processed by highlightMetrics
+     * @return {string}
+     */
+    highlightAchievementTerms: (string) => {
+        if (!string || typeof string !== "string") return string
+        let s = String(string)
+        // Numbers with + (e.g., 700+)
+        s = s.replace(/(\d+\+)/g, '<span class="highlight-metric">$1</span>')
+        // Scores in parens (e.g., (1407), (1628))
+        s = s.replace(/(\(\d+\))/g, '<span class="highlight-metric">$1</span>')
+        // X-Star patterns (e.g., 5-Star Badge, 3*)
+        s = s.replace(/(\d+[- ]?[Ss]tar\s+[Bb]adge?)/g, '<span class="highlight-metric">$1</span>')
+        s = s.replace(/(\d+[*★])/g, '<span class="highlight-metric">$1</span>')
+        // Company/platform names (word boundaries to avoid partial matches)
+        const terms = [
+            'SaaS Labs', 'Amazon', 'Tekion', 'Infosys',
+            'GeeksforGeeks', 'HackerEarth', 'CodeForces', 'CodeChef', 'HackerRank',
+            'NIT Jamshedpur', 'Smart India Hackathon', 'Swastik', 'JEE Main', 'JEE Advanced'
+        ]
+        terms.forEach(term => {
+            const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+            const re = new RegExp(`\\b(${escaped})\\b`, 'g')
+            s = s.replace(re, '<span class="highlight-metric">$1</span>')
+        })
+        return s
+    },
+
+    /** Shared tech/context terms for portfolio and experience highlighting */
+    _techTerms: [
+        'React', 'ReactJs', 'ReactJS', 'React Native', 'Node.js', 'NodeJs', 'NodeJS',
+        'MongoDB', 'SocketIO', 'Express', 'Express.js', 'SQL', 'Firebase', 'Java',
+        'REST API', 'RESTful API', 'RESTful', 'Android', 'Procore', 'Documents Management',
+        'construction', 'CRL'
+    ],
+
+    /**
+     * Portfolio: black-bold highlights. Use for My Portfolio section.
+     * @param {string} string
+     * @return {string}
+     */
+    highlightPortfolioTerms: (string) => {
+        if (!string || typeof string !== "string") return string
+        let s = _stringUtils.highlightMetrics(string)
+        _stringUtils._techTerms.forEach(term => {
+            const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+            const re = new RegExp(`\\b(${escaped})\\b`, 'gi')
+            s = s.replace(re, '<span class="highlight-portfolio">$1</span>')
+        })
+        return s
+    },
+
+    /**
+     * Work Experience: bold-only highlights. Use for Work Experience section.
+     * @param {string} string
+     * @return {string}
+     */
+    highlightExperienceTerms: (string) => {
+        if (!string || typeof string !== "string") return string
+        let s = _stringUtils.highlightMetrics(string)
+        _stringUtils._techTerms.forEach(term => {
+            const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+            const re = new RegExp(`\\b(${escaped})\\b`, 'gi')
+            s = s.replace(re, '<span class="highlight-experience">$1</span>')
+        })
+        return s
     }
 }

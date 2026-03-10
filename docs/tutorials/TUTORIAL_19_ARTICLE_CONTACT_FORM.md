@@ -6,92 +6,29 @@
 
 The `ArticleContactForm` component is used for displaying a contact form that allows users to send messages or inquiries directly from the website. Unlike other articles, this one does not require any items to be defined. Instead, it relies on settings for configuration.
 
-## EmailJS Integration
+## Web3Forms Integration
 
-The contact form component integrates `EmailJS`. EmailJS is a free service that allows you to send emails using JavaScript - without the need for a backend.
+The contact form component integrates [Web3Forms](https://web3forms.com/), a free contact form API that delivers submissions to your email inbox without requiring a backend.
 
-To configure your EmailJS integration, follow these steps:
+To configure Web3Forms, follow these steps:
 
-- Create a free EmailJS account (https://www.emailjs.com/)
-- In your EmailJS account panel, create an email service, which configures the provider that will send the emails (e.g., a Gmail or iCloud account).
-- Next, on your dashboard, create a new ``Contact Us`` email template.
-- On the template edit page, set a subject like: ``React Portfolio - New message from {{name}}``
-- Make sure the field ``To Email`` field on the right bar is set to the email address where you want to receive the messages.
-- In the template body, you can click on ``Edit Content``, then ``Code Editor``, and paste the following code snippet:
+1. Go to [app.web3forms.com](https://app.web3forms.com/)
+2. Verify your email address
+3. Create a form and copy your **Access Key**
+4. Add the access key to your contact section settings (see below)
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>New Contact Message</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            color: #333;
-            background-color: #f9f9f9;
-            padding: 20px;
-        }
-        .container {
-            background-color: #ffffff;
-            padding: 20px;
-            border-radius: 8px;
-            max-width: 600px;
-            margin: auto;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        .heading {
-            font-size: 20px;
-            margin-bottom: 25px;
-            color: #444;
-        }
-        .info {
-            margin-bottom: 10px;
-        }
-        .label {
-            font-weight: bold;
-        }
-        .message {
-            white-space: pre-line;
-            margin-top: 10px;
-            padding: 0 15px 15px;
-            background-color: #f1f1f1;
-            border-left: 4px solid #269366;
-            border-radius: 4px;
-        }
-    </style>
-</head>
-<body>
-<div class="container">
-    <div class="heading">New portfolio message! 📩 </div>
-    <div class="info"><span class="label">Name:</span> {{name}}</div>
-    <div class="info"><span class="label">Email:</span> {{email}}</div>
-    <div class="info"><span class="label">Subject:</span> {{custom_subject}}</div>
-
-    <div class="info"><span class="label">Message:</span></div>
-    <div class="message">
-        {{message}}
-    </div>
-</div>
-</body>
-</html>
-```
-
-- Make sure you don't change the variable names in the template (`name`, `email`, `custom_subject`, `message`), as they are used by the component to serialize the email parameters.
-- Now you're all set to configure your `ArticleContactForm` component!
+Web3Forms will send form submissions (name, email, subject, message) directly to the email address you registered with. No templates or additional setup required.
 
 ## Basic Working Example
 
-Copy and paste this into a section's `articles` array and replace the `YOUR_EMAIL_JS_(...)` placeholders with your own credentials:
+Copy and paste this into a section's `articles` array and replace `YOUR_WEB3FORMS_ACCESS_KEY` with your Web3Forms access key:
 
 ```json
 {
     "id": 1,
     "component": "ArticleContactForm",
     "settings": {
-        "email_js_public_key": "YOUR_EMAIL_JS_PUBLIC_KEY",
-        "email_js_service_id": "YOUR_EMAIL_JS_PUBLIC_SERVICE_ID",
-        "email_js_template_id": "YOUR_EMAIL_JS_TEMPLATE_ID"
+        "web3forms_access_key": "YOUR_WEB3FORMS_ACCESS_KEY"
     },
     "locales": {
         "en": {
@@ -107,11 +44,9 @@ Copy and paste this into a section's `articles` array and replace the `YOUR_EMAI
 
 ### Required Settings
 
-| Property                | Type    | Description                                                                         |
-|-------------------------|---------|-------------------------------------------------------------------------------------|
-| `email_js_public_key`   | STRING  | Your EmailJS public key. It can be found in the `Account` tab on the EmailJS panel. |
-| `email_js_service_id`   | STRING  | The ID of the email service you created in EmailJS.                                 |
-| `email_js_template_id`  | STRING  | The ID of the email template you created in EmailJS.                                |
+| Property                 | Type    | Description                                                              |
+|--------------------------|---------|--------------------------------------------------------------------------|
+| `web3forms_access_key`   | STRING  | Your Web3Forms access key from [app.web3forms.com](https://app.web3forms.com/). |
 
 ### Required Locales
 

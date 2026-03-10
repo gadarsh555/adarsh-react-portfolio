@@ -10,7 +10,7 @@ import {useScheduler} from "/src/hooks/scheduler.js"
 import {useLanguage} from "/src/providers/LanguageProvider.jsx"
 import {useViewport} from "/src/providers/ViewportProvider.jsx"
 import ActivitySpinner from "/src/components/loaders/ActivitySpinner.jsx"
-import MouseLayer from "/src/components/mouse/MouseLayer.jsx"
+// import MouseLayer from "/src/components/mouse/MouseLayer.jsx"  // Magic cursor - commented out
 import NotificationsLayer from "/src/components/notifications/NotificationsLayer.jsx"
 import YoutubeVideoModal from "/src/components/modals/YoutubeVideoModal.jsx"
 import ConfirmationWindowModal from "/src/components/modals/ConfirmationWindowModal.jsx"
@@ -161,9 +161,11 @@ function FeedbacksProvider({ children, canHaveAnimatedCursor }) {
             <ActivitySpinner activities={spinnerActivities}
                              defaultMessage={language.getString("loading")}/>
 
+            {/* Magic cursor feature - commented out, default is normal cursor
             <MouseLayer active={animatedCursorEnabled && animatedCursorActive}
                         hidden={animatedCursorLocked}
                         isBlockedByOverlay={isBlockedByOverlay()}/>
+            */}
 
             <NotificationsLayer target={displayingNotification}
                                 onNotificationDismissed={killNotification}/>

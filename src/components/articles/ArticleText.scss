@@ -68,7 +68,8 @@ div.article-text-excerpt {
     direction: ltr;
     width: 100%;
     color: var(--theme-texts-light);
-
+    line-height: 1.7;
+    letter-spacing: 0.01em;
 
     margin-bottom: 8px;
     @include media-breakpoint-down(xxl) {
@@ -76,6 +77,84 @@ div.article-text-excerpt {
     }
     @include media-breakpoint-down($column-breakpoint) {
         margin: 10px 0 0;
+    }
+
+    p {
+        margin-bottom: 1.25em;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    strong, b {
+        font-weight: 600;
+        color: var(--theme-texts);
+    }
+
+    .text-primary {
+        font-weight: 600;
+        color: var(--theme-primary);
+        position: relative;
+    }
+
+    p:last-of-type strong:last-child,
+    p:last-of-type b:last-child {
+        font-size: 1.08em;
+        letter-spacing: 0.02em;
+    }
+}
+
+/* About section - gradient background + unified font style */
+div.section-content-about div.article-text-excerpt {
+    font-family: $headings-font-family;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.7;
+    letter-spacing: 0.01em;
+    color: #14532d;
+    padding: 1.5rem 1.75rem;
+    background: linear-gradient(
+        135deg,
+        #ecfccb 0%,
+        #bbf7d0 50%,
+        #86efac 100%
+    );
+    border-radius: 12px;
+    box-shadow: 0 6px 24px rgba(134, 239, 172, 0.4);
+
+    p {
+        margin-bottom: 1.25em;
+        font-size: inherit;
+        font-weight: inherit;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    strong, b, .text-primary {
+        color: #052e16;
+        font-weight: 700;
+        font-size: inherit;
+    }
+
+    p:last-of-type strong:last-child,
+    p:last-of-type b:last-child {
+        font-size: inherit;
+        letter-spacing: inherit;
+    }
+
+    a {
+        color: #14532d;
+        text-decoration: underline;
+        text-decoration-color: rgba(20, 83, 45, 0.7);
+        font-weight: inherit;
+
+        &:hover {
+            color: #052e16;
+            text-decoration-color: #052e16;
+        }
     }
 }
 

@@ -22,12 +22,20 @@
       "name_pronunciation_audio_url": ""
     },
     "es": {
+      "localized_name": "Adarsh Gautam",
+      "localized_name_stylized": " [[Adarsh {{Gautam}}]]",
       "status_message_available_for_freelance": "¡Disponible para freelance!",
-      "roles": ["Desarrollador Frontend", "Ingeniero de Software"]
+      "roles": ["Desarrollador Frontend", "Ingeniero de Software"],
+      "name_pronunciation_ipa": "",
+      "name_pronunciation_audio_url": ""
     },
     "fr": {
+      "localized_name": "Adarsh Gautam",
+      "localized_name_stylized": " [[Adarsh {{Gautam}}]]",
       "status_message_available_for_freelance": "Disponible pour freelance !",
-      "roles": ["Développeur Frontend", "Ingénieur Logiciel"]
+      "roles": ["Développeur Frontend", "Ingénieur Logiciel"],
+      "name_pronunciation_ipa": "",
+      "name_pronunciation_audio_url": ""
     },
     "ko": {
       "localized_name": "아다르시 가우탐",
@@ -36,6 +44,30 @@
       "roles": ["프론트엔드 개발자", "소프트웨어 엔지니어"],
       "name_pronunciation_ipa": "",
       "name_pronunciation_audio_url": ""
-    }
+    },
+    "hi": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "फ्रीलांस के लिए उपलब्ध!", "roles": ["फ्रंटएंड डेवलपर", "सॉफ्टवेयर इंजीनियर"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "bn": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "ফ্রিল্যান্সের জন্য উপলব্ধ!", "roles": ["ফ্রন্টএন্ড ডেভেলপার", "সফটওয়্যার ইঞ্জিনিয়ার"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "te": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "ఫ్రీలాన్స్ కోసం అందుబాటులో!", "roles": ["ఫ్రంటెండ్ డెవలపర్", "సాఫ్ట్‌వేర్ ఇంజనీర్"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "ta": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "இலவச பணிக்கு கிடைக்கிறது!", "roles": ["ஃபிரன்ட்எண்ட் டெவலப்பர்", "மென்பொருள் பொறியாளர்"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "mr": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "फ्रीलांससाठी उपलब्ध!", "roles": ["फ्रंटएंड डेव्हलपर", "सॉफ्टवेअर इंजिनियर"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "gu": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "ફ્રીલાન્સ માટે ઉપલબ્ધ!", "roles": ["ફ્રન્ટએન્ડ ડેવલપર", "સોફ્ટવેર ઇજનેર"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "pa": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "ਫ੍ਰੀਲੈਂਸ ਲਈ ਉਪਲੱਬਧ!", "roles": ["ਫਰੰਟਐਂਡ ਡਿਵੈਲਪਰ", "ਸਾਫਟਵੇਅਰ ਇੰਜੀਨੀਅਰ"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "ml": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "ഫ്രീലാൻസിനായി ലഭ്യമാണ്!", "roles": ["ഫ്രണ്ട്‌എൻഡ് ഡെവലപ്പർ", "സോഫ്റ്റ്‌വെയർ എഞ്ചിനീയർ"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "kn": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "ಫ್ರೀಲಾನ್ಸ್‌ಗೆ ಲಭ್ಯವಿದೆ!", "roles": ["ಫ್ರಂಟ್‌ಎಂಡ್ ಡೆವಲಪರ್", "ಸಾಫ್ಟ್‌ವೇರ್ ಇಂಜಿನಿಯರ್"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "ur": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "فری لانس کے لیے دستیاب!", "roles": ["فرنٹ اینڈ ڈویلپر", "سافٹ ویئر انجینئر"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "zh": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "可承接自由职业！", "roles": ["前端工程师", "全栈开发"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "ja": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "フリーランス可能です！", "roles": ["フロントエンドエンジニア", "ソフトウェアエンジニア"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "ar": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "متاح للعمل الحر!", "roles": ["مطور واجهات", "مهندس برمجيات"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "pt": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "Disponível para freelance!", "roles": ["Desenvolvedor Frontend", "Engenheiro de Software"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "de": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "Für Freelance verfügbar!", "roles": ["Frontend-Entwickler", "Software-Ingenieur"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "ru": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "Доступен для фриланса!", "roles": ["Фронтенд-разработчик", "Инженер-программист"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "it": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "Disponibile per freelance!", "roles": ["Sviluppatore Frontend", "Ingegnere software"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "or": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "ଫ୍ରିଲାନ୍ସ ପାଇଁ ଉପଲବ୍ଧ!", "roles": ["ଫ୍ରଣ୍ଟଏଣ୍ଡ ଡେଭଲପର", "ସଫ୍ଟୱେର ଇଞ୍ଜିନିୟର"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "as": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "ফ্ৰিলেঞ্চৰ বাবে উপলব্ধ!", "roles": ["ফ্ৰণ্টএণ্ড ডেভেলপাৰ", "ছফ্টৱেৰ ইঞ্জিনিয়াৰ"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "mai": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "फ्रीलान्स क' लेल उपलब्ध!", "roles": ["फ्रंटएंड डेवलपर", "सॉफ्टवेयर इंजीनियर"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "sd": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "فري لانسي ڪرڻ لاءِ دستياب!", "roles": ["فرنٽ اينڊ ڊولپر", "سافٽويئر انجينير"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "kok": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "फ्रीलान्स खातीर उपलब्ध!", "roles": ["फ्रंटएंड डेव्हलपर", "सॉफ्टवेअर इंजिनीअर"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "ne": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "फ्रीलान्सको लागि उपलब्ध!", "roles": ["फ्रन्टएन्ड डेभलपर", "सफ्टवेयर इन्जिनियर"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" },
+    "ks": { "localized_name": "Adarsh Gautam", "localized_name_stylized": " [[Adarsh {{Gautam}}]]", "status_message_available_for_freelance": "فری لانس ک' لئے دستیاب!", "roles": ["فرنٹ اینڈ ڈویلپر", "سافٹ ویئر انجینئر"], "name_pronunciation_ipa": "", "name_pronunciation_audio_url": "" }
   }
 }

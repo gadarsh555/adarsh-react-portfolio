@@ -10,6 +10,7 @@ import ArticleNotFound from "/src/components/articles/ArticleNotFound.jsx"
 import ArticlePortfolio from "/src/components/articles/ArticlePortfolio.jsx"
 import ArticleStack from "/src/components/articles/ArticleStack.jsx"
 import ArticleSkills from "/src/components/articles/ArticleSkills.jsx"
+import ArticleStats from "/src/components/articles/ArticleStats.jsx"
 import ArticleTestimonials from "/src/components/articles/ArticleTestimonials.jsx"
 import ArticleText from "/src/components/articles/ArticleText.jsx"
 import ArticleThread from "/src/components/articles/ArticleThread.jsx"
@@ -35,6 +36,7 @@ SectionBody.ARTICLES = {
     ArticleCards,
     ArticleContactForm,
     ArticleFacts,
+    ArticleStats,
     ArticleInfoList,
     ArticleInlineList,
     ArticleNotFound,

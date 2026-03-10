@@ -1,5 +1,10 @@
 @import "/src/styles/extend.scss";
 
+div.btn-option-picker-dropdown-menu {
+    max-height: 280px;
+    overflow-y: auto;
+}
+
 div.btn-option-picker {
     display: flex;
     width: 100%;
@@ -8,6 +13,12 @@ div.btn-option-picker {
 }
 
 button.btn-option-picker-toggle {
+    &::after,
+    &::before {
+        display: none !important;
+        content: none !important;
+    }
+
     i.fa-icon {
         opacity: 0.3;
         color: var(--theme-texts);

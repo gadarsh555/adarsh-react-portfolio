@@ -24,7 +24,31 @@
                 "title_short_nav": "업데이트",
                 "title_long_prefix": "내 최근",
                 "title_long": "{{업데이트}}를 확인해 보세요"
-            }
+            },
+            "hi": {"title_short": "हाल के जीवन", "title_short_nav": "अपडेट", "title_long_prefix": "मेरी हाल की", "title_long": "{{अपडेट}} देखें"},
+            "bn": {"title_short": "সাম্প্রতিক জীবন", "title_short_nav": "আপডেট", "title_long_prefix": "আমার সাম্প্রতিক", "title_long": "{{আপডেট}} দেখুন"},
+            "te": {"title_short": "ఇటీవల జీవితం", "title_short_nav": "అప్ డేట్‌లు", "title_long_prefix": "నా ఇటీవల", "title_long": "{{అప్ డేట్‌లు}} చూడండి"},
+            "ta": {"title_short": "சமீபத்திய வாழ்க்கை", "title_short_nav": "புதுப்பிப்புகள்", "title_long_prefix": "என்னுடைய சமீபத்திய", "title_long": "{{புதுப்பிப்புகள்}} பார்க்கவும்"},
+            "mr": {"title_short": "अलीकडील जीवन", "title_short_nav": "अपडेट्स", "title_long_prefix": "माझे अलीकडील", "title_long": "{{अपडेट्स}} पहा"},
+            "gu": {"title_short": "તાજેતરનું જીવન", "title_short_nav": "અપડેટ્સ", "title_long_prefix": "મારા તાજેતરના", "title_long": "{{અપડેટ્સ}} જુઓ"},
+            "pa": {"title_short": "ਹਾਲੀਆ ਜ਼ਿੰਦਗੀ", "title_short_nav": "ਅੱਪਡੇਟਸ", "title_long_prefix": "ਮੇਰੇ ਹਾਲੀਆ", "title_long": "{{ਅੱਪਡੇਟਸ}} ਵੇਖੋ"},
+            "ml": {"title_short": "സമീപകാല ജീവിതം", "title_short_nav": "അപ്‌ഡേറ്റുകൾ", "title_long_prefix": "എന്റെ സമീപകാല", "title_long": "{{അപ്‌ഡേറ്റുകൾ}} കാണുക"},
+            "kn": {"title_short": "ಇತ್ತೀಚಿನ ಜೀವನ", "title_short_nav": "ನವೀಕರಣಗಳು", "title_long_prefix": "ನನ್ನ ಇತ್ತೀಚಿನ", "title_long": "{{ನವೀಕರಣಗಳು}} ನೋಡಿ"},
+            "or": {"title_short": "ସାମ୍ପ୍ରତିକ ଜୀବନ", "title_short_nav": "ଅପ୍ୱେଟ୍", "title_long_prefix": "ମୋର ସାମ୍ପ୍ରତିକ", "title_long": "{{ଅପ୍ୱେଟ୍}} ଦେଖନ୍ତୁ"},
+            "as": {"title_short": "অতি সম্প্ৰতি জীৱন", "title_short_nav": "আপডেট", "title_long_prefix": "মোৰ অতি সম্প্ৰতি", "title_long": "{{আপডেট}} চাওক"},
+            "mai": {"title_short": "हाल के जीवन", "title_short_nav": "अपडेट", "title_long_prefix": "महरा हाल के", "title_long": "{{अपडेट}} देखू"},
+            "sd": {"title_short": "حالي زندگي", "title_short_nav": "اپ ڊيٽس", "title_long_prefix": "منهنجي حاليهه", "title_long": "{{اپ ڊيٽس}} ڏسو"},
+            "kok": {"title_short": "अलीकडील जीवन", "title_short_nav": "अपडेट्स", "title_long_prefix": "म्हजे अलीकडील", "title_long": "{{अपडेट्स}} पळयात"},
+            "ne": {"title_short": "हालको जीवन", "title_short_nav": "अपडेटहरू", "title_long_prefix": "मेरो हालको", "title_long": "{{अपडेटहरू}} हेर्नुहोस्"},
+            "ks": {"title_short": "حالیٖ زندگی", "title_short_nav": "اپڈیٹس", "title_long_prefix": "مۄنہِ حالیٖ", "title_long": "{{اپڈیٹس}} وۄچھ"},
+            "ur": {"title_short": "حالیہ زندگی", "title_short_nav": "اپڈیٹس", "title_long_prefix": "میری حالیہ", "title_long": "{{اپڈیٹس}} دیکھیں"},
+            "zh": {"title_short": "近期生活", "title_short_nav": "动态", "title_long_prefix": "我的近期", "title_long": "{{动态}}"},
+            "ja": {"title_short": "最近の生活", "title_short_nav": "アップデート", "title_long_prefix": "私の最近の", "title_long": "{{アップデート}}をご覧ください"},
+            "ar": {"title_short": "الحياة مؤخراً", "title_short_nav": "التحديثات", "title_long_prefix": "آخر", "title_long": "{{تحديثاتي}}"},
+            "pt": {"title_short": "Vida Recente", "title_short_nav": "Atualizações", "title_long_prefix": "Confira minhas", "title_long": "{{Atualizações}} Recentes"},
+            "de": {"title_short": "Leben kürzlich", "title_short_nav": "Aktualisierungen", "title_long_prefix": "Schauen Sie sich meine", "title_long": "aktuellen {{Aktualisierungen}} an"},
+            "ru": {"title_short": "Жизнь недавно", "title_short_nav": "Обновления", "title_long_prefix": "Взгляните на мои", "title_long": "последние {{обновления}}"},
+            "it": {"title_short": "Vita recente", "title_short_nav": "Aggiornamenti", "title_long_prefix": "Dai un'occhiata ai miei", "title_long": "{{Aggiornamenti}} Recenti"}
         }
     },
 
@@ -44,19 +68,34 @@
                     "faIcon": "fa-solid fa-tablet-screen-button",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
-                        "en": {
-                            "title": "03",
-                            "text": "Apps Published"
-                        },
-                        "es": {
-                            "text": "Aplicaciones Publicadas"
-                        },
-                        "fr": {
-                            "text": "Applications Publiées"
-                        },
-                        "ko": {
-                            "text": "출시된 앱"
-                        }
+                        "en": {"title": "03", "text": "Apps Published"},
+                        "es": {"title": "03", "text": "Aplicaciones Publicadas"},
+                        "fr": {"title": "03", "text": "Applications Publiées"},
+                        "ko": {"title": "03", "text": "출시된 앱"},
+                        "hi": {"title": "03", "text": "प्रकाशित ऐप"},
+                        "bn": {"title": "03", "text": "প্রকাশিত অ্যাপ"},
+                        "te": {"title": "03", "text": "ప్రచురించిన యాప్‌లు"},
+                        "ta": {"title": "03", "text": "வெளியிடப்பட்ட பயன்பாடுகள்"},
+                        "mr": {"title": "03", "text": "प्रकाशित अॅप्स"},
+                        "gu": {"title": "03", "text": "પ્રકાશિત એપ્સ"},
+                        "pa": {"title": "03", "text": "ਪ੍ਰਕਾਸ਼ਿਤ ਐਪਾਂ"},
+                        "ml": {"title": "03", "text": "പ്രസിദ്ധീകരിച്ച ആപ്പുകൾ"},
+                        "kn": {"title": "03", "text": "ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಪ್ರಕಟಿಸಲಾಗಿದೆ"},
+                        "or": {"title": "03", "text": "ପ୍ରକାଶିତ ଆପ୍"},
+                        "as": {"title": "03", "text": "প্ৰকাশিত এপ"},
+                        "mai": {"title": "03", "text": "प्रकाशित ऐप"},
+                        "sd": {"title": "03", "text": "شائع ٿيل ايپس"},
+                        "kok": {"title": "03", "text": "प्रकाशित ऍप्स"},
+                        "ne": {"title": "03", "text": "प्रकाशित एपहरू"},
+                        "ks": {"title": "03", "text": "شائع ٿيل ايپس"},
+                        "ur": {"title": "03", "text": "شائع شدہ ایپس"},
+                        "zh": {"title": "03", "text": "已发布应用"},
+                        "ja": {"title": "03", "text": "公開されたアプリ"},
+                        "ar": {"title": "03", "text": "تطبيقات منشورة"},
+                        "pt": {"title": "03", "text": "Aplicativos Publicados"},
+                        "de": {"title": "03", "text": "Veröffentlichte Apps"},
+                        "ru": {"title": "03", "text": "Опубликованные приложения"},
+                        "it": {"title": "03", "text": "App Pubblicate"}
                     }
                 },
                 {
@@ -65,19 +104,34 @@
                     "faIcon": "fa-solid fa-star",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
-                        "en": {
-                            "title": "100+",
-                            "text": "Stars on GitHub"
-                        },
-                        "es": {
-                            "text": "Estrellas en GitHub"
-                        },
-                        "fr": {
-                            "text": "Étoiles sur GitHub"
-                        },
-                        "ko": {
-                            "text": "GitHub의 별"
-                        }
+                        "en": {"title": "100+", "text": "Stars on GitHub"},
+                        "es": {"title": "100+", "text": "Estrellas en GitHub"},
+                        "fr": {"title": "100+", "text": "Étoiles sur GitHub"},
+                        "ko": {"title": "100+", "text": "GitHub의 별"},
+                        "hi": {"title": "100+", "text": "GitHub पर स्टार"},
+                        "bn": {"title": "100+", "text": "GitHub-এ স্টার"},
+                        "te": {"title": "100+", "text": "GitHubలో స్టార్‌లు"},
+                        "ta": {"title": "100+", "text": "GitHub ஸ்டார்கள்"},
+                        "mr": {"title": "100+", "text": "GitHub वर स्टार"},
+                        "gu": {"title": "100+", "text": "GitHub પર સ્ટાર"},
+                        "pa": {"title": "100+", "text": "GitHub 'ਤੇ ਸਤਾਰੇ"},
+                        "ml": {"title": "100+", "text": "GitHub-ലെ സ്റ്റാറുകൾ"},
+                        "kn": {"title": "100+", "text": "GitHub ನಲ್ಲಿ ನಕ್ಷತ್ರಗಳು"},
+                        "or": {"title": "100+", "text": "GitHub ରେ ତାରକା"},
+                        "as": {"title": "100+", "text": "GitHub-ত তৰা"},
+                        "mai": {"title": "100+", "text": "GitHub पर स्टार"},
+                        "sd": {"title": "100+", "text": "GitHub تي تارا"},
+                        "kok": {"title": "100+", "text": "GitHub चे स्टार"},
+                        "ne": {"title": "100+", "text": "GitHub मा ताराहरू"},
+                        "ks": {"title": "100+", "text": "GitHub پٮ۪ٹہ تارے"},
+                        "ur": {"title": "100+", "text": "GitHub پر ستارے"},
+                        "zh": {"title": "100+", "text": "GitHub星标"},
+                        "ja": {"title": "100+", "text": "GitHubのスター"},
+                        "ar": {"title": "100+", "text": "نجوم على GitHub"},
+                        "pt": {"title": "100+", "text": "Estrelas no GitHub"},
+                        "de": {"title": "100+", "text": "Sterne auf GitHub"},
+                        "ru": {"title": "100+", "text": "Звёзд на GitHub"},
+                        "it": {"title": "100+", "text": "Stelle su GitHub"}
                     }
                 },
                 {
@@ -86,19 +140,34 @@
                     "faIcon": "fa-solid fa-globe",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
-                        "en": {
-                            "title": "12",
-                            "text": "Countries visited"
-                        },
-                        "es": {
-                            "text": "Países Visitados"
-                        },
-                        "fr": {
-                            "text": "Pays Visités"
-                        },
-                        "ko": {
-                            "text": "방문한 국가"
-                        }
+                        "en": {"title": "12", "text": "Countries visited"},
+                        "es": {"title": "12", "text": "Países Visitados"},
+                        "fr": {"title": "12", "text": "Pays Visités"},
+                        "ko": {"title": "12", "text": "방문한 국가"},
+                        "hi": {"title": "12", "text": "देखे गए देश"},
+                        "bn": {"title": "12", "text": "পরিদর্শন করা দেশ"},
+                        "te": {"title": "12", "text": "సందర్శించిన దేశాలు"},
+                        "ta": {"title": "12", "text": "பார்வையிட்ட நாடுகள்"},
+                        "mr": {"title": "12", "text": "भेट दिलेले देश"},
+                        "gu": {"title": "12", "text": "મુલાકાત લીધેલા દેશો"},
+                        "pa": {"title": "12", "text": "ਭੇਟੇ ਦੇਸ਼"},
+                        "ml": {"title": "12", "text": "സന്ദർശിച്ച രാജ്യങ്ങൾ"},
+                        "kn": {"title": "12", "text": "ಭೇಟಿ ನೀಡಿದ ದೇಶಗಳು"},
+                        "or": {"title": "12", "text": "ପରିଦର୍ଶନ କରାଯାଇଥିବା ଦେଶ"},
+                        "as": {"title": "12", "text": "দৰ্শন কৰা দেশ"},
+                        "mai": {"title": "12", "text": "भेटल देस"},
+                        "sd": {"title": "12", "text": "گھوميل ملڪ"},
+                        "kok": {"title": "12", "text": "भेट दिल्ले देश"},
+                        "ne": {"title": "12", "text": "भ्रमण गरिएका देशहरू"},
+                        "ks": {"title": "12", "text": "ملاقات یوۋ ملک"},
+                        "ur": {"title": "12", "text": "دورہ کیے گئے ممالک"},
+                        "zh": {"title": "12", "text": "到访国家"},
+                        "ja": {"title": "12", "text": "訪問した国"},
+                        "ar": {"title": "12", "text": "دول تمت زيارتها"},
+                        "pt": {"title": "12", "text": "Países visitados"},
+                        "de": {"title": "12", "text": "Besuchte Länder"},
+                        "ru": {"title": "12", "text": "Посещённые страны"},
+                        "it": {"title": "12", "text": "Paesi visitati"}
                     }
                 },
                 {
@@ -107,19 +176,34 @@
                     "faIcon": "fa-solid fa-diagram-project",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
-                        "en": {
-                            "title": "07",
-                            "text": "Open-source projects"
-                        },
-                        "es": {
-                            "text": "Proyectos de Código Abierto"
-                        },
-                        "fr": {
-                            "text": "Projets Open-source"
-                        },
-                        "ko": {
-                            "text": "오픈 소스 프로젝트"
-                        }
+                        "en": {"title": "07", "text": "Open-source projects"},
+                        "es": {"title": "07", "text": "Proyectos de Código Abierto"},
+                        "fr": {"title": "07", "text": "Projets Open-source"},
+                        "ko": {"title": "07", "text": "오픈 소스 프로젝트"},
+                        "hi": {"title": "07", "text": "ओपन-सोर्स प्रोजेक्ट"},
+                        "bn": {"title": "07", "text": "ওপেন-সোর্স প্রজেক্ট"},
+                        "te": {"title": "07", "text": "ఓపెన్-సోర్స్ ప్రాజెక్ట్లు"},
+                        "ta": {"title": "07", "text": "திறந்த மூல திட்டங்கள்"},
+                        "mr": {"title": "07", "text": "ओपन-सोर्स प्रकल्प"},
+                        "gu": {"title": "07", "text": "ઓપન-સોર્સ પ્રોજેક્ટ્સ"},
+                        "pa": {"title": "07", "text": "ਓਪਨ-ਸੋਰਸ ਪ੍ਰੋਜੈਕਟ"},
+                        "ml": {"title": "07", "text": "ഓപ്പൺ-സോഴ്സ് പ്രോജക്റ്റുകൾ"},
+                        "kn": {"title": "07", "text": "ಓಪನ್-ಸೋರ್ಸ್ ಯೋಜನೆಗಳು"},
+                        "or": {"title": "07", "text": "ଓପନ୍-ସୋର୍ସ ପ୍ରୋଜେକ୍ଟ୍"},
+                        "as": {"title": "07", "text": "অপেন-ছোৰ্ছ প্ৰজেক্ট"},
+                        "mai": {"title": "07", "text": "ओपन-सोर्स प्रोजेक्ट"},
+                        "sd": {"title": "07", "text": "اوپن سورس پروجيڪٽ"},
+                        "kok": {"title": "07", "text": "ओपन-सोर्स प्रकल्प"},
+                        "ne": {"title": "07", "text": "ओपन-सोर्स परियोजनाहरू"},
+                        "ks": {"title": "07", "text": "اوپن سورس پراجیکٹس"},
+                        "ur": {"title": "07", "text": "اوپن سورس پروجیکٹس"},
+                        "zh": {"title": "07", "text": "开源项目"},
+                        "ja": {"title": "07", "text": "オープンソースプロジェクト"},
+                        "ar": {"title": "07", "text": "مشاريع مفتوحة المصدر"},
+                        "pt": {"title": "07", "text": "Projetos open-source"},
+                        "de": {"title": "07", "text": "Open-Source-Projekte"},
+                        "ru": {"title": "07", "text": "Проекты с открытым кодом"},
+                        "it": {"title": "07", "text": "Progetti open-source"}
                     }
                 },
                 {
@@ -128,19 +212,34 @@
                     "faIcon": "fa-solid fa-coffee",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
-                        "en": {
-                            "title": "20,000",
-                            "text": "Coffees consumed"
-                        },
-                        "es": {
-                            "text": "Cafés Consumidos"
-                        },
-                        "fr": {
-                            "text": "Cafés Consommés"
-                        },
-                        "ko": {
-                            "text": "소비된 커피"
-                        }
+                        "en": {"title": "20,000", "text": "Coffees consumed"},
+                        "es": {"title": "20,000", "text": "Cafés Consumidos"},
+                        "fr": {"title": "20,000", "text": "Cafés Consommés"},
+                        "ko": {"title": "20,000", "text": "소비된 커피"},
+                        "hi": {"title": "20,000", "text": "पिए गए कॉफी"},
+                        "bn": {"title": "20,000", "text": "কফি খাওয়া হয়েছে"},
+                        "te": {"title": "20,000", "text": "తాగిన కాఫీలు"},
+                        "ta": {"title": "20,000", "text": "காபி அருந்தியது"},
+                        "mr": {"title": "20,000", "text": "कॉफी प्यायली"},
+                        "gu": {"title": "20,000", "text": "કોફી પીધેલી"},
+                        "pa": {"title": "20,000", "text": "ਕੌਫੀ ਪੀਈ ਗਈ"},
+                        "ml": {"title": "20,000", "text": "കാപ്പി കഴിച്ചു"},
+                        "kn": {"title": "20,000", "text": "ಕಾಫಿ ಸೇವಿಸಿದರು"},
+                        "or": {"title": "20,000", "text": "କଫି ପିଇଲେ"},
+                        "as": {"title": "20,000", "text": "কফি খোৱা হৈছে"},
+                        "mai": {"title": "20,000", "text": "कफी पिएल"},
+                        "sd": {"title": "20,000", "text": "ڪافي پيئي وئي"},
+                        "kok": {"title": "20,000", "text": "कॉफी प्यायलीं"},
+                        "ne": {"title": "20,000", "text": "कफी खाइयो"},
+                        "ks": {"title": "20,000", "text": "ڪافي پيئي وئي"},
+                        "ur": {"title": "20,000", "text": "کافی پیا گئی"},
+                        "zh": {"title": "20,000", "text": "喝过的咖啡"},
+                        "ja": {"title": "20,000", "text": "消費したコーヒー"},
+                        "ar": {"title": "20,000", "text": "القهوة المستهلكة"},
+                        "pt": {"title": "20,000", "text": "Cafés consumidos"},
+                        "de": {"title": "20,000", "text": "Getrunkener Kaffee"},
+                        "ru": {"title": "20,000", "text": "Выпито кофе"},
+                        "it": {"title": "20,000", "text": "Caffè consumati"}
                     }
                 },
                 {
@@ -149,19 +248,34 @@
                     "faIcon": "fa-solid fa-laptop-code",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
-                        "en": {
-                            "title": "1,000,000+",
-                            "text": "Lines of code"
-                        },
-                        "es": {
-                            "text": "Líneas de código"
-                        },
-                        "fr": {
-                            "text": "Lignes de code"
-                        },
-                        "ko": {
-                            "text": "코드 라인 수"
-                        }
+                        "en": {"title": "1,000,000+", "text": "Lines of code"},
+                        "es": {"title": "1,000,000+", "text": "Líneas de código"},
+                        "fr": {"title": "1,000,000+", "text": "Lignes de code"},
+                        "ko": {"title": "1,000,000+", "text": "코드 라인 수"},
+                        "hi": {"title": "1,000,000+", "text": "कोड की लाइनें"},
+                        "bn": {"title": "1,000,000+", "text": "কোডের লাইন"},
+                        "te": {"title": "1,000,000+", "text": "కోడ్ యొక్క పంక్తులు"},
+                        "ta": {"title": "1,000,000+", "text": "குறியீட்டு வரிகள்"},
+                        "mr": {"title": "1,000,000+", "text": "कोड ओळी"},
+                        "gu": {"title": "1,000,000+", "text": "કોડની લાઇન્સ"},
+                        "pa": {"title": "1,000,000+", "text": "ਕੋਡ ਦੀਆਂ ਲਾਈਨਾਂ"},
+                        "ml": {"title": "1,000,000+", "text": "കോഡ് രേഖകൾ"},
+                        "kn": {"title": "1,000,000+", "text": "ಕೋಡ್ ಸಾಲುಗಳು"},
+                        "or": {"title": "1,000,000+", "text": "କୋଡ୍ ର ଧାଡି"},
+                        "as": {"title": "1,000,000+", "text": "ক'ডৰ শাৰী"},
+                        "mai": {"title": "1,000,000+", "text": "कोड क पंक्ति"},
+                        "sd": {"title": "1,000,000+", "text": "ڪوڊ جون لائينون"},
+                        "kok": {"title": "1,000,000+", "text": "कोड ओळी"},
+                        "ne": {"title": "1,000,000+", "text": "कोडका पङ्क्तिहरू"},
+                        "ks": {"title": "1,000,000+", "text": "کوڈ دیاں لائیناں"},
+                        "ur": {"title": "1,000,000+", "text": "کوڈ کی لائنیں"},
+                        "zh": {"title": "1,000,000+", "text": "代码行数"},
+                        "ja": {"title": "1,000,000+", "text": "コード行数"},
+                        "ar": {"title": "1,000,000+", "text": "أسطر من الكود"},
+                        "pt": {"title": "1,000,000+", "text": "Linhas de código"},
+                        "de": {"title": "1,000,000+", "text": "Codezeilen"},
+                        "ru": {"title": "1,000,000+", "text": "Строк кода"},
+                        "it": {"title": "1,000,000+", "text": "Righe di codice"}
                     }
                 },
                 {
@@ -170,22 +284,34 @@
                     "faIcon": "fa-solid fa-heart",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
-                        "en": {
-                            "title": "Infinite",
-                            "text": "Passion for learning"
-                        },
-                        "es": {
-                            "title": "Infinita",
-                            "text": "Pasión por Aprender"
-                        },
-                        "fr": {
-                            "title": "Infinie",
-                            "text": "Passion d'apprendre"
-                        },
-                        "ko": {
-                            "title": "무한대",
-                            "text": "배움에 대한 열정"
-                        }
+                        "en": {"title": "Infinite", "text": "Passion for learning"},
+                        "es": {"title": "Infinita", "text": "Pasión por Aprender"},
+                        "fr": {"title": "Infinie", "text": "Passion d'apprendre"},
+                        "ko": {"title": "무한대", "text": "배움에 대한 열정"},
+                        "hi": {"title": "अनंत", "text": "सीखने का जुनून"},
+                        "bn": {"title": "অসীম", "text": "শেখার প্রতি আগ্রহ"},
+                        "te": {"title": "అనంతం", "text": "నేర్చుకోవడానికి ఆసక్తి"},
+                        "ta": {"title": "எல்லையற்ற", "text": "கற்றல் மீதான ஆர்வம்"},
+                        "mr": {"title": "अनंत", "text": "शिकण्याची आवड"},
+                        "gu": {"title": "અનંત", "text": "શીખવાની લાગણી"},
+                        "pa": {"title": "ਅਨੰਤ", "text": "ਸਿਖਣ ਦਾ ਜਨੂਨ"},
+                        "ml": {"title": "അനന്തം", "text": "പഠിക്കാനുള്ള താത്പര്യം"},
+                        "kn": {"title": "ಅನಂತ", "text": "ಕಲಿಕೆಯ ಪ್ರತಿ ಉತ್ಸಾಹ"},
+                        "or": {"title": "ଅନନ୍ତ", "text": "ଶିଖିବାକୁ ଆଗ୍ରହ"},
+                        "as": {"title": "অসীম", "text": "শিকাৰ প্ৰতি আগ্ৰহ"},
+                        "mai": {"title": "अनंत", "text": "सीखबाक लागि जुनून"},
+                        "sd": {"title": "لامحدود", "text": "سيکڻ لاءِ شوق"},
+                        "kok": {"title": "अनंत", "text": "शिकपाची आवड"},
+                        "ne": {"title": "अनन्त", "text": "सिक्ने चाहना"},
+                        "ks": {"title": "لامحدود", "text": "سیکھن دا ولولہ"},
+                        "ur": {"title": "لامحدود", "text": "سیکھنے کا جنون"},
+                        "zh": {"title": "无限", "text": "学习的热情"},
+                        "ja": {"title": "無限", "text": "学ぶことへの情熱"},
+                        "ar": {"title": "لانهائي", "text": "الشغف بالتعلم"},
+                        "pt": {"title": "Infinito", "text": "Paixão por aprender"},
+                        "de": {"title": "Unendlich", "text": "Leidenschaft fürs Lernen"},
+                        "ru": {"title": "Бесконечность", "text": "Страсть к обучению"},
+                        "it": {"title": "Infinito", "text": "Passione per l'apprendimento"}
                     }
                 }
             ]
@@ -198,7 +324,31 @@
                 "en": { "title": "Quick {{Facts}}" },
                 "es": { "title": "Feed de {{Noticias}}" },
                 "fr": { "title": "Fil d'{{Actualités}}" },
-                "ko": { "title": "{{뉴스}} 피드" }
+                "ko": { "title": "{{뉴스}} 피드" },
+                "hi": { "title": "Quick {{Facts}}" },
+                "bn": { "title": "Quick {{Facts}}" },
+                "te": { "title": "Quick {{Facts}}" },
+                "ta": { "title": "Quick {{Facts}}" },
+                "mr": { "title": "Quick {{Facts}}" },
+                "gu": { "title": "Quick {{Facts}}" },
+                "pa": { "title": "Quick {{Facts}}" },
+                "ml": { "title": "Quick {{Facts}}" },
+                "kn": { "title": "Quick {{Facts}}" },
+                "or": { "title": "Quick {{Facts}}" },
+                "as": { "title": "Quick {{Facts}}" },
+                "mai": { "title": "Quick {{Facts}}" },
+                "sd": { "title": "Quick {{Facts}}" },
+                "kok": { "title": "Quick {{Facts}}" },
+                "ne": { "title": "Quick {{Facts}}" },
+                "ks": { "title": "Quick {{Facts}}" },
+                "ur": { "title": "Quick {{Facts}}" },
+                "zh": { "title": "Quick {{Facts}}" },
+                "ja": { "title": "Quick {{Facts}}" },
+                "ar": { "title": "Quick {{Facts}}" },
+                "pt": { "title": "Quick {{Facts}}" },
+                "de": { "title": "Quick {{Facts}}" },
+                "ru": { "title": "Quick {{Facts}}" },
+                "it": { "title": "Quick {{Facts}}" }
             },
             "settings": {
                 "max_rows_collapse_threshold": 3,
@@ -243,7 +393,31 @@
                             "country": "캐나다",
                             "institution": "",
                             "text": "최근에 미국 캘리포니아로 이사하여 새로운 직업적, 개인적 기회를 탐색하고 있습니다. 이 활기찬 주가 제공하는 것들을 발견하고, 이 새로운 장에서 오는 모든 도전과 경험을 받아들이는 것이 기대됩니다. 앞으로의 여정과 황금 주에서 기다리는 모험에 대한 업데이트를 기대해 주세요!"
-                        }
+                        },
+                        "hi": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "bn": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "te": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "ta": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "mr": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "gu": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "pa": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "ml": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "kn": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "or": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "as": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "mai": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "sd": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "kok": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "ne": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "ks": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "ur": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "zh": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "ja": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "ar": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "pt": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "de": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "ru": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"},
+                        "it": {"title": "Relocating to {{California!}}", "province": "Ontario", "country": "Canada", "institution": "", "text": "I've recently made the move to California, USA, to explore new opportunities, both professionally and personally. I'm looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what's ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"}
                     }
                 },
                 {
@@ -287,7 +461,31 @@
                             "country": "미국",
                             "institution": "",
                             "text": "저의 유튜브 채널을 시작하게 되어 매우 기쁩니다! 🎥✨ 기술, 코딩, 디지털 관련 모든 것에 대한 열정을 공유하는 이 흥미진진한 여정에 여러분을 초대합니다. 튜토리얼과 팁부터 프로젝트 소개까지, 이 플랫폼을 통해 여러분과 소통할 수 있기를 기대합니다. 구독하고 알림 벨을 눌러 최신 동영상을 받아보세요. 함께 이 모험을 시작해 봅시다!"
-                        }
+                        },
+                        "hi": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "bn": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "te": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "ta": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "mr": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "gu": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "pa": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "ml": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "kn": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "or": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "as": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "mai": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "sd": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "kok": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "ne": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "ks": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "ur": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "zh": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "ja": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "ar": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "pt": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "de": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "ru": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"},
+                        "it": {"title": "Started my own {{Youtube Channel!}}", "province": "California", "country": "US", "institution": "", "text": "I'm thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can't wait to connect with you all through this platform. Don't forget to subscribe and hit the notification bell to stay updated on my latest videos. Let's embark on this adventure together!"}
                     }
                 },
                 {
@@ -353,7 +551,31 @@
                                 "기능 향상을 위한 인기 API 통합",
                                 "원활한 사용자 경험을 위한 실시간 데이터 동기화"
                             ]
-                        }
+                        },
+                        "hi": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "bn": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "te": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "ta": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "mr": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "gu": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "pa": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "ml": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "kn": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "or": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "as": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "mai": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "sd": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "kok": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "ne": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "ks": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "ur": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "zh": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "ja": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "ar": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "pt": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "de": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "ru": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]},
+                        "it": {"title": "Working on a new {{mobile project!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to share that I'm currently working on a new mobile project! Some features of this project include:", "list": ["Cross-platform compatibility with iOS and Android", "User-friendly interface with intuitive navigation", "Integration with popular APIs for enhanced functionality", "Real-time data synchronization for seamless user experience"]}
                     }
                 },
                 {
@@ -393,7 +615,31 @@
                             "country": "일본",
                             "institution": "Tech Innovators Inc.",
                             "text": "[[2025년 도쿄에서 열리는]] 기술 컨퍼런스에 참석하게 되어 매우 기쁩니다! 이 행사는 업계 리더들과 연결하고 최신 기술 트렌드를 배우며, 다른 기술 애호가들과 통찰력을 공유할 수 있는 환상적인 기회입니다. 토론에 참여하고, 워크숍에 참석하며, 우리 산업의 미래를 형성하는 혁신적인 솔루션을 탐색할 수 있기를 기대합니다. 컨퍼런스에 참석하신다면, 함께 연결해요! 다른 개발자와 기술 애호가들을 만나고 싶습니다. 행사에서의 업데이트와 하이라이트를 기대해 주세요!"
-                        }
+                        },
+                        "hi": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "bn": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "te": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "ta": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "mr": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "gu": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "pa": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "ml": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "kn": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "or": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "as": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "mai": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "sd": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "kok": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "ne": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "ks": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "ur": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "zh": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "ja": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "ar": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "pt": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "de": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "ru": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"},
+                        "it": {"title": "Attending the {{Tech Conference 2025!}}", "province": "Tokyo", "country": "Japan", "institution": "Tech Innovators Inc.", "text": "I'm thrilled to announce that I'll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I'm looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you're attending the conference, let's connect! I'd love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"}
                     }
                 },
                 {
@@ -460,7 +706,31 @@
                                 "문의 및 협업을 위한 연락처 양식",
                                 "소셜 미디어 프로필 및 GitHub 링크"
                             ]
-                        }
+                        },
+                        "hi": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "bn": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "te": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "ta": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "mr": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "gu": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "pa": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "ml": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "kn": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "or": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "as": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "mai": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "sd": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "kok": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "ne": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "ks": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "ur": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "zh": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "ja": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "ar": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "pt": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "de": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "ru": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]},
+                        "it": {"title": "Launched my {{personal website!}}", "province": "California", "country": "US", "institution": "", "text": "I'm excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It's been a labor of love, and I can't wait for you all to explore it. Here are some highlights of what you can find on the site:", "list": ["Portfolio showcasing my projects and contributions", "Blog with articles on technology, coding, and personal experiences", "Contact form for inquiries and collaborations", "Links to my social media profiles and GitHub"]}
                     }
                 }
             ]

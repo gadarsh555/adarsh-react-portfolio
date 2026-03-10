@@ -13,8 +13,11 @@ li.tag {
     background-color: var(--theme-primary);
     color: var(--theme-texts-inv);
     border-radius: 5px;
-    text-transform: lowercase;
+    text-transform: capitalize;
     white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: min(200px, 100%);
     user-select: none;
     transition: 0.2s background-color ease-out;
 

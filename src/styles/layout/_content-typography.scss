@@ -1,0 +1,52 @@
+/**
+ * Enhanced typography for content areas across the portfolio.
+ * Applies to section content, modals, message cards, and article blocks.
+ */
+
+div.section-content,
+div.article-content,
+div.message-card-body,
+div.modal-footer-description,
+div.confirmation-window-message,
+div.article-facts-item-info-description,
+div.article-stack-item-experience,
+div.article-timeline-item-info-for-timelines-body,
+div.article-portfolio-item-body-description,
+div.article-info-list-item-info-text,
+div.article-cards-item-content-description,
+div.article-skills-item-description,
+div.notification-body {
+    letter-spacing: 0.01em;
+
+    strong, b {
+        font-weight: 600;
+        color: var(--theme-texts);
+    }
+
+    .text-primary {
+        font-weight: 600;
+        color: var(--theme-primary);
+    }
+
+    p {
+        margin-bottom: 1em;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    a {
+        color: var(--theme-primary);
+        font-weight: 600;
+        text-decoration: underline;
+        text-decoration-color: var(--theme-primary-1);
+        text-underline-offset: 3px;
+        transition: color 0.2s ease, text-decoration-color 0.2s ease;
+
+        &:hover {
+            color: var(--theme-links-hover);
+            text-decoration-color: var(--theme-links-hover);
+        }
+    }
+}

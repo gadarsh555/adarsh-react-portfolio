@@ -6,6 +6,7 @@ import { PropList, PropListItem } from "/src/components/generic/PropList.jsx";
 import { Tags, Tag } from "/src/components/generic/Tags.jsx";
 import ArticleItemPreviewMenu from "/src/components/articles/partials/ArticleItemPreviewMenu.jsx";
 import { useLanguage } from "/src/providers/LanguageProvider.jsx";
+import { useUtils } from "/src/hooks/utils.js";
 
 /**
  * @param {*} children
@@ -45,9 +46,11 @@ function ArticleItemInfoForTimelinesHeader({
   itemWrapper,
   className = "",
   dateInterval = false,
+  hideDateBadge = false,
 }) {
   const viewport = useViewport();
-  const shouldShowDateBadge = viewport.isBreakpoint("xl");
+  const utils = useUtils();
+  const shouldShowDateBadge = !hideDateBadge && viewport.isBreakpoint("xl");
   const isSmallScreen = !viewport.isBreakpoint("sm");
 
   const institution = itemWrapper.locales.institution;
@@ -61,25 +64,11 @@ function ArticleItemInfoForTimelinesHeader({
 
   // Case 1 - The date is being displayed as a badge (no need to display it here).
   if (shouldShowDateBadge) {
-    if (institution) {
-      propListItems.push({
-        faIcon: `fa-regular fa-building`,
-        type: PropListItem.Types.SINGLE,
-        value: [institution],
-      });
-    }
-
-    if (location) {
-      propListItems.push({
-        faIcon: `fa-regular fa-font-awesome`,
-        type: PropListItem.Types.SINGLE,
-        value: [location],
-      });
-    }
+    // Location is shown inline with institution
   }
 
-  // Case 2 - Must display date inside the prop list.
-  else {
+  // Case 2 - Must display date inside the prop list (only if not hidden).
+  else if (!hideDateBadge) {
     const hasStartDate =
       itemWrapper.dateStartDisplay &&
       itemWrapper.dateStartDisplay !== "date.null";
@@ -100,24 +89,13 @@ function ArticleItemInfoForTimelinesHeader({
         value: dateValue,
       });
     }
-
-    if (institution || location) {
-      if (institution) {
-        propListItems.push({
-          faIcon: `fa-regular fa-building`,
-          type: PropListItem.Types.SINGLE,
-          value: [institution],
-        });
-      }
-      if (location) {
-        propListItems.push({
-          faIcon: `fa-regular fa-map-marker`,
-          type: PropListItem.Types.SINGLE,
-          value: [location],
-        });
-      }
-    }
+    // Location is shown inline with institution
   }
+
+
+  const titleHtml = utils.string.highlightMetrics(
+    itemWrapper.locales.title || itemWrapper.placeholder || ""
+  );
 
   return (
     <div
@@ -126,9 +104,7 @@ function ArticleItemInfoForTimelinesHeader({
       <div className={`article-timeline-item-info-for-timelines-header-title`}>
         <h5
           className={``}
-          dangerouslySetInnerHTML={{
-            __html: itemWrapper.locales.title || itemWrapper.placeholder,
-          }}
+          dangerouslySetInnerHTML={{ __html: titleHtml }}
         />
 
         {shouldShowDateBadge && (
@@ -141,20 +117,37 @@ function ArticleItemInfoForTimelinesHeader({
         )}
       </div>
 
-      <PropList
-        className={`article-timeline-item-info-for-timelines-header-prop-list text-1`}
-        inlineBreakpoint={`xl`}
-      >
-        {propListItems.map((item, key) => (
-          <PropListItem
-            key={key}
-            faIcon={item.faIcon}
-            type={item.type}
-            iconSpacing={isSmallScreen ? 25 : 30}
-            value={item.value}
-          />
-        ))}
-      </PropList>
+      {(institution || location) && (
+        <div className={`article-timeline-item-info-for-timelines-institution`}>
+          {institution && (
+            <div className={`article-timeline-item-info-for-timelines-institution-name-block`}>
+              {institution}
+            </div>
+          )}
+          {location && (
+            <div className={`article-timeline-item-info-for-timelines-institution-location-block`}>
+              {location}
+            </div>
+          )}
+        </div>
+      )}
+
+      {propListItems.length > 0 && (
+        <PropList
+          className={`article-timeline-item-info-for-timelines-header-prop-list text-1`}
+          inlineBreakpoint={`xl`}
+        >
+          {propListItems.map((item, key) => (
+            <PropListItem
+              key={key}
+              faIcon={item.faIcon}
+              type={item.type}
+              iconSpacing={isSmallScreen ? 25 : 30}
+              value={item.value}
+            />
+          ))}
+        </PropList>
+      )}
     </div>
   );
 }
@@ -165,8 +158,16 @@ function ArticleItemInfoForTimelinesHeader({
  * @return {JSX.Element}
  * @constructor
  */
-function ArticleItemInfoForTimelinesBody({ itemWrapper, className = "" }) {
+function ArticleItemInfoForTimelinesBody({ itemWrapper, className = "", highlightAchievements = false, highlightExperience = false }) {
+  const utils = useUtils();
   const textClass = `text-3`;
+
+  let textHtml = utils.string.highlightMetrics(itemWrapper.locales.text || "");
+  if (highlightAchievements) {
+    textHtml = utils.string.highlightAchievementTerms(textHtml);
+  } else if (highlightExperience) {
+    textHtml = utils.string.highlightExperienceTerms(itemWrapper.locales.text || "");
+  }
 
   return (
     <div
@@ -174,7 +175,7 @@ function ArticleItemInfoForTimelinesBody({ itemWrapper, className = "" }) {
     >
       <div
         className={`article-timeline-item-info-for-timelines-body-text ${textClass}`}
-        dangerouslySetInnerHTML={{ __html: itemWrapper.locales.text }}
+        dangerouslySetInnerHTML={{ __html: textHtml }}
       />
 
       {itemWrapper.locales.list && itemWrapper.locales.list.length > 0 && (
@@ -192,6 +193,30 @@ function ArticleItemInfoForTimelinesBody({ itemWrapper, className = "" }) {
       )}
     </div>
   );
+}
+
+/**
+ * @param {ArticleItemDataWrapper} itemWrapper
+ * @param {String} className
+ * @return {JSX.Element}
+ * @constructor
+ */
+function ArticleItemInfoForTimelinesImages({ itemWrapper, className = "" }) {
+  const images = itemWrapper?.images || []
+  if (!images.length) return <></>
+
+  return (
+    <div className={`article-timeline-item-info-images ${className}`}>
+      {images.map((src, key) => (
+        <img
+          key={key}
+          src={src}
+          alt=""
+          className="article-timeline-item-info-images-logo"
+        />
+      ))}
+    </div>
+  )
 }
 
 /**
@@ -259,6 +284,7 @@ export {
   ArticleItemInfoForTimelines,
   ArticleItemInfoForTimelinesHeader,
   ArticleItemInfoForTimelinesBody,
+  ArticleItemInfoForTimelinesImages,
   ArticleItemInfoForTimelinesTagsFooter,
   ArticleItemInfoForTimelinesPreviewFooter,
 };

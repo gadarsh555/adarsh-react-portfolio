@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: '/react-portfolio-template/',
+    base: '/',
     plugins: [react()],
     build: {
         rollupOptions: {
@@ -22,7 +22,7 @@ export default defineConfig({
     css: {
         preprocessorOptions: {
             scss: {
-                silenceDeprecations: ["mixed-decls", "color-functions", "global-builtin", "import"],
+                silenceDeprecations: ["mixed-decls", "color-functions", "global-builtin", "import", "if-function", "legacy-js-api"],
             },
         },
     },

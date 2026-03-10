@@ -13,6 +13,9 @@ ul.article-inline-list-items {
 li.article-inline-list-item {
     margin-right: calc($spacing-between-items - 10px);
     white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
     display: inline-flex;
 
     @include media-breakpoint-down(sm) {

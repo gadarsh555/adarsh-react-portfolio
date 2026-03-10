@@ -6,25 +6,159 @@ header.section-header {
     align-items: center;
     justify-content: center;
     width: 100%;
+    margin-bottom: 2rem;
+    @include media-breakpoint-down(lg) {
+        margin-bottom: 1.5rem;
+    }
 }
 
-div.section-header-prefix {
+div.section-header-inline {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 4px 12px;
+    text-align: center;
+    position: relative;
+    padding-bottom: 1rem;
+}
+
+div.section-header-inline::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, var(--theme-primary), transparent);
+    border-radius: 2px;
+}
+
+span.section-header-prefix {
+    display: inline-flex;
+    align-items: center;
     font-family: $headings-font-family;
-    font-weight: bold;
-    color: var(--theme-muted);
+    font-weight: 600;
+    color: var(--theme-texts-light-2);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-size: 0.85em;
 
     i {
-        opacity: 0.75;
-        margin-right: 8px;
+        opacity: 0.7;
+        margin-right: 6px;
     }
 }
 
 h2.section-header-title {
-    margin: 0 40px 0 40px;
-    text-align: center;
-    font-weight: bold;
+    display: inline;
+    margin: 0;
+    font-family: $headings-font-family;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.3;
+    color: var(--theme-texts);
+
     @include media-breakpoint-down(lg) {
         color: var(--theme-primary);
-        margin-top: 10px;
     }
+}
+
+/* Hero section (About) - unified font style + gradient text */
+header.section-header-hero {
+    margin-bottom: 1.25rem;
+}
+
+header.section-header-hero div.section-header-inline {
+    gap: 0;
+    padding-bottom: 0.75rem;
+
+    &::after {
+        display: none;
+    }
+}
+
+span.section-header-hero-gradient {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0 10px;
+    font-family: "Oswald", sans-serif;
+    font-size: 1.75rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    line-height: 1.25;
+    text-transform: uppercase;
+
+    /* Gradient: blue → green */
+    background: linear-gradient(
+        90deg,
+        #3b82f6 0%,
+        #06b6d4 40%,
+        #10b981 70%,
+        #22c55e 100%
+    );
+    background-size: 200% 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: section-header-hero-bg-move 4s ease-in-out infinite,
+               section-header-hero-bounce 2s ease-in-out infinite;
+
+    i,
+    span,
+    .text-primary {
+        -webkit-text-fill-color: inherit;
+        background-clip: inherit;
+        -webkit-background-clip: inherit;
+    }
+
+    @include media-breakpoint-down(lg) {
+        font-size: 1.5rem;
+    }
+    @include media-breakpoint-down(md) {
+        font-size: 1.35rem;
+    }
+    @include media-breakpoint-down(sm) {
+        font-size: 1.2rem;
+    }
+}
+
+@keyframes section-header-hero-bg-move {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+}
+
+/* Bounce animation - vertical movement like bouncing off a surface */
+@keyframes section-header-hero-bounce {
+    0%, 100% { transform: translateY(0); }
+    25% { transform: translateY(6px); }
+    50% { transform: translateY(-3px); }
+    75% { transform: translateY(2px); }
+}
+
+/* Hero contact row - cohesive sizing and spacing */
+div.section-content-about article.article-inline-list {
+    margin-top: 12px;
+}
+
+div.section-content-about li.article-inline-list-item {
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
+div.section-content-about li.article-inline-list-item a {
+    color: var(--theme-texts-light-2);
+    transition: color 0.2s ease;
+}
+
+div.section-content-about li.article-inline-list-item a:hover {
+    color: var(--theme-primary);
+}
+
+div.section-content-about i.article-inline-list-item-icon {
+    color: var(--theme-primary);
+    opacity: 0.9;
 }

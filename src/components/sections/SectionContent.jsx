@@ -4,8 +4,11 @@ import SectionHeader from "/src/components/sections/SectionHeader.jsx"
 import SectionBody from "/src/components/sections/SectionBody.jsx"
 
 function SectionContent({ section }) {
+    const sectionModifierClass = section?.id ?
+        `section-content-${section.id}` :
+        ``
     return (
-        <div className={`section-content`}>
+        <div className={`section-content ${sectionModifierClass}`}>
             <div className={`section-content-border-decoration section-content-border-decoration-top-left`}/>
 
             <div className={`section-content-elements-wrapper`}>

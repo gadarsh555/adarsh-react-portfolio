@@ -21,5 +21,13 @@
         margin-top: 20px;
         display: flex;
         justify-content: space-between;
+        gap: 12px;
+        flex-wrap: wrap;
+
+        @include media-breakpoint-down(sm) {
+            flex-direction: column;
+            margin-top: 16px;
+            gap: 10px;
+        }
     }
 }

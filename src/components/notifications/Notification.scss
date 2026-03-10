@@ -5,9 +5,17 @@ div.notification {
     user-select: auto;
 
     width: 400px;
+    max-width: min(400px, calc(100vw - 32px));
     min-height: 120px;
-    @include media-breakpoint-down(lg) { width: 350px; }
-    @include media-breakpoint-down(sm) { width: 250px; min-height: 110px; }
+    @include media-breakpoint-down(lg) {
+        width: 350px;
+        max-width: min(350px, calc(100vw - 32px));
+    }
+    @include media-breakpoint-down(sm) {
+        width: 250px;
+        max-width: min(250px, calc(100vw - 32px));
+        min-height: 110px;
+    }
 
     background-color: var(--theme-primary);
     color: var(--theme-texts-inv);

@@ -2,7 +2,7 @@ import "./ArticleThread.scss"
 import React, {useEffect, useState} from 'react'
 import Article from "/src/components/articles/base/Article.jsx"
 import Collapsable from "/src/components/capabilities/Collapsable.jsx"
-import {ArticleItemInfoForTimelines, ArticleItemInfoForTimelinesBody, ArticleItemInfoForTimelinesHeader, ArticleItemInfoForTimelinesPreviewFooter} from "/src/components/articles/partials/ArticleItemInfoForTimelines"
+import {ArticleItemInfoForTimelines, ArticleItemInfoForTimelinesBody, ArticleItemInfoForTimelinesHeader, ArticleItemInfoForTimelinesImages, ArticleItemInfoForTimelinesPreviewFooter} from "/src/components/articles/partials/ArticleItemInfoForTimelines"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper
@@ -35,6 +35,7 @@ function ArticleThread({ dataWrapper, id }) {
 function ArticleThreadItems({ dataWrapper, selectedItemCategoryId }) {
     const filteredItems = dataWrapper.getOrderedItemsFilteredBy(selectedItemCategoryId)
     const maxRowsCollapseThreshold = dataWrapper.settings.maxRowsCollapseThreshold
+    const hideDateBadges = dataWrapper.settings?.hideDateBadges === true
 
     return (
         <Collapsable className={`article-thread-items`}
@@ -45,6 +46,7 @@ function ArticleThreadItems({ dataWrapper, selectedItemCategoryId }) {
                      trailingItemComponent={ArticleThreadTrailingItem}>
             {filteredItems.map((itemWrapper, key) => (
                 <ArticleThreadItem itemWrapper={itemWrapper}
+                                   hideDateBadges={hideDateBadges}
                                    key={key}/>
             ))}
         </Collapsable>
@@ -56,7 +58,7 @@ function ArticleThreadItems({ dataWrapper, selectedItemCategoryId }) {
  * @return {JSX.Element}
  * @constructor
  */
-function ArticleThreadItem({ itemWrapper }) {
+function ArticleThreadItem({ itemWrapper, hideDateBadges = false }) {
     return (
         <div className={`article-thread-item`}>
             <div className={`article-thread-item-circle`}>
@@ -66,9 +68,13 @@ function ArticleThreadItem({ itemWrapper }) {
             <ArticleItemInfoForTimelines className={`article-thread-item-content`}
                                          smallDateBadge={true}>
                 <ArticleItemInfoForTimelinesHeader itemWrapper={itemWrapper}
-                                                   dateInterval={false}/>
+                                                   dateInterval={false}
+                                                   hideDateBadge={hideDateBadges}/>
 
-                <ArticleItemInfoForTimelinesBody itemWrapper={itemWrapper}/>
+                <ArticleItemInfoForTimelinesBody itemWrapper={itemWrapper}
+                                                 highlightAchievements={true}/>
+
+                <ArticleItemInfoForTimelinesImages itemWrapper={itemWrapper}/>
 
                 <ArticleItemInfoForTimelinesPreviewFooter itemWrapper={itemWrapper}/>
             </ArticleItemInfoForTimelines>

@@ -41,6 +41,7 @@ $lead-sizes: (
 @each $text, $size in $text-sizes {
     .#{$text} {
         font-size: map-get($size, default);
+        line-height: 1.6;
 
         @include media-breakpoint-down(xl) {
             font-size: map-get($size, xl);
@@ -60,8 +61,14 @@ $lead-sizes: (
     }
 }
 
+.text-1, .text-2 { line-height: 1.5; }
+.text-4, .text-5 { line-height: 1.65; }
+
 @each $heading, $size in $heading-sizes {
     #{$heading}, .#{$heading}, .eq-#{$heading} {
+        font-family: $headings-font-family;
+        font-weight: 600;
+        letter-spacing: -0.02em;
         font-size: map-get($size, default)!important;
 
         @include media-breakpoint-down(xl) {
@@ -74,9 +81,22 @@ $lead-sizes: (
     }
 }
 
+/* Main headings (h1, h2) - slightly bolder */
+h1, .h1, .eq-h1, h2, .h2, .eq-h2 {
+    font-weight: 700;
+    letter-spacing: -0.025em;
+}
+
+/* Subheadings - lighter weight for hierarchy */
+h5, .h5, .eq-h5, h6, .h6, .eq-h6 {
+    font-weight: 500;
+    letter-spacing: -0.01em;
+}
+
 @each $text, $size in $lead-sizes {
     .#{$text} {
         font-size: map-get($size, default)!important;
+        line-height: 1.4;
 
         @include media-breakpoint-down(xl) {
             font-size: map-get($size, xl)!important;
@@ -94,4 +114,11 @@ $lead-sizes: (
             font-size: map-get($size, sm)!important;
         }
     }
+}
+
+/* Lead and display sizes for headings use headings font */
+.lead-3, .lead-4, .display-1, .display-2, .display-3, .display-4, .display-5, .display-6, .display-7 {
+    font-family: $headings-font-family;
+    font-weight: 700;
+    letter-spacing: -0.025em;
 }

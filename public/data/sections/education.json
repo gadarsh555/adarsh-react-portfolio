@@ -24,7 +24,31 @@
         "title_short_nav": "교육",
         "title_long_prefix": "이것은 내",
         "title_long": "{{교육적}} 배경"
-      }
+      },
+      "hi": { "title_short": "शिक्षा", "title_short_nav": "शिक्षा", "title_long_prefix": "यह मेरी", "title_long": "{{शैक्षिक}} पृष्ठभूमि" },
+      "bn": { "title_short": "শিক্ষা", "title_short_nav": "শিক্ষা", "title_long_prefix": "এটি আমার", "title_long": "{{শিক্ষাগত}} পটভূমি" },
+      "te": { "title_short": "విద్య", "title_short_nav": "విద్య", "title_long_prefix": "ఇది నా", "title_long": "{{విద్యాపరమైన}} నేపథ్యం" },
+      "ta": { "title_short": "கல்வி", "title_short_nav": "கல்வி", "title_long_prefix": "இது எனது", "title_long": "{{கல்வி}} பின்னணி" },
+      "mr": { "title_short": "शिक्षण", "title_short_nav": "शिक्षण", "title_long_prefix": "हे माझे", "title_long": "{{शैक्षणिक}} पार्श्वभूमी" },
+      "gu": { "title_short": "શિક્ષણ", "title_short_nav": "શિક્ષણ", "title_long_prefix": "આ મારો", "title_long": "{{શૈક્ષણિક}} પૃષ્ઠભૂમિ" },
+      "pa": { "title_short": "ਸਿੱਖਿਆ", "title_short_nav": "ਸਿੱਖਿਆ", "title_long_prefix": "ਇਹ ਮੇਰੀ", "title_long": "{{ਸਿੱਖਿਆਤਮਕ}} ਪਿਛੋਕੜ" },
+      "ml": { "title_short": "വിദ്യാഭ്യാസം", "title_short_nav": "വിദ്യാഭ്യാസം", "title_long_prefix": "ഇത് എന്റെ", "title_long": "{{വിദ്യാഭ്യാസ}} പശ്ചാത്തലം" },
+      "kn": { "title_short": "ಶಿಕ್ಷಣ", "title_short_nav": "ಶಿಕ್ಷಣ", "title_long_prefix": "ಇದು ನನ್ನ", "title_long": "{{ಶೈಕ್ಷಣಿಕ}} ಹಿನ್ನೆಲೆ" },
+      "or": { "title_short": "ଶିକ୍ଷା", "title_short_nav": "ଶିକ୍ଷା", "title_long_prefix": "ଏହା ମୋର", "title_long": "{{ଶିକ୍ଷାତ୍ମକ}} ପୃଷ୍ଠଭୂମି" },
+      "as": { "title_short": "শিক্ষা", "title_short_nav": "শিক্ষা", "title_long_prefix": "এইখন মোৰ", "title_long": "{{শৈক্ষিক}} পটভূমি" },
+      "mai": { "title_short": "शिक्षा", "title_short_nav": "शिक्षा", "title_long_prefix": "ई महरा", "title_long": "{{शैक्षणिक}} पृष्ठभूमि" },
+      "sd": { "title_short": "تعليم", "title_short_nav": "تعليم", "title_long_prefix": "هي منهنجي", "title_long": "{{تعليمي}} پس منظر" },
+      "kok": { "title_short": "शिक्षण", "title_short_nav": "शिक्षण", "title_long_prefix": "हें म्हजें", "title_long": "{{शैक्षणिक}} पार्श्वभूमी" },
+      "ne": { "title_short": "शिक्षा", "title_short_nav": "शिक्षा", "title_long_prefix": "यो मेरो", "title_long": "{{शैक्षिक}} पृष्ठभूमि" },
+      "ks": { "title_short": "تعلیم", "title_short_nav": "تعلیم", "title_long_prefix": "یہ میچھ", "title_long": "{{تعلیمی}} پس منظر" },
+      "ur": { "title_short": "تعلیم", "title_short_nav": "تعلیم", "title_long_prefix": "یہ میری", "title_long": "{{تعلیمی}} پس منظر" },
+      "zh": { "title_short": "教育", "title_short_nav": "教育", "title_long_prefix": "这是我的", "title_long": "{{教育}}背景" },
+      "ja": { "title_short": "学歴", "title_short_nav": "学歴", "title_long_prefix": "これは私の", "title_long": "{{教育}}背景" },
+      "ar": { "title_short": "التعليم", "title_short_nav": "التعليم", "title_long_prefix": "هذه خلفيتي", "title_long": "{{التعليمية}}" },
+      "pt": { "title_short": "Educação", "title_short_nav": "Educação", "title_long_prefix": "Este é meu", "title_long": "{{Contexto}} Educacional" },
+      "de": { "title_short": "Ausbildung", "title_short_nav": "Ausbildung", "title_long_prefix": "Das ist mein", "title_long": "{{Bildungs}}hintergrund" },
+      "ru": { "title_short": "Образование", "title_short_nav": "Образование", "title_long_prefix": "Это моё", "title_long": "{{Образовательное}} прошлое" },
+      "it": { "title_short": "Istruzione", "title_short_nav": "Istruzione", "title_long_prefix": "Questo è il mio", "title_long": "{{Contesto}} Educativo" }
     }
   },
 
@@ -40,7 +64,7 @@
       "items": [
         {
           "id": 1,
-          "img": "",
+          "img": "/images/pictures/nit-jsr-logo-3.jpeg",
           "faIcon": "fa-solid fa-graduation-cap",
           "faIconColors": { "bg": "", "fill": "" },
           "dateStart": { "year": 2018, "month": 8 },
@@ -50,7 +74,7 @@
               "title": "B.Tech (Hons) in Computer Science",
               "province": "Jamshedpur",
               "country": "India",
-              "institution": "National Institute of Technology Jamshedpur",
+              "institution": "National Institute of Technology Jamshedpur (Tier-I Institute)",
               "text": "Graduated with a B.Tech (Hons) in Computer Science. CGPA: 8.33",
               "list": [],
               "tags": ["Computer Science", "B.Tech"]
@@ -59,7 +83,7 @@
               "title": "Licenciatura en Ciencias de la Computación (Honores)",
               "province": "Jamshedpur",
               "country": "India",
-              "institution": "Instituto Nacional de Tecnología Jamshedpur",
+              "institution": "Instituto Nacional de Tecnología Jamshedpur (Tier-I Institute)",
               "text": "Graduado con una Licenciatura en Ciencias de la Computación (Honores). CGPA: 8.33",
               "list": [],
               "tags": ["Ciencias de la Computación", "Licenciatura"]
@@ -68,7 +92,7 @@
               "title": "B.Tech (Hon) en Informatique",
               "province": "Jamshedpur",
               "country": "Inde",
-              "institution": "Institut National de Technologie Jamshedpur",
+              "institution": "Institut National de Technologie Jamshedpur (Tier-I Institute)",
               "text": "Diplômé avec un B.Tech (Hon) en Informatique. CGPA: 8.33",
               "list": [],
               "tags": ["Informatique", "B.Tech"]
@@ -77,23 +101,47 @@
               "title": "컴퓨터 공학 학사 (우등)",
               "province": "잠셰드퍼",
               "country": "인도",
-              "institution": "잠셰드퍼 국립 기술 연구소",
+              "institution": "잠셰드퍼 국립 기술 연구소 (Tier-I Institute)",
               "text": "컴퓨터 공학 학사 (우등) 졸업. CGPA: 8.33",
               "list": [],
               "tags": ["컴퓨터 공학", "학사"]
-            }
+            },
+            "hi": {"title": "बी.टेक (ऑनर्स) कंप्यूटर साइंस", "province": "जमशेदपुर", "country": "भारत", "institution": "राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर (Tier-I Institute)", "text": "कंप्यूटर साइंस में बी.टेक (ऑनर्स) से स्नातक। CGPA: 8.33", "list": [], "tags": ["कंप्यूटर साइंस", "बी.टेक"]},
+            "zh": {"title": "计算机科学荣誉学士", "province": "詹谢普尔", "country": "印度", "institution": "詹谢普尔国立技术学院 (Tier-I Institute)", "text": "计算机科学荣誉学士毕业。CGPA: 8.33", "list": [], "tags": ["计算机科学", "学士"]},
+            "ja": {"title": "コンピュータサイエンス学士（優等）", "province": "ジャムシェードプル", "country": "インド", "institution": "ジャムシェードプル国立技術研究所 (Tier-I Institute)", "text": "コンピュータサイエンス学士（優等）卒業。CGPA: 8.33", "list": [], "tags": ["コンピュータサイエンス", "学士"]},
+            "ar": {"title": "بكالوريوس تقنية (شرف) في علوم الحاسوب", "province": "جامشيدبور", "country": "الهند", "institution": "المعهد الوطني للتكنولوجيا جامشيدبور (Tier-I Institute)", "text": "تخرج ببكالوريوس تقنية (شرف) في علوم الحاسوب. CGPA: 8.33", "list": [], "tags": ["علوم الحاسوب", "بكالوريوس"]},
+            "pt": {"title": "B.Tech (Hon) em Ciência da Computação", "province": "Jamshedpur", "country": "Índia", "institution": "Instituto Nacional de Tecnologia Jamshedpur (Tier-I Institute)", "text": "Formado em B.Tech (Hon) em Ciência da Computação. CGPA: 8.33", "list": [], "tags": ["Ciência da Computação", "B.Tech"]},
+            "de": {"title": "B.Tech (Hons) Informatik", "province": "Jamshedpur", "country": "Indien", "institution": "Nationales Institut für Technologie Jamshedpur (Tier-I Institute)", "text": "Abschluss B.Tech (Hons) Informatik. CGPA: 8.33", "list": [], "tags": ["Informatik", "B.Tech"]},
+            "ru": {"title": "Б.Тех (с отличием) по информатике", "province": "Джамшедпур", "country": "Индия", "institution": "Национальный технологический институт Джамшедпур (Tier-I Institute)", "text": "Окончил с отличием по информатике. CGPA: 8.33", "list": [], "tags": ["Информатика", "Б.Тех"]},
+            "it": {"title": "B.Tech (Hon) in Informatica", "province": "Jamshedpur", "country": "India", "institution": "Istituto Nazionale di Tecnologia Jamshedpur (Tier-I Institute)", "text": "Laureato in B.Tech (Hon) Informatica. CGPA: 8.33", "list": [], "tags": ["Informatica", "B.Tech"]},
+            "bn": {"title": "কম্পিউটার সায়েন্সে বি.টেক (অনার্স)", "province": "Jamshedpur", "country": "India", "institution": "জাতীয় প্রযুক্তি প্রতিষ্ঠান জামশেদপুর (Tier-I Institute)", "text": "কম্পিউটার সায়েন্সে বি.টেক (অনার্স) সহ স্নাতক। CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "te": {"title": "కంప్యూటర్ సైన్స్‌లో బి.టెక్ (ఆనర్స్)", "province": "Jamshedpur", "country": "India", "institution": "జాతీయ సాంకేతిక సంస్థ జంషెడ్‌పూర్ (Tier-I Institute)", "text": "కంప్యూటర్ సైన్స్‌లో బి.టెక్ (ఆనర్స్)తో గ్రాజ్యుయేషన్ పూర్తి చేసారు. CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "ta": {"title": "கம்ப்யூட்டர் சயின்ஸில் பி.டெக் (ஆனர்ஸ்)", "province": "Jamshedpur", "country": "India", "institution": "தேசிய தொழில்நுட்ப நிறுவனம் ஜாம்ஷெட்பூர் (Tier-I Institute)", "text": "கம்ப்யூட்டர் சயின்ஸில் பி.டெக் (ஆனர்ஸ்) பட்டம் பெற்றார். CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "mr": {"title": "संगणक विज्ञानात बी.टेक (ऑनर्स)", "province": "Jamshedpur", "country": "India", "institution": "राष्ट्रीय तंत्रज्ञान संस्थान जमशेदपुर (Tier-I Institute)", "text": "संगणक विज्ञानात बी.टेक (ऑनर्स) पदवी मिळाली. CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "gu": {"title": "કમ્પ્યુટર સાયન્સમાં બી.ટેક (ઓનર્સ)", "province": "Jamshedpur", "country": "India", "institution": "નેશનલ ઇન્સ્ટિટ્યુટ ઓફ ટેકનોલોજી જમશેદપુર (Tier-I Institute)", "text": "કમ્પ્યુટર સાયન્સમાં બી.ટેક (ઓનર્સ) સાથે ગ્રેજ્યુએશન. CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "pa": {"title": "ਕੰਪਿਊਟਰ ਸਾਇੰਸ ਵਿੱਚ ਬੀ.ਟੈਕ (ਓਨਰਜ਼)", "province": "Jamshedpur", "country": "India", "institution": "ਰਾਸ਼ਟਰੀ ਟੈਕਨੋਲੋਜੀ ਸੰਸਥਾਨ ਜਮਸ਼ੇਦਪੁਰ (Tier-I Institute)", "text": "ਕੰਪਿਊਟਰ ਸਾਇੰਸ ਵਿੱਚ ਬੀ.ਟੈਕ (ਓਨਰਜ਼) ਨਾਲ ਗ੍ਰੈਜੂਏਸ਼ਨ। CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "ml": {"title": "കമ്പ്യൂട്ടർ സയൻസിൽ ബി.ടെക് (ഓണേഴ്സ്)", "province": "Jamshedpur", "country": "India", "institution": "നാഷണൽ ഇൻസ്റ്റിറ്റ്യൂട്ട് ഓഫ് ടെക്നോളജി ജംഷെഡ്‌പൂർ (Tier-I Institute)", "text": "കമ്പ്യൂട്ടർ സയൻസിൽ ബി.ടെക് (ഓണേഴ്സ്) ബിരുദം നേടി. CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "kn": {"title": "ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್‌ನಲ್ಲಿ ಬಿ.ಟೆಕ್ (ಆನರ್ಸ್)", "province": "Jamshedpur", "country": "India", "institution": "ನ್ಯಾಷನಲ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಟೆಕ್ನಾಲಜಿ ಜಮ್ಶೆಡ್‌ಪುರ (Tier-I Institute)", "text": "ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್‌ನಲ್ಲಿ ಬಿ.ಟೆಕ್ (ಆನರ್ಸ್) ಪದವಿ ಪೂರ್ಣ. CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "or": {"title": "କମ୍ପ୍ୟୁଟର ବିଜ୍ଞାନରେ ବି.ଟେକ୍ (ଓନର୍ସ)", "province": "Jamshedpur", "country": "India", "institution": "ଜାତୀୟ ପ୍ରଯୁକ୍ତି ପ୍ରତିଷ୍ଠାନ ଜମଶେଦପୁର (Tier-I Institute)", "text": "କମ୍ପ୍ୟୁଟର ବିଜ୍ଞାନରେ ବି.ଟେକ୍ (ଓନର୍ସ) ସହିତ ସ୍ନାତକ। CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "as": {"title": "কম্পিউটাৰ বিজ্ঞানত বি.টেক (অনাৰ্ছ)", "province": "Jamshedpur", "country": "India", "institution": "ৰাষ্ট্ৰীয় প্ৰযুক্তি প্ৰতিষ্ঠান জামশেদপুৰ (Tier-I Institute)", "text": "কম্পিউটাৰ বিজ্ঞানত বি.টেক (অনাৰ্ছ) সৈতে স্নাতক। CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "mai": {"title": "कंप्यूटर साइंस मे बी.टेक (ऑनर्स)", "province": "Jamshedpur", "country": "India", "institution": "राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर (Tier-I Institute)", "text": "कंप्यूटर साइंस मे बी.टेक (ऑनर्स) सँ स्नातक। CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "sd": {"title": "ڪمپيوٽر سائنس ۾ بي.ٽيڪ (آنرس)", "province": "Jamshedpur", "country": "India", "institution": "قومي ٽيڪنالاجي ادارو جمشيدپور (Tier-I Institute)", "text": "ڪمپيوٽر سائنس ۾ بي.ٽيڪ (آنرس) سان گريجوئيشن مڪمل۔ CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "kok": {"title": "कंप्यूटर विज्ञानांत बी.टेक (ऑनर्स)", "province": "Jamshedpur", "country": "India", "institution": "राश्ट्रीय तंत्रज्ञान संस्थान जमशेदपुर (Tier-I Institute)", "text": "कंप्यूटर विज्ञानांत बी.टेक (ऑनर्स) पदवी मेळ्ळा. CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "ne": {"title": "कम्प्यूटर विज्ञानमा बी.टेक (ऑनर्स)", "province": "Jamshedpur", "country": "India", "institution": "राष्ट्रिय प्रविधि संस्थान जमशेदपुर (Tier-I Institute)", "text": "कम्प्यूटर विज्ञानमा बी.टेक (ऑनर्स) सँग स्नातक। CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "ks": {"title": "کمپیوٹر سائنسس منز بی.ٹیک (آنرس)", "province": "Jamshedpur", "country": "India", "institution": "قومی ٹیکنالوجی انسٹیٹیوٹ جَمشیدپور (Tier-I Institute)", "text": "کمپیوٹر سائنسس منز بی.ٹیک (آنرس) نال گریجویشن مڪمل۔ CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]},
+            "ur": {"title": "کمپیوٹر سائنس میں بی ٹیک (آنرس)", "province": "Jamshedpur", "country": "India", "institution": "قومی ٹیکنالوجی انسٹیٹیوٹ جمشیدپور (Tier-I Institute)", "text": "کمپیوٹر سائنس میں بی ٹیک (آنرس) کے ساتھ گریجویشن مکمل۔ CGPA: 8.33", "list": [], "tags": ["Computer Science", "B.Tech"]}
           }
         },
         {
           "id": 2,
-          "img": "",
-          "faIcon": "",
+          "img": "/images/pictures/KVC.jpg",
+          "faIcon": "fa-solid fa-book-open",
           "faIconColors": { "bg": "", "fill": "" },
           "dateStart": { "year": 2015, "month": 6 },
           "dateEnd": { "year": 2017, "month": 5 },
           "locales": {
             "en": {
-              "title": "Higher Secondary - 82.2%",
+              "title": "Higher Secondary",
               "province": "",
               "country": "India",
               "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP",
@@ -102,7 +150,7 @@
               "tags": ["CBSE", "12th"]
             },
             "es": {
-              "title": "Educación Secundaria Superior - 82.2%",
+              "title": "Educación Secundaria Superior",
               "province": "",
               "country": "India",
               "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP",
@@ -111,7 +159,7 @@
               "tags": ["CBSE", "12.º"]
             },
             "fr": {
-              "title": "Secondaire Supérieur - 82.2%",
+              "title": "Secondaire Supérieur",
               "province": "",
               "country": "Inde",
               "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP",
@@ -120,25 +168,49 @@
               "tags": ["CBSE", "12ème"]
             },
             "ko": {
-              "title": "고등학교 졸업 - 82.2%",
+              "title": "고등학교 졸업",
               "province": "",
               "country": "인도",
               "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP",
               "text": "CBSE 위원회에서 82.2% 점수로 고등학교(12학년) 졸업.",
               "list": [],
               "tags": ["CBSE", "12학년"]
-            }
+            },
+            "hi": {"title": "उच्च माध्यमिक", "province": "", "country": "भारत", "institution": "केंद्रीय विद्यालय, छोटान, सोनभद्रा, यूपी", "text": "CBSE बोर्ड के तहत उच्च माध्यमिक (12वीं) 82.2% अंकों के साथ पूर्ण।", "list": [], "tags": ["CBSE", "12वीं"]},
+            "zh": {"title": "高中", "province": "", "country": "印度", "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP", "text": "CBSE委员会下完成高中（12年级），得分82.2%。", "list": [], "tags": ["CBSE", "12年级"]},
+            "ja": {"title": "高等学校", "province": "", "country": "インド", "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP", "text": "CBSE委員会で高等学校（12年生）を82.2%で修了。", "list": [], "tags": ["CBSE", "12年生"]},
+            "ar": {"title": "الثانوية العليا", "province": "", "country": "الهند", "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP", "text": "أكمل الثانوية العليا (الصف 12) تحت مجلس CBSE بنسبة 82.2%.", "list": [], "tags": ["CBSE", "12"]},
+            "pt": {"title": "Ensino Médio Superior", "province": "", "country": "Índia", "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP", "text": "Concluído Ensino Médio (12º ano) sob conselho CBSE com 82.2%.", "list": [], "tags": ["CBSE", "12º"]},
+            "de": {"title": "Höhere Sekundarstufe", "province": "", "country": "Indien", "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP", "text": "Abitur (12. Klasse) unter CBSE mit 82,2% abgeschlossen.", "list": [], "tags": ["CBSE", "12."]},
+            "ru": {"title": "Среднее образование", "province": "", "country": "Индия", "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP", "text": "Завершено среднее образование (12 класс) по CBSE с 82.2%.", "list": [], "tags": ["CBSE", "12 кл."]},
+            "it": {"title": "Scuola secondaria superiore", "province": "", "country": "India", "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP", "text": "Completato scuola superiore (12°) sotto CBSE con 82.2%.", "list": [], "tags": ["CBSE", "12°"]},
+            "bn": {"title": "উচ্চ মাধ্যমিক", "province": "", "country": "India", "institution": "কেন্দ্রীয় বিদ্যালয়, ছোপান, সোনভদ্রা, ইউপি", "text": "CBSE বোর্ডের অধীনে উচ্চ মাধ্যমিক (১২শ শ্রেণী) ৮২.২% নম্বর সহ সম্পন্ন।", "list": [], "tags": ["CBSE", "12th"]},
+            "te": {"title": "ఉన్నత మాధ్యమికం", "province": "", "country": "India", "institution": "కేంద్రీయ విద్యాలయం, చోపాన్, సోన్భద్ర, యూ.పి.", "text": "CBSE బోర్డు under ఉన్నత మాధ్యమికం (12వ తరగతి) 82.2% మార్కులతో పూర్తి చేశారు।", "list": [], "tags": ["CBSE", "12th"]},
+            "ta": {"title": "உயர்மட்ட இரண்டாம் நிலை", "province": "", "country": "India", "institution": "கென்ட்ரியா வித்யாலயா, சோபன், சோன்பாத்ரா, யூ.பி.", "text": "CBSE வாரியத்தின் கீழ் உயர்நிலைப் பள்ளி (12வது வகுப்பு) 82.2% மதிப்பெண்களுடன் முடிக்கப்பட்டது।", "list": [], "tags": ["CBSE", "12th"]},
+            "mr": {"title": "उच्च माध्यमिक", "province": "", "country": "India", "institution": "केंद्रीय विद्यालय, छोटान, सोनभद्रा, यूपी", "text": "CBSE बोर्ड अंतर्गत उच्च माध्यमिक (12वी) 82.2% गुणांसह पूर्ण।", "list": [], "tags": ["CBSE", "12th"]},
+            "gu": {"title": "ઉચ્ચતર માધ્યમિક", "province": "", "country": "India", "institution": "કેન્દ્રીય વિદ્યાલય, ચોપન, સોનભદ્રા, યૂ.પી.", "text": "CBSE બોર્ડ હેઠળ ઉચ્ચતર માધ્યમિક (12મી ધોરણ) 82.2% ગુણ સાથે પૂર્ણ।", "list": [], "tags": ["CBSE", "12th"]},
+            "pa": {"title": "ਉੱਚ ਸੈਕੰਡਰੀ", "province": "", "country": "India", "institution": "ਕੇਂਦਰੀ ਵਿਦਿਆਲਯ, ਚੋਪਨ, ਸੋਨਭਦਰਾ, ਯੂ.ਪੀ.", "text": "CBSE ਬੋਰਡ ਅਧੀਨ ਉੱਚ ਸੈਕੰਡਰੀ (12ਵੀਂ ਕਲਾਸ) 82.2% ਅੰਕਾਂ ਨਾਲ ਪੂਰੀ।", "list": [], "tags": ["CBSE", "12th"]},
+            "ml": {"title": "ഉന്നത മാധ്യമികം", "province": "", "country": "India", "institution": "കേന്ദ്രീയ വിദ്യാലയം, ചോപാൻ, സോൻഭദ്ര, യു.പി.", "text": "CBSE ബോർഡ് കീഴിൽ ഉന്നത മാധ്യമികം (12-ാം ക്ലാസ്) 82.2% മാർക്കുകളോടെ പൂർത്തിയാക്കി।", "list": [], "tags": ["CBSE", "12th"]},
+            "kn": {"title": "ಉನ್ನತ ಮಾಧ್ಯಮಿಕ", "province": "", "country": "India", "institution": "ಕೇಂದ್ರೀಯ ವಿದ್ಯಾಲಯ, ಚೋಪಾನ್, ಸೋನ್ಭದ್ರಾ, ಯು.ಪಿ.", "text": "CBSE ಬೋರ್ಡ್ ಅಡಿಯಲ್ಲಿ ಉನ್ನತ ಮಾಧ್ಯಮಿಕ (12ನೇ ತರಗತಿ) 82.2% ಅಂಕಗಳೊಂದಿಗೆ ಪೂರ್ಣ।", "list": [], "tags": ["CBSE", "12th"]},
+            "or": {"title": "ଉଚ୍ଚ ମାଧ୍ୟମିକ", "province": "", "country": "India", "institution": "କେନ୍ଦ୍ରୀୟ ବିଦ୍ୟାଳୟ, ଛୋପାନ, ସୋନଭଦ୍ରା, ୟୁ.ପି.", "text": "CBSE ବୋର୍ଡ ଅଧୀନରେ ଉଚ୍ଚ ମାଧ୍ୟମିକ (12ଶ ଶ୍ରେଣୀ) 82.2% ଅଙ୍କ ସହିତ ସମାପ୍ତ।", "list": [], "tags": ["CBSE", "12th"]},
+            "as": {"title": "উচ্চ মাধ্যমিক", "province": "", "country": "India", "institution": "কেন্দ্রীয় বিদ্যালয়, ছোপান, সোণভদ্ৰা, ইউ.পি.", "text": "CBSE বোর্ডৰ অধীনত উচ্চ মাধ্যমিক (১২শ শ্ৰেণী) ৮২.২% নম্বৰত সম্পূৰ্ণ।", "list": [], "tags": ["CBSE", "12th"]},
+            "mai": {"title": "उच्च माध्यमिक", "province": "", "country": "India", "institution": "केंद्रीय विद्यालय, छोटान, सोनभद्रा, यूपी", "text": "CBSE बोर्ड क अंतर्गत उच्च माध्यमिक (12वीं) 82.2% अंक सं पूर्ण।", "list": [], "tags": ["CBSE", "12th"]},
+            "sd": {"title": "اعلي ثانوي", "province": "", "country": "India", "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP", "text": "CBSE بورڊ هيٺ اعلي ثانوي (12ويڙي) 82.2% نمبرن سان مڪمل۔", "list": [], "tags": ["CBSE", "12th"]},
+            "kok": {"title": "उच्च माध्यमिक", "province": "", "country": "India", "institution": "केंद्रीय विद्यालय, छोटान, सोनभद्रा, यूपी", "text": "CBSE बोर्ड खाली उच्च माध्यमिक (12वी) 82.2% गुणांनी पुरायलें।", "list": [], "tags": ["CBSE", "12th"]},
+            "ne": {"title": "उच्च माध्यमिक", "province": "", "country": "India", "institution": "केन्द्रिय विद्यालय, चोपान, सोनभद्रा, यू.पी.", "text": "CBSE बोर्ड अन्तर्गत उच्च माध्यमिक (12औं कक्षा) 82.2% अङ्कहरूसँग पूरा।", "list": [], "tags": ["CBSE", "12th"]},
+            "ks": {"title": "اعلیٰ سیکنڈری", "province": "", "country": "India", "institution": "Kendriya Vidyalaya, Chopan, Sonbhadra, UP", "text": "CBSE بورڈ تحت اعلیٰ سیکنڈری (12ویں) 82.2% نمبرن سان مکمل۔", "list": [], "tags": ["CBSE", "12th"]},
+            "ur": {"title": "ہائر سیکنڈری", "province": "", "country": "India", "institution": "کینڈریہ ودیاالیہ، چوپان، سون بھدرا، یوپی", "text": "CBSE بورڈ کے تحت ہائر سیکنڈری (12ویں جماعت) 82.2% نمبروں کے ساتھ مکمل۔", "list": [], "tags": ["CBSE", "12th"]}
           }
         },
         {
           "id": 3,
-          "img": "",
-          "faIcon": "",
+          "img": "/images/pictures/SHCS.jpeg",
+          "faIcon": "fa-solid fa-school",
           "faIconColors": { "bg": "", "fill": "" },
           "dateEnd": { "year": 2015, "month": 5 },
           "locales": {
             "en": {
-              "title": "Secondary - 9.2 CGPA",
+              "title": "Secondary",
               "province": "",
               "country": "India",
               "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP",
@@ -147,7 +219,7 @@
               "tags": ["CBSE", "10th"]
             },
             "es": {
-              "title": "Secundaria - 9.2 CGPA",
+              "title": "Secundaria",
               "province": "",
               "country": "India",
               "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP",
@@ -156,7 +228,7 @@
               "tags": ["CBSE", "10.º"]
             },
             "fr": {
-              "title": "Secondaire - 9.2 CGPA",
+              "title": "Secondaire",
               "province": "",
               "country": "Inde",
               "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP",
@@ -165,14 +237,38 @@
               "tags": ["CBSE", "10ème"]
             },
             "ko": {
-              "title": "중학교 졸업 - 9.2 CGPA",
+              "title": "중학교 졸업",
               "province": "",
               "country": "인도",
               "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP",
               "text": "CBSE 위원회에서 9.2 CGPA로 중학교(10학년) 졸업.",
               "list": [],
               "tags": ["CBSE", "10학년"]
-            }
+            },
+            "hi": {"title": "माध्यमिक", "province": "", "country": "भारत", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE बोर्ड के तहत माध्यमिक (10वीं) 9.2 CGPA के साथ पूर्ण।", "list": [], "tags": ["CBSE", "10वीं"]},
+            "zh": {"title": "初中", "province": "", "country": "印度", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE委员会下完成初中（10年级），CGPA 9.2。", "list": [], "tags": ["CBSE", "10年级"]},
+            "ja": {"title": "中学校", "province": "", "country": "インド", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE委員会で中学校（10年生）を9.2 CGPAで修了。", "list": [], "tags": ["CBSE", "10年生"]},
+            "ar": {"title": "الثانوية", "province": "", "country": "الهند", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "أكمل الثانوية (الصف 10) تحت CBSE بـ 9.2 CGPA.", "list": [], "tags": ["CBSE", "10"]},
+            "pt": {"title": "Ensino Secundário", "province": "", "country": "Índia", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "Concluído Secundário (10º ano) sob CBSE com 9.2 CGPA.", "list": [], "tags": ["CBSE", "10º"]},
+            "de": {"title": "Sekundarstufe", "province": "", "country": "Indien", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "Mittlere Reife (10. Klasse) unter CBSE mit 9.2 CGPA.", "list": [], "tags": ["CBSE", "10."]},
+            "ru": {"title": "Основное образование", "province": "", "country": "Индия", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "Завершено основное образование (10 класс) по CBSE с 9.2 CGPA.", "list": [], "tags": ["CBSE", "10 кл."]},
+            "it": {"title": "Scuola secondaria", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "Completato secondaria (10°) sotto CBSE con 9.2 CGPA.", "list": [], "tags": ["CBSE", "10°"]},
+            "bn": {"title": "মাধ্যমিক", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE বোর্ডের অধীনে মাধ্যমিক (১০ম শ্রেণী) 9.2 CGPA সহ সম্পন্ন।", "list": [], "tags": ["CBSE", "10th"]},
+            "te": {"title": "మాధ్యమికం", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE బోర్డు under మాధ్యమికం (10వ తరగతి) 9.2 CGPA తో పూర్తి చేశారు।", "list": [], "tags": ["CBSE", "10th"]},
+            "ta": {"title": "இரண்டாம் நிலை", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE வாரியத்தின் கீழ் மெட்ரிக் (10வது வகுப்பு) 9.2 CGPA உடன் முடிக்கப்பட்டது।", "list": [], "tags": ["CBSE", "10th"]},
+            "mr": {"title": "माध्यमिक", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE बोर्ड अंतर्गत माध्यमिक (10वी) 9.2 CGPA सह पूर्ण।", "list": [], "tags": ["CBSE", "10th"]},
+            "gu": {"title": "માધ્યમિક", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE બોર્ડ હેઠળ માધ્યમિક (10મી ધોરણ) 9.2 CGPA સાથે પૂર્ણ।", "list": [], "tags": ["CBSE", "10th"]},
+            "pa": {"title": "ਸੈਕੰਡਰੀ", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE ਬੋਰਡ ਅਧੀਨ ਸੈਕੰਡਰੀ (10ਵੀਂ ਕਲਾਸ) 9.2 CGPA ਨਾਲ ਪੂਰੀ।", "list": [], "tags": ["CBSE", "10th"]},
+            "ml": {"title": "മാധ്യമികം", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE ബോർഡ് കീഴിൽ സെക്കൻഡറി (10-ാം ക്ലാസ്) 9.2 CGPA-യോടെ പൂർത്തിയാക്കി।", "list": [], "tags": ["CBSE", "10th"]},
+            "kn": {"title": "ಮಾಧ್ಯಮಿಕ", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE ಬೋರ್ಡ್ ಅಡಿಯಲ್ಲಿ ಸೆಕೆಂಡರಿ (10ನೇ ತರಗತಿ) 9.2 CGPA ಜೊತೆ ಪೂರ್ಣ।", "list": [], "tags": ["CBSE", "10th"]},
+            "or": {"title": "ମାଧ୍ୟମିକ", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE ବୋର୍ଡ ଅଧୀନରେ ମାଧ୍ୟମିକ (10ମ ଶ୍ରେଣୀ) 9.2 CGPA ସହିତ ସମାପ୍ତ।", "list": [], "tags": ["CBSE", "10th"]},
+            "as": {"title": "মাধ্যমিক", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE বোর্ডৰ অধীনত মাধ্যমিক (১০ম শ্ৰেণী) 9.2 CGPA ত সম্পূৰ্ণ।", "list": [], "tags": ["CBSE", "10th"]},
+            "mai": {"title": "माध्यमिक", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE बोर्ड क अंतर्गत माध्यमिक (10वीं) 9.2 CGPA सं पूर्ण।", "list": [], "tags": ["CBSE", "10th"]},
+            "sd": {"title": "ثانوي", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE بورڊ هيٺ ثانوي (10ويڙي) 9.2 CGPA سان مڪمل۔", "list": [], "tags": ["CBSE", "10th"]},
+            "kok": {"title": "माध्यमिक", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE बोर्ड खाली माध्यमिक (10वी) 9.2 CGPA नें पुरायलें।", "list": [], "tags": ["CBSE", "10th"]},
+            "ne": {"title": "माध्यमिक", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE बोर्ड अन्तर्गत माध्यमिक (10औं कक्षा) 9.2 CGPA सँग पूरा।", "list": [], "tags": ["CBSE", "10th"]},
+            "ks": {"title": "سیکنڈری", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE بورڈ تحت سیکنڈری (10ویں) 9.2 CGPA نال مکمل۔", "list": [], "tags": ["CBSE", "10th"]},
+            "ur": {"title": "سیکنڈری", "province": "", "country": "India", "institution": "Sacred Heart Convent Secondary School, Obra, Sonbhadra, UP", "text": "CBSE بورڈ کے تحت سیکنڈری (10ویں جماعت) 9.2 CGPA کے ساتھ مکمل۔", "list": [], "tags": ["CBSE", "10th"]}
           }
         }
       ]

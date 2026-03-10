@@ -4,5 +4,7 @@ div.date-badge-wrapper-transparent {
     .date-badge {
         background-color: transparent;
         color: var(--theme-texts-light);
+        border-color: var(--theme-opacity-border);
+        box-shadow: none;
     }
 }

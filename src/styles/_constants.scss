@@ -11,11 +11,60 @@ $min-contrast-ratio: 1.5 !default;
 
 /** Typography **/
 $font-family-base: "Saira", sans-serif;
-$headings-font-family: "Orbitron", sans-serif;
+$headings-font-family: "Plus Jakarta Sans", sans-serif;
 
-/** Static Colors **/
-$loader-background: #111111;
-$loader-contrast: #ffffff;
+/** Static Colors - Loader Screen **/
+// Use "background" (gradient or solid); Preloader uses this for background
+// Active: Gradient 1 (Aurora) – final
+$loader-background: radial-gradient(ellipse 100% 80% at 15% 25%, rgba(191, 219, 254, 0.9) 0%, transparent 45%), radial-gradient(ellipse 90% 70% at 35% 45%, rgba(216, 180, 254, 0.7) 0%, transparent 45%), radial-gradient(ellipse 110% 90% at 85% 55%, rgba(103, 232, 249, 0.8) 0%, transparent 50%), linear-gradient(160deg, #e0f2fe 0%, #c4b5fd 50%, #67e8f9 100%);
+$loader-contrast: #0f172a;
+
+/** 12 Gradient styles (from your reference images) – set $loader-background to one **/
+/** For light gradients (9–12), use $loader-contrast: #0f172a or #171717 **/
+
+// 1. Aurora – light blue, lavender, purple, pastel green, bright aqua
+// $loader-background: radial-gradient(ellipse 100% 80% at 15% 25%, rgba(191, 219, 254, 0.9) 0%, transparent 45%), radial-gradient(ellipse 90% 70% at 35% 45%, rgba(216, 180, 254, 0.7) 0%, transparent 45%), radial-gradient(ellipse 110% 90% at 85% 55%, rgba(103, 232, 249, 0.8) 0%, transparent 50%), linear-gradient(160deg, #e0f2fe 0%, #c4b5fd 50%, #67e8f9 100%);
+
+// 2. Sunset mesh – purple base, orange-yellow left, fuchsia right (bold, energetic)
+// $loader-background: radial-gradient(ellipse 70% 90% at 25% 50%, rgba(251, 191, 36, 0.6) 0%, transparent 50%), radial-gradient(ellipse 80% 100% at 80% 50%, rgba(236, 72, 153, 0.7) 0%, transparent 50%), linear-gradient(180deg, #312e81 0%, #1e1b4b 50%, #312e81 100%);
+
+// 3. Twilight depth – magenta top → purple → indigo → navy (vertical, layered)
+// $loader-background: linear-gradient(180deg, #c084fc 0%, #a855f7 20%, #7c3aed 45%, #4c1d95 75%, #1e1b4b 100%);
+
+// 4. Color hub – blue top-left, orange top-right, neon pink center, pink bottom-left, orange bottom-right
+// $loader-background: radial-gradient(ellipse 60% 50% at 20% 20%, rgba(147, 197, 253, 0.8) 0%, transparent 50%), radial-gradient(ellipse 55% 50% at 80% 20%, rgba(251, 146, 60, 0.7) 0%, transparent 50%), radial-gradient(ellipse 80% 80% at 50% 50%, rgba(236, 72, 153, 0.6) 0%, transparent 55%), radial-gradient(ellipse 50% 60% at 25% 85%, rgba(244, 114, 182, 0.7) 0%, transparent 50%), radial-gradient(ellipse 55% 55% at 80% 85%, rgba(251, 146, 60, 0.6) 0%, transparent 50%), linear-gradient(180deg, #fef3c7 0%, #fecdd3 50%, #fed7aa 100%);
+
+// 5. Ocean dream – teal top-left → blue center → violet bottom-right (diagonal)
+// $loader-background: linear-gradient(135deg, #5eead4 0%, #38bdf8 35%, #818cf8 70%, #7c3aed 100%);
+
+// 6. Magenta-teal diagonal – magenta top-right, teal top-left, cyan bottom-left, pastel pink bottom-right
+// $loader-background: radial-gradient(ellipse 70% 60% at 80% 15%, rgba(236, 72, 153, 0.7) 0%, transparent 50%), radial-gradient(ellipse 65% 55% at 15% 25%, rgba(20, 184, 166, 0.5) 0%, transparent 50%), radial-gradient(ellipse 70% 70% at 20% 80%, rgba(34, 211, 238, 0.6) 0%, transparent 50%), radial-gradient(ellipse 60% 65% at 85% 85%, rgba(244, 114, 182, 0.5) 0%, transparent 50%), linear-gradient(160deg, #0d9488 0%, #a78bfa 50%, #f9a8d4 100%);
+
+// 7. Light leak – dark charcoal base, vertical streaks of violet, magenta, indigo, cyan, orange
+// $loader-background: linear-gradient(180deg, rgba(139, 92, 246, 0.4) 0%, transparent 15%), linear-gradient(175deg, rgba(236, 72, 153, 0.35) 5%, transparent 25%), linear-gradient(180deg, rgba(79, 70, 229, 0.3) 20%, transparent 40%), linear-gradient(185deg, rgba(34, 211, 238, 0.35) 35%, transparent 55%), linear-gradient(180deg, rgba(251, 146, 60, 0.4) 60%, transparent 80%), linear-gradient(180deg, #1c1917 0%, #292524 100%);
+
+// 8. Magenta-teal bokeh – magenta bottom-left, teal top-right, purple/indigo between, dark corners
+// $loader-background: radial-gradient(ellipse 90% 80% at 15% 85%, rgba(236, 72, 153, 0.7) 0%, transparent 50%), radial-gradient(ellipse 85% 75% at 88% 15%, rgba(45, 212, 191, 0.6) 0%, transparent 50%), radial-gradient(circle at 50% 50%, rgba(99, 102, 241, 0.4) 0%, transparent 60%), linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
+
+// 9. Sky mist – white top → pastel blue → medium blue → soft blue bottom (calm, vertical)
+// $loader-background: linear-gradient(180deg, #ffffff 0%, #e0f2fe 25%, #7dd3fc 55%, #38bdf8 85%, #0ea5e9 100%);
+
+// 10. Cyan-magenta spread – cyan top-left, blue center, magenta top-right, dark blue bottom
+// $loader-background: radial-gradient(ellipse 70% 60% at 20% 25%, rgba(34, 211, 238, 0.8) 0%, transparent 50%), radial-gradient(ellipse 80% 70% at 50% 40%, rgba(59, 130, 246, 0.6) 0%, transparent 50%), radial-gradient(ellipse 65% 60% at 82% 20%, rgba(236, 72, 153, 0.7) 0%, transparent 50%), linear-gradient(180deg, #0f172a 0%, #1e3a5f 50%, #312e81 100%);
+
+// 11. Cyan to indigo horizontal – cyan left → lavender center → dark indigo right
+// $loader-background: linear-gradient(90deg, #22d3ee 0%, #67e8f9 25%, #a78bfa 55%, #6366f1 80%, #312e81 100%);
+
+// 12. Cyan to royal vertical – light cyan top → deep royal blue bottom
+// $loader-background: linear-gradient(180deg, #67e8f9 0%, #22d3ee 20%, #0891b2 50%, #0e7490 75%, #155e75 100%);
+
+/** Solid color alternatives: **/
+// $loader-background: #f8fafc; $loader-contrast: #0f172a;  /* Cool grey – clean, minimal */
+// $loader-background: #f1f5f9; $loader-contrast: #1e293b;  /* Slate 100 – soft neutral */
+// $loader-background: #fafafa; $loader-contrast: #171717;  /* Off-white – minimal */
+// $loader-background: #ecfdf5; $loader-contrast: #064e3b;  /* Mint – fresh, calm */
+// $loader-background: #fef3c7; $loader-contrast: #78350f;  /* Warm cream – soft and inviting */
+// $loader-background: #f5f3ff; $loader-contrast: #3730a3;  /* Lavender – subtle purple */
 
 /**
  * THEME COLOR PRESETS
@@ -65,6 +114,8 @@ $z-index-loader: 1260;
 
 /** Layout Constraints - General **/
 $max-breakpoint-for-tabbed-interface: md;
+$breakpoint-article-stack-wide: 1550px;
+$breakpoint-mobile-narrow: 450px;
 $standard-border-radius: 10px;
 $default-card-spacing: 0.5rem;
 $default-card-spacing-mobile: 5px;

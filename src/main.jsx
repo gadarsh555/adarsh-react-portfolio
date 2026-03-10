@@ -132,7 +132,9 @@ const AppCapabilitiesWrapper = ({ children }) => {
     const supportedThemes = appSettings["supportedThemes"]
     const defaultLanguageId = appSettings["templateSettings"].defaultLanguageId
     const defaultThemeId = appSettings["templateSettings"].defaultThemeId
-    const animatedCursorEnabled = appSettings["templateSettings"].animatedCursorEnabled
+    // Magic cursor feature - disabled by default, use normal cursor
+    // const animatedCursorEnabled = appSettings["templateSettings"].animatedCursorEnabled
+    const animatedCursorEnabled = false
     const showSpinnerOnThemeChange = appSettings["templateSettings"].showSpinnerOnThemeChange
 
     return (

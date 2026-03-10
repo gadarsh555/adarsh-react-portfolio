@@ -35,29 +35,29 @@
 
 $primary: #3b82f6;
 $secondary: #0066ff;
-$dark: #e0f2fe;
+$dark: #c8e4f6;
 $danger: #932626;
 $muted: #64748b;
 
-$base-bg: #f0f9ff;
-$base-bg-light: #e0f2fe;
-$base-bg-dark: #bae6fd;
+$base-bg: #e8f4fc;
+$base-bg-light: #c8e4f6;
+$base-bg-dark: #a8d4f0;
 
 $texts: #0c2d4a;
-$texts-inverted: #eee;
+$texts-inverted: #ffffff;
 
-$base-container-bg: #f8fcfe;
-$base-container-bg-accent: #cffafe;
-$base-popover-bg: #e0f2fe;
-$base-boards: lighten(#ecf9ff, 1%);
-$base-info-badges: lighten(#d4edfa, 3%);
+$base-container-bg: #ffffff;
+$base-container-bg-accent: #d4ecfa;
+$base-popover-bg: #c8e4f6;
+$base-boards: #eef6fc;
+$base-info-badges: #d4ecfa;
 $empty: #ffffff;
 
-$borders: #e0f2fe;
-$borders-nav-mobile: rgba(white, 0.15);
-$borders-nav-mobile-accent: rgba(white, 0.6);
-$scrollbar-track: #cffafe;
-$scrollbar-thumb: #0284c7;
+$borders: #a8d4f0;
+$borders-nav-mobile: rgba(black, 0.08);
+$borders-nav-mobile-accent: rgba(black, 0.2);
+$scrollbar-track: #d4ecfa;
+$scrollbar-thumb: #3b82f6;
 
 [data-theme="light"] {
   @include build-theme(
@@ -104,4 +104,16 @@ $scrollbar-thumb: #0284c7;
     /** SCROLLBAR TRACK: **/ $scrollbar-track,
     /** SCROLLBAR THUMB: **/ $scrollbar-thumb
   );
+
+  // Multi-color circles for animated background (accent colors on dark blue)
+  --theme-circle-1: #3b82f6;
+  --theme-circle-2: #6366f1;
+  --theme-circle-3: #06b6d4;
+  --theme-circle-4: #8b5cf6;
+
+  // Card styling - modern shadow & border
+  --theme-card-shadow: 0 4px 20px rgba(0, 102, 255, 0.08), 0 2px 8px rgba(0, 0, 0, 0.04);
+  --theme-card-shadow-hover: 0 8px 32px rgba(0, 102, 255, 0.12), 0 4px 12px rgba(0, 0, 0, 0.06);
+  --theme-board-shadow: 0 2px 12px rgba(0, 102, 255, 0.06), 0 1px 4px rgba(0, 0, 0, 0.03);
+  --theme-card-border: 1px solid rgba(184, 221, 244, 0.6);
 }

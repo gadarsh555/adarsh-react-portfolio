@@ -40,10 +40,14 @@ function LayoutAnimatedBackground() {
             return
 
         const backgroundColor = utils.css.getRootSCSSVariable("--theme-background")
-        const circleColorLight = utils.css.getRootSCSSVariable("--theme-background-contrast")
-        const circleColorDark = utils.css.getRootSCSSVariable("--theme-background-contrast-darken")
+        const circleColors = [
+            utils.css.getRootSCSSVariable("--theme-circle-1"),
+            utils.css.getRootSCSSVariable("--theme-circle-2"),
+            utils.css.getRootSCSSVariable("--theme-circle-3"),
+            utils.css.getRootSCSSVariable("--theme-circle-4")
+        ].filter(Boolean)
 
-        const backgroundColorRgba = utils.css.hexToRgba(backgroundColor, 1)
+        const backgroundColorRgba = backgroundColor ? utils.css.hexToRgba(backgroundColor, 1) : "rgba(10, 22, 40, 1)"
 
         canvas.width = window.innerWidth
         canvas.height = window.innerHeight
@@ -52,23 +56,15 @@ function LayoutAnimatedBackground() {
         context.fillStyle = backgroundColorRgba
         context.fillRect(0, 0, canvas.width, canvas.height)
 
-        updatedCircles
-            .filter(circle => circle.color === "dark")
-            .forEach(circle => {
-                context.beginPath()
-                context.arc(circle.x, circle.y, circle.radius, 0, Math.PI * 2)
-                context.fillStyle = utils.css.hexToRgba(circleColorDark, circle.opacity/2)
-                context.fill()
-            })
+        updatedCircles.forEach(circle => {
+            const colorHex = circleColors.length > 0 ? circleColors[circle.colorIndex % circleColors.length] : null
+            if (!colorHex || typeof circle.colorIndex !== 'number') return
 
-        updatedCircles
-            .filter(circle => circle.color !== "dark")
-            .forEach(circle => {
-                context.beginPath()
-                context.arc(circle.x, circle.y, circle.radius, 0, Math.PI * 2)
-                context.fillStyle = utils.css.hexToRgba(circleColorLight, circle.opacity/2)
-                context.fill()
-            })
+            context.beginPath()
+            context.arc(circle.x, circle.y, circle.radius, 0, Math.PI * 2)
+            context.fillStyle = utils.css.hexToRgba(colorHex, circle.opacity / 2)
+            context.fill()
+        })
     }
 
     return (
@@ -91,7 +87,7 @@ class CircleData {
         this.radius = utils.number.random(baseSize/24, baseSize/8)
         this.speedX = utils.number.random(3, 10, true)
         this.speedY = utils.number.random(2, 5, true)
-        this.color = Math.random() > 0.5 ? "dark" : "light"
+        this.colorIndex = Math.floor(Math.random() * 4)
         this.opacity = 0.1 + Math.random()*0.9
     }
 

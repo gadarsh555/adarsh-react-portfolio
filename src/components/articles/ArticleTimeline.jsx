@@ -61,11 +61,12 @@ function ArticleTimelineItem({ itemWrapper }) {
                         alt={itemWrapper?.imageAlt}
                         className={`article-timeline-item-avatar`}/>
 
-            <ArticleItemInfoForTimelines className={`article-timeline-item-content`}>
+                <ArticleItemInfoForTimelines className={`article-timeline-item-content`}>
                 <ArticleItemInfoForTimelinesHeader itemWrapper={itemWrapper}
                                                    dateInterval={true}/>
 
-                <ArticleItemInfoForTimelinesBody itemWrapper={itemWrapper}/>
+                <ArticleItemInfoForTimelinesBody itemWrapper={itemWrapper}
+                                                  highlightExperience={true}/>
 
                 <ArticleItemInfoForTimelinesTagsFooter itemWrapper={itemWrapper}/>
             </ArticleItemInfoForTimelines>

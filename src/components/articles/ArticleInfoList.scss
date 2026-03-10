@@ -46,6 +46,8 @@ div.article-info-list-item {
     border-radius: $standard-border-radius;
     padding: var(--padding);
     min-height: var(--min-height);
+    box-shadow: var(--theme-board-shadow);
+    border: var(--theme-card-border);
 
     &-avatar {
         min-width: calc(var(--avatar-size) * 1.2);
@@ -72,6 +74,30 @@ div.article-info-list-item {
         display: inline;
         color: var(--theme-texts-light-2)!important;
         margin-bottom: 0;
+    }
+}
+
+/** ------------- LINK STYLES --------------- **/
+a.article-info-list-item-info-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--theme-primary)!important;
+    font-weight: 500;
+    transition: color 0.2s ease;
+
+    span.article-inline-list-item-label {
+        text-decoration: none;
+        border-bottom: 1px solid var(--theme-primary-1);
+        padding-bottom: 1px;
+    }
+
+    &:hover {
+        color: var(--theme-links-hover)!important;
+
+        span.article-inline-list-item-label {
+            border-bottom-color: var(--theme-links-hover);
+        }
     }
 }
 

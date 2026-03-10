@@ -23,7 +23,7 @@ function PropListItem({ children, type, value, faIcon, iconSpacing = 25, classNa
             <i className={`fa-icon ${faIcon}`} style={{minWidth: iconSpacing}}/>
 
             {type === PropListItem.Types.SINGLE && (
-                <span dangerouslySetInnerHTML={{__html: value}}/>
+                <span dangerouslySetInnerHTML={{__html: Array.isArray(value) ? (value[0] ?? "") : (value ?? "")}}/>
             )}
 
             {type === PropListItem.Types.INTERVAL && (

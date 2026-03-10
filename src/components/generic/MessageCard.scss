@@ -22,6 +22,8 @@ div.message-card {
     }
 
     background-color: var(--theme-boards-background)!important;
+    box-shadow: var(--theme-board-shadow);
+    border: var(--theme-card-border);
 
     &-body {
         display: flex;

@@ -1,6 +1,13 @@
 @import "/src/styles/extend.scss";
 
 div.nav-profile-card {
+    box-shadow: none!important;
+    border: none!important;
+
+    &:hover {
+        box-shadow: none!important;
+    }
+
     --avatar-size: 140px;
     --border-size: 6px;
     --info-margin-top: 10px;
@@ -51,6 +58,17 @@ div.nav-profile-card {
         font-size: 1.25rem!important;
         line-height: 1.8rem!important;
 
+        background: linear-gradient(135deg, var(--theme-primary) 0%, var(--theme-primary-1) 50%, #00c6ff 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+
+        span {
+            -webkit-background-clip: inherit;
+            -webkit-text-fill-color: inherit;
+            background-clip: inherit;
+        }
+
         @include media-breakpoint-down($max-breakpoint-for-tabbed-interface) {
             font-size: 1.5rem!important;
             margin-bottom: 7px;
@@ -59,8 +77,12 @@ div.nav-profile-card {
 
     h1.nav-profile-card-name-with-audio-button {
         @include media-breakpoint-down($max-breakpoint-for-tabbed-interface) {
-            margin-left: 65px;
-            margin-right: 65px;
+            margin-left: min(65px, 15vw);
+            margin-right: min(65px, 15vw);
+        }
+        @include media-breakpoint-down(sm) {
+            margin-left: min(45px, 12vw);
+            margin-right: min(45px, 12vw);
         }
     }
 

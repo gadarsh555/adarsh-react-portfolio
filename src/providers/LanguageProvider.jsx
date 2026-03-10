@@ -114,7 +114,7 @@ function LanguageProvider({ children, supportedLanguages, defaultLanguageId, app
     }
 
     const getDateLocaleString = (date) => {
-        if(!date) return `date.null`
+        if(!date) return null
         if(utils.date.isSameDay(date)) return `<strong>${getString("present")}</strong>`
 
         const localeString = date.toLocaleString(

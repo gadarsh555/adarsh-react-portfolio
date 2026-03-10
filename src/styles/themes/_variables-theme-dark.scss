@@ -100,4 +100,16 @@ $scrollbar-thumb: #32343a;
     /** SCROLLBAR TRACK: **/ $scrollbar-track,
     /** SCROLLBAR THUMB: **/ $scrollbar-thumb
   );
+
+  // Multi-color circles for animated background
+  --theme-circle-1: #3b82f6;
+  --theme-circle-2: #6366f1;
+  --theme-circle-3: #06b6d4;
+  --theme-circle-4: #8b5cf6;
+
+  // Card styling - modern shadow & border
+  --theme-card-shadow: 0 4px 24px rgba(0, 0, 0, 0.25), 0 2px 8px rgba(0, 0, 0, 0.15);
+  --theme-card-shadow-hover: 0 8px 40px rgba(0, 0, 0, 0.35), 0 4px 16px rgba(0, 0, 0, 0.2);
+  --theme-board-shadow: 0 2px 16px rgba(0, 0, 0, 0.2), 0 1px 4px rgba(0, 0, 0, 0.12);
+  --theme-card-border: 1px solid rgba(37, 99, 235, 0.15);
 }

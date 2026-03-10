@@ -48,7 +48,7 @@ jsonUtils.overwrite(jSettingsPath, {
     },
 
     templateSettings: {
-        animatedCursorEnabled: true,
+        animatedCursorEnabled: false,  // Magic cursor off, normal cursor default
         backgroundStyle: "animated",
         defaultLanguageId: "en",
         defaultThemeId: "dark",

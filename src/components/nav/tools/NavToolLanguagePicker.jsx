@@ -30,10 +30,12 @@ function NavToolLanguagePicker() {
         <>
             {supportsMultipleLanguages && (
                 <OptionPickerButton mode={OptionPickerButton.Modes.MODE_DROPDOWN}
+                                    drop="up"
                                     options={options}
                                     selectedOptionId={selectedLanguage?.id}
                                     onOptionSelected={_onOptionSelected}
-                                    tooltipLabel={language.getString("select_language")}/>
+                                    tooltipLabel={language.getString("select_language")}
+                                    toggleFaIcon="fa-solid fa-language"/>
             )}
         </>
     )

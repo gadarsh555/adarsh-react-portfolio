@@ -34,5 +34,12 @@ div.balloon-triangle {
 div.balloon-quote {
     span.balloon-quote-2 {
         white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 100%;
+        display: inline-block;
+        @include media-breakpoint-down(sm) {
+            white-space: normal;
+        }
     }
 }

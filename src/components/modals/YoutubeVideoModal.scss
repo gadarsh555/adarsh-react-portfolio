@@ -4,13 +4,17 @@
     div.modal-dialog {
         max-width: min(95vw, calc(110vh));
         max-width: min(95vw, calc(110svh));
-        min-width: 750px;
+        min-width: min(750px, 95vw);
         @include media-breakpoint-down(xl) {
             max-width: min(100% - 10px, 120vh);
         }
         @include media-breakpoint-down(md) {
-            max-width: calc(100% - 10px);
+            max-width: calc(100% - 20px);
             min-width: 0;
+        }
+        @include media-breakpoint-down(sm) {
+            max-width: calc(100% - 16px);
+            margin: 8px;
         }
     }
 

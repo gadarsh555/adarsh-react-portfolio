@@ -5,10 +5,17 @@
 
 div.accordion {
     div.accordion-item {
-        border: none;
+        border: var(--theme-card-border);
         overflow: hidden;
         background-color: var(--theme-boards-background);
         color: var(--theme-texts-light-1);
+        border-radius: $standard-border-radius;
+        box-shadow: var(--theme-board-shadow);
+        margin-bottom: 0.5rem;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
     }
 
     button.accordion-button {
@@ -149,9 +156,15 @@ button.btn {
 div.card {
     background-color: var(--theme-card-background);
     color: var(--theme-texts);
-    border: 0;
+    border: var(--theme-card-border);
     border-radius: $standard-border-radius;
     padding: 0;
+    box-shadow: var(--theme-board-shadow);
+    transition: box-shadow 0.2s ease;
+
+    &:hover {
+        box-shadow: var(--theme-card-shadow-hover);
+    }
 
     &-header, &-footer {
         background-color: transparent;
@@ -230,6 +243,8 @@ div.modal {
         background-color: var(--theme-card-background);
         color: var(--theme-texts);
         border-radius: $standard-border-radius;
+        box-shadow: var(--theme-card-shadow);
+        border: var(--theme-card-border);
     }
 
     &-header {

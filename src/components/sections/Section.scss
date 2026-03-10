@@ -14,6 +14,8 @@ section.section {
 
     background-color: var(--theme-card-background);
     border-radius: $standard-border-radius;
+    box-shadow: var(--theme-card-shadow);
+    border: var(--theme-card-border);
     @include media-breakpoint-down($max-breakpoint-for-tabbed-interface) {
         min-height: 100vh;
         border-top-left-radius: 0;

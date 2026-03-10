@@ -32,8 +32,20 @@ div.section-content-border-decoration-top-left {
 }
 
 div.section-content-elements-wrapper {
-    padding: 20px 0 0 0;
+    padding: 24px 0 0 0;
     @include media-breakpoint-down(lg) {
-        padding: 5px 0 0 0;
+        padding: 16px 0 0 0;
     }
+    @include media-breakpoint-down(md) {
+        padding: 12px 0 0 0;
+    }
+}
+
+/* Subtle radial background for About section */
+div.section-content-about {
+    background: radial-gradient(
+        circle at 10% 20%,
+        var(--theme-card-background-accent) 0%,
+        var(--theme-card-background) 70%
+    );
 }

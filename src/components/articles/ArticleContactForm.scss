@@ -1,5 +1,37 @@
 @import "/src/styles/extend.scss";
 
+.article-contact-form {
+    @include media-breakpoint-down(md) {
+        margin-top: 20px;
+    }
+    @include media-breakpoint-down(sm) {
+        margin-top: 16px;
+    }
+}
+
+/* Send Message button - consistent light green gradient style */
+.article-contact-form .row-form-submit button {
+    background: linear-gradient(135deg, #ecfccb 0%, #bbf7d0 50%, #86efac 100%) !important;
+    color: #14532d !important;
+    border: 0 !important;
+
+    &:hover {
+        background: linear-gradient(135deg, #bbf7d0 0%, #86efac 50%, #4ade80 100%) !important;
+        color: #14532d !important;
+    }
+
+    i {
+        color: #14532d !important;
+    }
+}
+
 button.article-contact-form-reset-button {
     margin-top: 28px;
+
+    @include media-breakpoint-down(md) {
+        margin-top: 20px;
+    }
+    @include media-breakpoint-down(sm) {
+        margin-top: 16px;
+    }
 }

@@ -7,7 +7,7 @@ body {
     overflow-x: hidden!important;
     touch-action: manipulation;
     width: 100%;
-    background-color: $loader-background;
+    background: $loader-background;
 
     @include media-breakpoint-up($max-breakpoint-for-tabbed-interface) {
         position: fixed!important;

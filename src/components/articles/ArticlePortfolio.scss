@@ -52,9 +52,10 @@ div.article-portfolio-item {
 div.article-portfolio-item-avatar {
     width: var(--avatar-size);
     height: var(--avatar-size);
-    border: var(--avatar-border-size) solid var(--theme-boards-background);
+    border: var(--avatar-border-size) solid var(--theme-standard-borders-accent);
     border-radius: 100%;
     font-size: calc(var(--avatar-size)/2.3);
+    box-shadow: 0 4px 14px var(--theme-opacity-border), 0 2px 6px var(--theme-opacity-border-light);
 
     position: absolute;
     top: calc(var(--avatar-size)*-0.13);
@@ -80,16 +81,74 @@ div.article-portfolio-item-title {
     }
 }
 
+/** Portfolio - subheading blocks, light green style, less margin */
+#section-portfolio {
+    div.article-portfolio-item-title {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 4px;
+        margin-top: 4px;
+        margin-bottom: 5px;
+
+        div.article-portfolio-item-title-category {
+            display: inline-block;
+            width: fit-content;
+            background: linear-gradient(135deg, #ecfccb 0%, #bbf7d0 50%, #86efac 100%);
+            color: #14532d;
+            padding: 3px 10px;
+            border-radius: 6px;
+            font-size: 0.94rem;
+            font-weight: bold;
+            margin-top: 4px;
+            margin-bottom: 0;
+            margin-left: 0;
+        }
+    }
+}
+
+/** Portfolio - blue background, white text (matches Education tags) */
+#section-portfolio {
+    li.article-portfolio-item-body-tag {
+        background-color: #2563eb !important;
+        color: #fff !important;
+        border-radius: 9999px;
+
+        &:hover {
+            background-color: #1d4ed8 !important;
+        }
+    }
+}
+
 div.article-portfolio-item-body {
     margin-top: 12px;
     flex-grow: 1;
 
     div.article-portfolio-item-body-description {
-        margin-top: 12px;
         color: var(--theme-texts-light-1);
+
+        span.highlight-portfolio {
+            font-weight: 700;
+            color: #000;
+        }
+    }
+
+    ul.article-portfolio-item-body-tags {
+        margin-top: 12px;
     }
 }
 
 div.article-portfolio-item-footer {
     margin-top: 10px;
+
+    button.circular-button {
+        width: 52px;
+        height: 52px;
+        min-width: 52px;
+        max-width: 52px;
+        min-height: 52px;
+        max-height: 52px;
+        font-size: calc(52px / 2.5);
+    }
 }
